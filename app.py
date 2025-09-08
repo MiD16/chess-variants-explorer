@@ -1,31 +1,3 @@
-"""
-Small GUI app for browsing chess opening variations from text assets.
-
-Features:
-- Loads asset text files from ./openings/*.txt
-- Sidebar tree: Opening -> Variation -> Moves
-- Click a move to set board to that position (plays all prior moves)
-- Left / Right buttons to step one move backward/forward
-- Animated moves over 500 ms duration (adjustable)
-- Capture: captured piece removed during move
-- Draws an arrow for last move
-- Highlights checked king with a red halo
-- Supports castling, promotions, en-passant via python-chess parsing
-
-Asset format example (file contents):
-** Caro-Kann Defence:
-* Classical Variation:
-1. e4 c6
-2. d4 d5
-3. Nc3 dxe4
-...
-----------------------
-* Advance Variation:
-1. e4 c6
-2. d4 d5
-...
-----------------------
-"""
 import os
 import glob
 import tkinter as tk
@@ -34,7 +6,7 @@ from PIL import Image, ImageTk
 import chess
 import re
 
-ASSETS_DIR = "assets"
+OPENINGS_DIR = "openings"
 PIECE_IMGS_DIR = "pieces"  # optional folder with piece images named: wp.png, wn.png, ... bp.png, br.png etc
 ANIM_MS = 500
 ANIM_FRAMES = 25
@@ -61,7 +33,7 @@ PIECE_CODE = {
 }
 
 # --- Parsing assets ---------------------------------------------------------
-def parse_assets(dir_path=ASSETS_DIR):
+def parse_assets(dir_path=OPENINGS_DIR):
     """
     Returns a dict:
       { opening_name: [ { 'name': variation_name, 'moves': [san1, san2, ...], 'ucis': [uci1, ...], 'states': [fen1, fen2,...] } , ... ] , ... }
@@ -457,12 +429,12 @@ class OpeningViewerApp:
     def choose_assets_folder(self):
         path = filedialog.askdirectory(initialdir=".")
         if path:
-            global ASSETS_DIR
-            ASSETS_DIR = path
+            global OPENINGS_DIR
+            OPENINGS_DIR = path
             self.reload_assets()
 
     def reload_assets(self):
-        self.openings = parse_assets(ASSETS_DIR)
+        self.openings = parse_assets(OPENINGS_DIR)
         self.populate_tree()
 
     def populate_tree(self):
