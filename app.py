@@ -389,17 +389,31 @@ class OpeningViewerApp:
         # load assets
         self.openings = parse_assets()
         # left: tree sidebar
-        left_frame = ttk.Frame(master)
+        left_frame = ttk.Frame(master, width=500)
         left_frame.pack(side="left", fill="y")
+        left_frame.pack_propagate(False)  # maintain minimum width
         btn_frame = ttk.Frame(left_frame)
         btn_frame.pack(side="top", fill="x", padx=6, pady=6)
         self.load_btn = ttk.Button(btn_frame, text="Load assets folder...", command=self.choose_assets_folder)
         self.load_btn.pack(side="left", padx=(0,6))
         self.refresh_btn = ttk.Button(btn_frame, text="Refresh", command=self.reload_assets)
         self.refresh_btn.pack(side="left")
-        # treeview
-        self.tree = ttk.Treeview(left_frame)
-        self.tree.pack(side="top", fill="y", expand=True)
+        # treeview with scrollbars
+        tree_frame = ttk.Frame(left_frame)
+        tree_frame.pack(side="top", fill="both", expand=True, padx=6, pady=(0,6))
+        self.tree = ttk.Treeview(tree_frame)
+        # vertical scrollbar
+        v_scrollbar = ttk.Scrollbar(tree_frame, orient="vertical", command=self.tree.yview)
+        self.tree.configure(yscrollcommand=v_scrollbar.set)
+        # horizontal scrollbar
+        h_scrollbar = ttk.Scrollbar(tree_frame, orient="horizontal", command=self.tree.xview)
+        self.tree.configure(xscrollcommand=h_scrollbar.set)
+        # pack scrollbars and tree
+        self.tree.grid(row=0, column=0, sticky="nsew")
+        v_scrollbar.grid(row=0, column=1, sticky="ns")
+        h_scrollbar.grid(row=1, column=0, sticky="ew")
+        tree_frame.grid_rowconfigure(0, weight=1)
+        tree_frame.grid_columnconfigure(0, weight=1)
         self.tree.bind("<<TreeviewSelect>>", self.on_tree_select)
 
         # right: board + controls
