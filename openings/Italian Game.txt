@@ -1,0 +1,1407 @@
+** Italian Game:
+* Classical Variation, Albin Gambit:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. O-O Nf6
+5. c3 
+----------------------------
+* Deutz Gambit:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. O-O Nf6
+5. d4 
+----------------------------
+* Giuoco Pianissimo:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Nf6
+4. O-O Bc5
+5. Nc3 d6
+6. d3 
+----------------------------
+* Giuoco Pianissimo, Canal Variation:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. d3 Nf6
+5. Nc3 d6
+6. Bg5 
+----------------------------
+* Giuoco Pianissimo, Dubois Variation:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. d3 f5
+5. Ng5 f4
+----------------------------
+* Giuoco Pianissimo, Italian Four Knights Variation:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. d3 Nf6
+5. Nc3 
+----------------------------
+* Giuoco Pianissimo, Lucchini Gambit:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. d3 f5
+----------------------------
+* Giuoco Pianissimo, Normal:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Nf6
+4. d3 Bc5
+----------------------------
+* Hungarian Defense, Tartakower Variation:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Be7
+4. d4 exd4
+5. c3 Nf6
+6. e5 Ne4
+----------------------------
+* Evans Gambit:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. b4 Bxb4
+5. c3 Bc5
+6. d4 exd4
+7. O-O d6
+8. cxd4 Bb6
+9. Nc3 Bg4
+----------------------------
+* Evans Gambit Accepted:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. b4 Bxb4
+----------------------------
+* Evans Gambit Declined:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. b4 Bb6
+----------------------------
+* Evans Gambit Declined:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. b4 Bb6
+5. a4 
+----------------------------
+* Evans Gambit Declined, Cordel Variation:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. b4 Bb6
+5. Bb2 
+----------------------------
+* Evans Gambit Declined, Hicken Variation:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. b4 Bb6
+5. b5 Na5
+6. Nxe5 Qg5
+7. Qf3 Qxe5
+8. Qxf7+ Kd8
+9. Bb2 
+----------------------------
+* Evans Gambit Declined, Hirschbach Variation:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. b4 Bb6
+5. b5 Na5
+6. Nxe5 Qg5
+----------------------------
+* Evans Gambit Declined, Lange Variation:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. b4 Bb6
+5. b5 Na5
+6. Nxe5 Nh6
+----------------------------
+* Evans Gambit Declined, Pavlov Variation:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. b4 Bb6
+5. b5 Na5
+6. Nxe5 Nh6
+7. d4 d6
+8. Bxh6 dxe5
+9. Bxg7 Rg8
+10. Bxf7+ Kxf7
+11. Bxe5 Qg5
+12. Nd2 
+----------------------------
+* Evans Gambit Declined, Showalter Variation:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. b4 Bb6
+5. a4 a6
+6. Nc3 
+----------------------------
+* Evans Gambit Declined, Vasquez Variation:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. b4 Bb6
+5. b5 Na5
+6. Nxe5 Qg5
+7. Bxf7+ Ke7
+8. Qh5 
+----------------------------
+* Evans Gambit, Anderssen Variation:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. b4 Bxb4
+5. c3 Be7
+----------------------------
+* Evans Gambit, Anderssen Variation, Cordel Line:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. b4 Bxb4
+5. c3 Be7
+6. d4 Na5
+----------------------------
+* Evans Gambit, Fontaine Countergambit:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. b4 b5
+----------------------------
+* Evans Gambit, Fraser Attack:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. b4 Bxb4
+5. c3 Bc5
+6. d4 exd4
+7. O-O d6
+8. cxd4 Bb6
+9. Nc3 Bg4
+10. Qa4 
+----------------------------
+* Evans Gambit, Fraser-Mortimer Attack:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. b4 Bxb4
+5. c3 Bc5
+6. d4 exd4
+7. O-O d6
+8. cxd4 Bb6
+9. Nc3 Bg4
+10. Qa4 Bd7
+11. Qb3 Na5
+12. Bxf7+ Kf8
+13. Qc2 
+----------------------------
+* Evans Gambit, Göring Attack:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. b4 Bxb4
+5. c3 Bc5
+6. d4 exd4
+7. O-O d6
+8. cxd4 Bb6
+9. Nc3 Na5
+10. Bg5 
+----------------------------
+* Evans Gambit, Harding Variation:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. b4 Bxb4
+5. c3 Bc5
+6. d4 exd4
+7. cxd4 Bb4+
+8. Bd2 
+----------------------------
+* Evans Gambit, Hein Countergambit:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. b4 d5
+----------------------------
+* Evans Gambit, Mayet Defense:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. b4 Bxb4
+5. c3 Bf8
+----------------------------
+* Evans Gambit, McDonnell Defense:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. b4 Bxb4
+5. c3 Bc5
+----------------------------
+* Evans Gambit, McDonnell Defense, Main Line:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. b4 Bxb4
+5. c3 Bc5
+6. d4 exd4
+7. O-O d6
+8. cxd4 Bb6
+----------------------------
+* Evans Gambit, Morphy Attack:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. b4 Bxb4
+5. c3 Ba5
+6. d4 exd4
+7. O-O d6
+8. cxd4 Bb6
+9. Nc3 
+----------------------------
+* Evans Gambit, Mortimer-Evans Gambit:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. b4 Bxb4
+5. c3 Bc5
+6. d4 exd4
+7. O-O d6
+8. cxd4 Bb6
+9. Nc3 Bg4
+10. Qa4 Bd7
+11. Qb3 Na5
+12. Bxf7+ Kf8
+13. Qc2 Kxf7
+----------------------------
+* Evans Gambit, Paulsen Variation:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. b4 Bxb4
+5. c3 Bc5
+6. d4 exd4
+7. O-O d6
+8. cxd4 Bb6
+9. d5 Na5
+10. Bb2 Ne7
+----------------------------
+* Evans Gambit, Steinitz Variation:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. b4 Bxb4
+5. c3 Bc5
+6. d4 exd4
+7. O-O d6
+8. cxd4 Bb6
+9. Nc3 Na5
+10. Bg5 f6
+11. Be3 
+----------------------------
+* Evans Gambit, Stone-Ware Variation:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. b4 Bxb4
+5. c3 Bd6
+----------------------------
+* Evans Gambit, Ulvestad Variation:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. b4 Bxb4
+5. c3 Bc5
+6. d4 exd4
+7. O-O d6
+8. cxd4 Bb6
+9. d5 Na5
+10. Bb2 
+----------------------------
+* Evans Gambit:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. b4 Bxb4
+5. c3 Ba5
+6. O-O d6
+----------------------------
+* Evans Gambit, Alapin-Steinitz Variation:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. b4 Bxb4
+5. c3 Ba5
+6. O-O d6
+7. d4 Bg4
+----------------------------
+* Evans Gambit, Anderssen Defense:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. b4 Bxb4
+5. c3 Ba5
+6. O-O Nf6
+7. d4 exd4
+----------------------------
+* Evans Gambit, Bronstein Defense:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. b4 Bxb4
+5. c3 Ba5
+6. d4 d6
+----------------------------
+* Evans Gambit, Compromised Defense:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. b4 Bxb4
+5. c3 Ba5
+6. d4 exd4
+7. O-O dxc3
+----------------------------
+* Evans Gambit, Compromised Defense, Main Line:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. b4 Bxb4
+5. c3 Ba5
+6. d4 exd4
+7. O-O dxc3
+8. Qb3 Qf6
+9. e5 Qg6
+10. Nxc3 Nge7
+11. Ba3 
+----------------------------
+* Evans Gambit, Compromised Defense, Potter Variation:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. b4 Bxb4
+5. c3 Ba5
+6. d4 exd4
+7. O-O dxc3
+8. Qb3 Qf6
+9. e5 Qg6
+10. Nxc3 Nge7
+11. Rd1 
+----------------------------
+* Evans Gambit, Dufresne Defense:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. b4 Bxb4
+5. c3 Ba5
+6. d4 exd4
+7. O-O d3
+----------------------------
+* Evans Gambit, Johner Defense:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. b4 Bxb4
+5. c3 Ba5
+6. d4 exd4
+7. O-O b5
+----------------------------
+* Evans Gambit, Laroche Variation:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. b4 Bxb4
+5. c3 Ba5
+6. d4 Nf6
+----------------------------
+* Evans Gambit, Lasker Defense:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. b4 Bxb4
+5. c3 Ba5
+6. O-O d6
+7. d4 Bb6
+----------------------------
+* Evans Gambit, Leonhardt Countergambit:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. b4 Bxb4
+5. c3 Ba5
+6. d4 b5
+----------------------------
+* Evans Gambit, Levenfish Variation:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. b4 Bxb4
+5. c3 Ba5
+6. d4 d6
+7. Qb3 Qd7
+8. dxe5 dxe5
+9. O-O Bb6
+10. Ba3 Na5
+11. Nxe5 
+----------------------------
+* Evans Gambit, Main Line:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. b4 Bxb4
+5. c3 Ba5
+----------------------------
+* Evans Gambit, Mieses Defense:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. b4 Bxb4
+5. c3 Ba5
+6. d4 exd4
+7. O-O Nge7
+----------------------------
+* Evans Gambit, Pierce Defense:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. b4 Bxb4
+5. c3 Ba5
+6. d4 exd4
+----------------------------
+* Evans Gambit, Richardson Attack:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. b4 Bxb4
+5. c3 Ba5
+6. O-O Nf6
+7. d4 O-O
+8. Nxe5 
+----------------------------
+* Evans Gambit, Sanders-Alapin Variation:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. b4 Bxb4
+5. c3 Ba5
+6. O-O d6
+7. d4 Bd7
+----------------------------
+* Evans Gambit, Slow Variation:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. b4 Bxb4
+5. c3 Ba5
+6. O-O 
+----------------------------
+* Evans Gambit, Sokolsky Variation:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. b4 Bxb4
+5. c3 Ba5
+6. d4 d6
+7. Bg5 
+----------------------------
+* Evans Gambit, Tartakower Attack:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. b4 Bxb4
+5. c3 Ba5
+6. d4 d6
+7. Qb3 
+----------------------------
+* Evans Gambit, Waller Attack:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. b4 Bxb4
+5. c3 Ba5
+6. d4 exd4
+7. O-O d6
+8. Qb3 
+----------------------------
+* Bird's Attack:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. c3 Nf6
+5. b4 
+----------------------------
+* Classical Variation, Center Holding Variation:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. c3 Qe7
+5. d4 Bb6
+----------------------------
+* Classical Variation, Closed Variation:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. c3 Qe7
+----------------------------
+* Classical Variation, Eisinger Variation:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. c3 Qe7
+5. d4 Bb6
+6. d5 Nb8
+7. d6 
+----------------------------
+* Classical Variation, La Bourdonnais Variation:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. c3 d6
+5. d4 exd4
+6. cxd4 Bb6
+----------------------------
+* Classical Variation, Mestel Variation:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. c3 Qe7
+5. d4 Bb6
+6. Bg5 
+----------------------------
+* Classical Variation, Tarrasch Variation:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. c3 Qe7
+5. d4 Bb6
+6. O-O d6
+7. a4 a6
+8. h3 Nf6
+9. Re1 
+----------------------------
+* Classical Variation:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. c3 Nf6
+----------------------------
+* Classical Variation, Center Attack:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. c3 Nf6
+5. d4 
+----------------------------
+* Classical Variation, Ghulam-Kassim Variation:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. c3 Nf6
+5. d4 exd4
+6. e5 Ne4
+7. Bd5 Nxf2
+8. Kxf2 dxc3+
+9. Kg3 
+----------------------------
+* Classical Variation, Giuoco Pianissimo:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. c3 Nf6
+5. d3 
+----------------------------
+* Classical Variation, Giuoco Pianissimo:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. c3 Nf6
+5. d3 d6
+6. Nbd2 O-O
+7. O-O 
+----------------------------
+* Classical Variation, Giuoco Pianissimo:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. c3 Nf6
+5. d3 d6
+6. O-O O-O
+----------------------------
+* Classical Variation, Giuoco Pianissimo:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. O-O Nf6
+5. d3 h6
+6. c3 
+----------------------------
+* Classical Variation, Giuoco Pianissimo:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. O-O Nf6
+5. d3 d6
+6. c3 a6
+----------------------------
+* Classical Variation, Giuoco Pianissimo, Albin Variation:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. c3 Nf6
+5. d3 d6
+6. b4 
+----------------------------
+* Classical Variation, Giuoco Pianissimo, Main Line:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. c3 Nf6
+5. d3 d6
+6. O-O O-O
+7. Re1 a6
+8. Bb3 Ba7
+9. h3 
+----------------------------
+* Classical Variation, Giuoco Pianissimo, with a5:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. O-O Nf6
+5. d3 a5
+6. c3 
+----------------------------
+* Classical Variation, Giuoco Pianissimo, with a6:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. c3 Nf6
+5. d3 a6
+----------------------------
+* Classical Variation, Giuoco Pianissimo, with a6:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. c3 Nf6
+5. d3 d6
+6. Nbd2 a6
+----------------------------
+* Classical Variation, Giuoco Pianissimo, with d6:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. c3 Nf6
+5. d3 d6
+----------------------------
+* Classical Variation, Giuoco Pianissimo, with h6:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. O-O Nf6
+5. d3 h6
+----------------------------
+* Classical Variation, Giuoco Pianissimo, with h6:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. O-O Nf6
+5. d3 h6
+6. c3 d6
+----------------------------
+* Classical Variation, Greco Gambit:
+1. e4 e5
+2. Nf3 Nc6
+3. d4 exd4
+4. Bc4 Bc5
+5. c3 Nf6
+6. e5 d5
+----------------------------
+* Classical Variation, Greco Gambit, Anderssen Variation:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. c3 Nf6
+5. d4 exd4
+6. e5 d5
+7. Bb5 Ne4
+8. cxd4 Bb4+
+----------------------------
+* Classical Variation, Greco Gambit, Greco Variation:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. c3 Nf6
+5. d4 exd4
+6. cxd4 Bb4+
+7. Nc3 Nxe4
+8. O-O Nxc3
+----------------------------
+* Classical Variation, Greco Gambit, Main Line:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. c3 Nf6
+5. d4 exd4
+6. cxd4 Bb4+
+7. Nc3 Nxe4
+8. O-O Bxc3
+----------------------------
+* Classical Variation, Greco Gambit, Moeller-Bayonet Attack:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. c3 Nf6
+5. d4 exd4
+6. cxd4 Bb4+
+7. Nc3 Nxe4
+8. O-O Bxc3
+9. d5 Bf6
+10. Re1 Ne7
+11. Rxe4 d6
+12. g4 
+----------------------------
+* Classical Variation, Greco Gambit, Moeller-Therkatz Attack:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. c3 Nf6
+5. d4 exd4
+6. cxd4 Bb4+
+7. Nc3 Nxe4
+8. O-O Bxc3
+9. d5 
+----------------------------
+* Classical Variation, Greco Gambit, Traditional Line:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. c3 Nf6
+5. d4 exd4
+6. cxd4 
+----------------------------
+* Giuoco Piano, Aitken Variation:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. c3 Nf6
+5. d4 exd4
+6. cxd4 Bb4+
+7. Nc3 Nxe4
+8. O-O Nxc3
+9. bxc3 Bxc3
+10. Ba3 
+----------------------------
+* Giuoco Piano, Bernstein Variation:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. c3 Nf6
+5. d4 exd4
+6. cxd4 Bb4+
+7. Nc3 Nxe4
+8. O-O Nxc3
+9. bxc3 Bxc3
+10. Qb3 d5
+----------------------------
+* Giuoco Piano, Cracow Variation:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. c3 Nf6
+5. d4 exd4
+6. cxd4 Bb4+
+7. Kf1 
+----------------------------
+* Giuoco Piano, Greco's Attack:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. c3 Nf6
+5. d4 exd4
+6. cxd4 Bb4+
+7. Nc3 
+----------------------------
+* Giuoco Piano, Holzhausen Attack:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Nf6
+4. O-O Bc5
+5. d4 Bxd4
+6. Nxd4 Nxd4
+7. Bg5 d6
+8. f4 Qe7
+9. fxe5 dxe5
+10. Nc3 
+----------------------------
+* Giuoco Piano, Krause Variation:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. c3 Nf6
+5. d4 exd4
+6. cxd4 Bb4+
+7. Bd2 Nxe4
+8. Bxb4 Nxb4
+9. Bxf7+ Kxf7
+10. Qb3+ d5
+11. Ne5+ Kf6
+12. f3 
+----------------------------
+* Giuoco Piano, Rosentreter Variation:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Nf6
+4. O-O Bc5
+5. d4 Bxd4
+6. Nxd4 Nxd4
+7. Bg5 h6
+8. Bh4 g5
+9. f4 
+----------------------------
+* Giuoco Piano, Steinitz Variation:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. c3 Nf6
+5. d4 exd4
+6. cxd4 Bb4+
+7. Nc3 Nxe4
+8. O-O Bxc3
+9. bxc3 d5
+10. Ba3 
+----------------------------
+* Giuoco Piano, Therkatz-Herzog Variation:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. c3 Nf6
+5. d4 exd4
+6. cxd4 Bb4+
+7. Nc3 Nxe4
+8. O-O Bxc3
+9. d5 Bf6
+10. Re1 Ne7
+11. Rxe4 d6
+12. Bg5 Bxg5
+13. Nxg5 O-O
+14. Nxh7 
+----------------------------
+* Two Knights Defense:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Nf6
+4. O-O Bc5
+5. d4 Bxd4
+6. Nxd4 Nxd4
+7. Bg5 d6
+----------------------------
+* Two Knights Defense:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Nf6
+4. Nc3 Nxe4
+5. Nxe4 d5
+----------------------------
+* Two Knights Defense, Modern Bishop's Opening:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Nf6
+4. d3 Be7
+----------------------------
+* Scotch Gambit:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Nf6
+4. d4 exd4
+5. O-O 
+----------------------------
+* Scotch Gambit, Anderssen Attack:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Nf6
+4. d4 exd4
+5. O-O Nxe4
+6. Re1 d5
+7. Bxd5 Qxd5
+8. Nc3 
+----------------------------
+* Scotch Gambit, Anderssen Attack, Main Line:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Nf6
+4. d4 exd4
+5. O-O Nxe4
+6. Re1 d5
+7. Bxd5 Qxd5
+8. Nc3 Qa5
+9. Nxe4 Be6
+10. Bd2 Qd5
+11. Bg5 
+----------------------------
+* Scotch Gambit, Canal Variation:
+1. e4 e5
+2. Nf3 Nc6
+3. d4 exd4
+4. Bc4 Nf6
+5. O-O Nxe4
+6. Re1 d5
+7. Nc3 
+----------------------------
+* Scotch Gambit, Double Gambit Accepted:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Nf6
+4. d4 exd4
+5. O-O Nxe4
+----------------------------
+* Scotch Gambit, Janowski Defense:
+1. e4 e5
+2. Nf3 Nc6
+3. d4 exd4
+4. Bc4 Nf6
+5. O-O d6
+----------------------------
+* Scotch Gambit, Max Lange Attack:
+1. e4 e5
+2. Nf3 Nc6
+3. d4 exd4
+4. Bc4 Nf6
+5. O-O Bc5
+----------------------------
+* Scotch Gambit, Max Lange Attack:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Nf6
+4. d4 exd4
+5. e5 d5
+6. Bb5 Ne4
+----------------------------
+* Scotch Gambit, Max Lange Attack Accepted:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. O-O Nf6
+5. d4 exd4
+6. e5 d5
+7. exf6 dxc4
+8. Re1+ Be6
+9. fxg7 
+----------------------------
+* Scotch Gambit, Max Lange Attack, Long Variation:
+1. e4 e5
+2. Nf3 Nc6
+3. d4 exd4
+4. Bc4 Nf6
+5. O-O Bc5
+6. e5 d5
+7. exf6 dxc4
+8. Re1+ Be6
+9. Ng5 Qd5
+10. Nc3 Qf5
+11. Nce4 
+----------------------------
+* Scotch Gambit, Max Lange Attack, Spielmann Defense:
+1. e4 e5
+2. Nf3 Nc6
+3. d4 exd4
+4. Bc4 Nf6
+5. O-O Bc5
+6. e5 Ng4
+----------------------------
+* Scotch Gambit, Nakhmanson Gambit:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Nf6
+4. d4 exd4
+5. O-O Nxe4
+6. Nc3 
+----------------------------
+* Scotch Gambit, Walbrodt-Baird Gambit:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
+4. c3 Nf6
+5. d4 exd4
+6. O-O 
+----------------------------
+* Scotch Gambit, de Riviere Defense:
+1. e4 e5
+2. Nf3 Nc6
+3. d4 exd4
+4. Bc4 Nf6
+5. O-O Be7
+----------------------------
+* Scotch Invitation Declined:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Nf6
+4. d4 d6
+----------------------------
+* Two Knights Defense, Keidansky Variation:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Nf6
+4. d4 exd4
+5. e5 d5
+6. Bb5 Ne4
+7. Nxd4 Bc5
+8. Nxc6 Bxf2+
+9. Kf1 Qh4
+----------------------------
+* Two Knights Defense, Max Lange Attack:
+1. e4 e5
+2. Nf3 Nc6
+3. d4 exd4
+4. Bc4 Nf6
+5. O-O Bc5
+6. e5 
+----------------------------
+* Two Knights Defense, Max Lange Attack, Berger Variation:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Nf6
+4. d4 exd4
+5. O-O Bc5
+6. e5 d5
+7. exf6 dxc4
+8. Re1+ Be6
+9. Ng5 Qd5
+10. Nc3 Qf5
+11. g4 Qg6
+12. Nce4 Bb6
+13. f4 O-O-O
+----------------------------
+* Two Knights Defense, Max Lange Attack, Krause Variation:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Nf6
+4. d4 exd4
+5. O-O Bc5
+6. e5 Ng4
+7. c3 
+----------------------------
+* Two Knights Defense, Max Lange Attack, Loman Defense:
+1. e4 e5
+2. Nf3 Nc6
+3. d4 exd4
+4. Bc4 Bc5
+5. O-O Nf6
+6. e5 d5
+7. exf6 dxc4
+8. Re1+ Be6
+9. Ng5 g6
+----------------------------
+* Two Knights Defense, Max Lange Attack, Rubinstein Variation:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Nf6
+4. d4 exd4
+5. O-O Bc5
+6. e5 d5
+7. exf6 dxc4
+8. Re1+ Be6
+9. Ng5 Qd5
+10. Nc3 Qf5
+11. Nce4 Bf8
+----------------------------
+* Two Knights Defense, Perreux Variation:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Nf6
+4. d4 exd4
+5. Ng5 
+----------------------------
+* Two Knights Defense, Yurdansky Attack:
+1. e4 e5
+2. Nf3 Nc6
+3. d4 exd4
+4. Bc4 Nf6
+5. O-O Nxe4
+6. Re1 d5
+7. Bxd5 Qxd5
+8. Nc3 Qa5
+9. Nxe4 Be6
+10. Bg5 h6
+11. Bh4 g5
+12. Nf6+ Ke7
+13. b4 
+----------------------------
+* Two Knights Defense, Fegatello Attack, Leonhardt Variation:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Nf6
+4. Ng5 d5
+5. exd5 Nxd5
+6. Nxf7 Kxf7
+7. Qf3+ Ke6
+8. Nc3 Nb4
+9. Qe4 c6
+10. a3 Na6
+11. d4 Nc7
+----------------------------
+* Two Knights Defense, Fried Liver Attack:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Nf6
+4. Ng5 d5
+5. exd5 Nxd5
+6. Nxf7 
+----------------------------
+* Two Knights Defense, Fritz Variation:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Nf6
+4. Ng5 d5
+5. exd5 Nd4
+----------------------------
+* Two Knights Defense, Fritz, Gruber Variation:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Nf6
+4. Ng5 d5
+5. exd5 Nd4
+6. c3 b5
+7. Bf1 Nxd5
+8. Ne4 
+----------------------------
+* Two Knights Defense, Kloss Gambit:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Nf6
+4. Ng5 d5
+5. exd5 Nb4
+----------------------------
+* Two Knights Defense, Knight Attack, Normal Variation:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Nf6
+4. Ng5 d5
+----------------------------
+* Two Knights Defense, Lolli Attack:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Nf6
+4. Ng5 d5
+5. exd5 Nxd5
+6. d4 
+----------------------------
+* Two Knights Defense, Pincus Variation:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Nf6
+4. Ng5 d5
+5. exd5 Nxd5
+6. d4 Bb4+
+----------------------------
+* Two Knights Defense, Ponziani-Steinitz Gambit:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Nf6
+4. Ng5 Nxe4
+----------------------------
+* Two Knights Defense, Traxler Counterattack:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Nf6
+4. Ng5 Bc5
+----------------------------
+* Two Knights Defense, Traxler Counterattack, Bishop Sacrifice Line:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Nf6
+4. Ng5 Bc5
+5. Bxf7+ 
+----------------------------
+* Two Knights Defense, Traxler Counterattack, King March Line:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Nf6
+4. Ng5 Bc5
+5. Nxf7 Bxf2+
+6. Kxf2 Nxe4+
+7. Ke3 
+----------------------------
+* Two Knights Defense, Traxler Counterattack, Knight Sacrifice Line:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Nf6
+4. Ng5 Bc5
+5. Nxf7 
+----------------------------
+* Two Knights Defense, Traxler Variation, Trencianske-Teplice Gambit:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Nf6
+4. Ng5 Bc5
+5. Bxf7+ Ke7
+6. d4 
+----------------------------
+* Two Knights Defense, Ulvestad Variation:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Nf6
+4. Ng5 d5
+5. exd5 b5
+----------------------------
+* Two Knights Defense, Ulvestad Variation, Kurkin Gambit:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Nf6
+4. Ng5 d5
+5. exd5 b5
+6. Bf1 h6
+7. Nxf7 
+----------------------------
+* Two Knights Defense:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Nf6
+4. Ng5 d5
+5. exd5 Na5
+6. Bb5+ c6
+7. dxc6 bxc6
+8. Be2 
+----------------------------
+* Two Knights Defense, Blackburne Variation:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Nf6
+4. Ng5 d5
+5. exd5 Na5
+6. Bb5+ c6
+7. dxc6 bxc6
+8. Qf3 cxb5
+----------------------------
+* Two Knights Defense, Colman Variation:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Nf6
+4. Ng5 d5
+5. exd5 Na5
+6. Bb5+ c6
+7. dxc6 bxc6
+8. Qf3 Rb8
+----------------------------
+* Two Knights Defense, Maróczy Variation:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Nf6
+4. Ng5 d5
+5. exd5 Na5
+6. d3 h6
+7. Nf3 e4
+8. Qe2 Nxc4
+9. dxc4 Be7
+----------------------------
+* Two Knights Defense, Paoli Variation:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Nf6
+4. Ng5 d5
+5. exd5 Na5
+6. Bb5+ c6
+7. dxc6 bxc6
+8. Qf3 Qc7
+9. Bd3 
+----------------------------
+* Two Knights Defense, Polerio Defense:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Nf6
+4. Ng5 d5
+5. exd5 Na5
+----------------------------
+* Two Knights Defense, Polerio Defense, Bishop Check Line:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Nf6
+4. Ng5 d5
+5. exd5 Na5
+6. Bb5+ 
+----------------------------
+* Two Knights Defense, Polerio Defense, Bogoljubow Variation:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Nf6
+4. Ng5 d5
+5. exd5 Na5
+6. Bb5+ c6
+7. dxc6 bxc6
+8. Qf3 
+----------------------------
+* Two Knights Defense, Polerio Defense, Kieseritzky Variation:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Nf6
+4. Ng5 d5
+5. exd5 Na5
+6. d3 
+----------------------------
+* Two Knights Defense, Polerio Defense, Yankovich Variation:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Nf6
+4. Ng5 d5
+5. exd5 Na5
+6. d3 h6
+7. Nf3 e4
+8. Qe2 Nxc4
+9. dxc4 Bc5
+10. Nfd2 
+----------------------------
+* Two Knights Defense, Knorre Variation:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Nf6
+4. Ng5 d5
+5. exd5 Na5
+6. Bb5+ c6
+7. dxc6 bxc6
+8. Be2 h6
+9. Nf3 e4
+10. Ne5 Bd6
+11. d4 Qc7
+12. Bd2 
+----------------------------
+* Two Knights Defense, Polerio Defense, Göring Variation:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Nf6
+4. Ng5 d5
+5. exd5 Na5
+6. Bb5+ c6
+7. dxc6 bxc6
+8. Be2 h6
+9. Nf3 e4
+10. Ne5 Qc7
+----------------------------
+* Two Knights Defense, Polerio Defense, Suhle Defense:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Nf6
+4. Ng5 d5
+5. exd5 Na5
+6. Bb5+ c6
+7. dxc6 bxc6
+8. Be2 h6
+----------------------------
+* Two Knights Defense, Steinitz Variation:
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Nf6
+4. Ng5 d5
+5. exd5 Na5
+6. Bb5+ c6
+7. dxc6 bxc6
+8. Be2 h6
+9. Nh3 
+----------------------------

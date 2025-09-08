@@ -1,0 +1,249 @@
+** Dutch Defense:
+* Leningrad, Basman System:
+1. d4 f5
+2. g3 c6
+3. Bg2 g6
+4. Nf3 Bg7
+5. O-O Nh6
+----------------------------
+* Staunton Gambit, Alekhine Variation:
+1. d4 f5
+2. e4 fxe4
+3. Nc3 Nf6
+4. Bg5 g6
+5. h4 
+----------------------------
+* Staunton Gambit, Chigorin Variation:
+1. d4 f5
+2. e4 fxe4
+3. Nc3 Nf6
+4. Bg5 c6
+----------------------------
+* Staunton Gambit, Lasker Variation:
+1. d4 f5
+2. e4 fxe4
+3. Nc3 Nf6
+4. Bg5 g6
+5. f3 
+----------------------------
+* Staunton Gambit, Nimzowitsch Variation:
+1. d4 f5
+2. e4 fxe4
+3. Nc3 Nf6
+4. Bg5 b6
+----------------------------
+* Krause Variation:
+1. d4 f5
+2. c4 Nf6
+3. Nc3 d6
+4. Nf3 Nc6
+----------------------------
+* Hort-Antoshin System:
+1. d4 f5
+2. c4 Nf6
+3. g3 d6
+4. Bg2 c6
+5. Nc3 Qc7
+----------------------------
+* Leningrad Variation:
+1. d4 f5
+2. c4 Nf6
+3. g3 g6
+4. Bg2 Bg7
+5. Nf3 
+----------------------------
+* Leningrad Variation, Warsaw Variation:
+1. d4 f5
+2. g3 Nf6
+3. Bg2 g6
+4. Nf3 Bg7
+5. O-O O-O
+6. c4 d6
+7. Nc3 c6
+----------------------------
+* Leningrad Variation, Matulovic Variation:
+1. d4 f5
+2. g3 Nf6
+3. Bg2 g6
+4. Nf3 Bg7
+5. O-O O-O
+6. c4 d6
+7. Nc3 Nc6
+----------------------------
+* Classical Variation:
+1. d4 f5
+2. c4 Nf6
+3. g3 e6
+4. Bg2 d5
+5. Nf3 
+----------------------------
+* Nimzo-Dutch Variation:
+1. d4 f5
+2. c4 Nf6
+3. g3 e6
+4. Bg2 Bb4+
+----------------------------
+* Nimzo-Dutch Variation, Alekhine Variation:
+1. d4 f5
+2. c4 Nf6
+3. g3 e6
+4. Bg2 Bb4+
+5. Bd2 Be7
+----------------------------
+* Stonewall Variation, Modern Variation:
+1. d4 f5
+2. c4 e6
+3. Nf3 Nf6
+4. g3 c6
+5. Bg2 d5
+6. O-O Bd6
+----------------------------
+* Classical Variation:
+1. d4 f5
+2. c4 Nf6
+3. g3 e6
+4. Bg2 Be7
+----------------------------
+* Classical Variation, Blackburne Attack:
+1. d4 f5
+2. c4 Nf6
+3. g3 e6
+4. Bg2 Be7
+5. Nh3 
+----------------------------
+* Alekhine Variation:
+1. d4 f5
+2. c4 Nf6
+3. g3 e6
+4. Bg2 Be7
+5. Nf3 O-O
+6. O-O Ne4
+----------------------------
+* Classical Variation:
+1. d4 f5
+2. c4 Nf6
+3. g3 e6
+4. Bg2 Be7
+5. Nf3 O-O
+----------------------------
+* Stonewall Variation:
+1. d4 f5
+2. c4 Nf6
+3. g3 e6
+4. Bg2 Be7
+5. Nf3 O-O
+6. O-O d5
+7. Nc3 
+----------------------------
+* Stonewall Variation:
+1. d4 f5
+2. c4 Nf6
+3. g3 e6
+4. Bg2 Be7
+5. Nf3 O-O
+6. O-O d5
+----------------------------
+* Stonewall Variation, Botvinnik Variation:
+1. d4 f5
+2. c4 Nf6
+3. g3 e6
+4. Bg2 Be7
+5. Nf3 O-O
+6. O-O d5
+7. b3 
+----------------------------
+* Stonewall Variation:
+1. d4 f5
+2. c4 Nf6
+3. g3 e6
+4. Bg2 Be7
+5. Nf3 O-O
+6. O-O d5
+7. b3 c6
+8. Ba3 
+----------------------------
+* Stonewall Variation:
+1. d4 f5
+2. c4 Nf6
+3. g3 e6
+4. Bg2 Be7
+5. Nf3 O-O
+6. O-O d5
+7. Nc3 c6
+----------------------------
+* Stonewall Variation, Chekhover Variation:
+1. d4 f5
+2. c4 Nf6
+3. g3 e6
+4. Bg2 Be7
+5. Nf3 O-O
+6. O-O d5
+7. Nc3 c6
+8. Qc2 Qe8
+9. Bg5 
+----------------------------
+* Classical Variation:
+1. d4 f5
+2. c4 Nf6
+3. g3 e6
+4. Bg2 Be7
+5. Nf3 O-O
+6. O-O d6
+----------------------------
+* Classical Variation, Buenos Aires Variation:
+1. d4 f5
+2. c4 Nf6
+3. g3 e6
+4. Bg2 Be7
+5. Nf3 O-O
+6. O-O d6
+7. Nc3 a5
+----------------------------
+* Classical Variation, Huisl Variation:
+1. d4 f5
+2. c4 Nf6
+3. g3 e6
+4. Bg2 Be7
+5. Nf3 O-O
+6. O-O d6
+7. Nc3 Ne4
+----------------------------
+* Classical Variation, Ilyin-Zhenevsky Variation:
+1. d4 f5
+2. c4 Nf6
+3. g3 e6
+4. Bg2 Be7
+5. Nf3 O-O
+6. O-O d6
+7. Nc3 Qe8
+----------------------------
+* Classical Variation, Ilyin-Zhenevsky Variation, Winter Variation:
+1. d4 f5
+2. c4 Nf6
+3. g3 e6
+4. Bg2 Be7
+5. Nf3 O-O
+6. O-O d6
+7. Nc3 Qe8
+8. Re1 
+----------------------------
+* Classical Variation, Ilyin-Zhenevsky Variation, Alatortsev-Lisitsyn Line:
+1. d4 f5
+2. c4 Nf6
+3. g3 e6
+4. Bg2 Be7
+5. Nf3 O-O
+6. O-O d6
+7. Nc3 Qe8
+8. Qc2 
+----------------------------
+* Classical Variation, Ilyin-Zhenevsky Variation, Modern Main Line:
+1. d4 f5
+2. c4 Nf6
+3. g3 e6
+4. Bg2 Be7
+5. Nf3 O-O
+6. O-O d6
+7. Nc3 Qe8
+8. b3 
+----------------------------

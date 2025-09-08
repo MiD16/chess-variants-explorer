@@ -1,0 +1,723 @@
+** Nimzo-Indian Defense:
+* Romanishin Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. Nf3 c5
+5. g3 O-O
+6. Bg2 
+----------------------------
+* Romanishin Variation, English Hybrid:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. Nf3 c5
+5. g3 cxd4
+6. Nxd4 O-O
+7. Bg2 d5
+8. cxd5 Nxd5
+----------------------------
+* Three Knights Variation, Euwe Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. Nf3 c5
+5. d5 Ne4
+----------------------------
+* Three Knights Variation, Korchnoi Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. Nf3 c5
+5. d5 
+----------------------------
+* Three Knights Variation, Shocron Gambit:
+1. d4 Nf6
+2. c4 e6
+3. Nf3 Bb4+
+4. Nc3 c5
+5. d5 b5
+----------------------------
+* Spielmann Variation, Carlsbad Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. Qb3 c5
+5. dxc5 Nc6
+6. Nf3 Ne4
+7. Bd2 Nxd2
+----------------------------
+* Spielmann Variation, Romanovsky Gambit:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. Qb3 c5
+5. dxc5 Nc6
+----------------------------
+* Spielmann Variation, Stahlberg Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. Qb3 c5
+5. dxc5 Nc6
+6. Nf3 Ne4
+7. Bd2 Nxc5
+----------------------------
+* Spielmann Variation, Stahlberg Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. Qb3 c5
+5. dxc5 Nc6
+6. Nf3 Ne4
+7. Bd2 Nxc5
+8. Qc2 f5
+9. g3 
+----------------------------
+* Sämisch Variation, Botvinnik Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. f3 d5
+5. a3 Bxc3+
+6. bxc3 c5
+7. e3 O-O
+8. cxd5 Nxd5
+----------------------------
+* Sämisch Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. f3 d5
+5. a3 Bxc3+
+6. bxc3 c5
+7. cxd5 
+----------------------------
+* Sämisch Variation, Keres Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. f3 d5
+5. a3 Bxc3+
+6. bxc3 c5
+7. cxd5 Nxd5
+8. dxc5 
+----------------------------
+* Sämisch Variation, Romanovsky Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. f3 d5
+5. a3 Bxc3+
+6. bxc3 c5
+7. cxd5 Nxd5
+8. dxc5 f5
+----------------------------
+* Sämisch Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. a3 Bxc3+
+5. bxc3 c5
+6. e3 
+----------------------------
+* Sämisch Variation, O'Kelly Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. a3 Bxc3+
+5. bxc3 c5
+6. e3 b6
+----------------------------
+* Sämisch Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. a3 Bxc3+
+5. bxc3 O-O
+----------------------------
+* Sämisch Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. e3 O-O
+5. a3 Bxc3+
+6. bxc3 
+----------------------------
+* Sämisch Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. e3 c5
+5. Bd3 Nc6
+6. a3 Bxc3+
+7. bxc3 O-O
+----------------------------
+* Sämisch Variation, Capablanca Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. e3 c5
+5. Bd3 Nc6
+6. a3 Bxc3+
+7. bxc3 O-O
+8. Ne2 b6
+9. e4 Ne8
+----------------------------
+* Leningrad Variation, Averbakh Gambit:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. Bg5 h6
+5. Bh4 c5
+6. d5 b5
+----------------------------
+* Leningrad Variation, Benoni Defense:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. Bg5 h6
+5. Bh4 c5
+6. d5 d6
+----------------------------
+* Classical Variation, Keres Defense:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. Qc2 O-O
+5. a3 Bxc3+
+6. Qxc3 b6
+----------------------------
+* Classical Variation, Vitolins-Adorjan Gambit:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. Qc2 O-O
+5. a3 Bxc3+
+6. Qxc3 b5
+----------------------------
+* Classical Variation, Milner-Barry Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. Qc2 Nc6
+5. Nf3 d6
+----------------------------
+* Classical Variation, Zurich Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. Qc2 Nc6
+----------------------------
+* Classical Variation, Belyavsky Gambit:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. Qc2 d5
+5. cxd5 Qxd5
+6. Nf3 Qf5
+7. Qd1 e5
+----------------------------
+* Classical Variation, Noa Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. Qc2 d5
+----------------------------
+* Classical Variation, Noa Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. Qc2 d5
+5. cxd5 exd5
+----------------------------
+* Classical Variation, Noa Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. Qc2 d5
+5. a3 
+----------------------------
+* Classical Variation, Noa Variation, Botvinnik Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. Qc2 d5
+5. a3 Bxc3+
+6. Qxc3 Nc6
+----------------------------
+* Classical Variation, Noa Variation, Main Line:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. Qc2 d5
+5. a3 Bxc3+
+6. Qxc3 Ne4
+----------------------------
+* Classical Variation, Romanishin Gambit:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. Qc2 d5
+5. a3 Bxc3+
+6. Qxc3 c5
+----------------------------
+* Classical Variation, Modern Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. Qc2 d5
+5. a3 Bxc3+
+6. Qxc3 Ne4
+7. Qc2 c5
+----------------------------
+* Classical Variation, Noa Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. Qc2 d5
+5. a3 Bxc3+
+6. Qxc3 Ne4
+7. Qc2 
+----------------------------
+* Classical Variation, Noa Variation, San Remo Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. Qc2 d5
+5. a3 Bxc3+
+6. Qxc3 Ne4
+7. Qc2 Nc6
+8. e3 e5
+----------------------------
+* Classical Variation, Berlin Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. Qc2 c5
+----------------------------
+* Classical Variation, Berlin Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. Qc2 O-O
+5. e3 d5
+6. Nf3 c5
+----------------------------
+* Classical Variation, Berlin Variation, Steiner Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. Qc2 c5
+5. dxc5 Bxc3+
+----------------------------
+* Classical Variation, Berlin Variation, Macieja System:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. Qc2 c5
+5. dxc5 O-O
+6. a3 Bxc5
+7. Nf3 b6
+----------------------------
+* Classical Variation, Berlin Variation, Pirc Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. Qc2 c5
+5. dxc5 O-O
+----------------------------
+* Rubinstein System, Taimanov Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. e3 Nc6
+----------------------------
+* Rubinstein System:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. e3 c5
+----------------------------
+* Rubinstein System, Hübner Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. e3 c5
+5. Bd3 Nc6
+6. Nf3 Bxc3+
+7. bxc3 d6
+----------------------------
+* Rubinstein System, Hübner Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. e3 c5
+5. Bd3 Nc6
+6. Nf3 Bxc3+
+7. bxc3 d6
+8. O-O O-O
+----------------------------
+* Rubinstein System, Rubinstein Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. e3 c5
+5. Ne2 
+----------------------------
+* Rubinstein System, Rubinstein Variation, Main Line:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. e3 c5
+5. Ne2 cxd4
+6. exd4 O-O
+7. a3 
+----------------------------
+* Rubinstein System, Rubinstein Variation, Sherbakov Attack:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. e3 c5
+5. Ne2 cxd4
+6. exd4 O-O
+7. c5 
+----------------------------
+* St. Petersburg Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. e3 b6
+----------------------------
+* St. Petersburg Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. e3 b6
+5. Bd3 Bb7
+6. Nf3 
+----------------------------
+* St. Petersburg Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. e3 b6
+5. Bd3 Bb7
+6. Nf3 O-O
+----------------------------
+* St. Petersburg Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. e3 b6
+5. Bd3 Bb7
+6. Nf3 O-O
+7. O-O 
+----------------------------
+* St. Petersburg Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. e3 b6
+5. Bd3 Bb7
+6. Nf3 O-O
+7. O-O c5
+----------------------------
+* St. Petersburg Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. e3 b6
+5. Bd3 Bb7
+6. Nf3 O-O
+7. O-O c5
+8. Na4 cxd4
+9. a3 Be7
+----------------------------
+* St. Petersburg Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. e3 Ne4
+5. Qc2 f5
+6. Nf3 b6
+7. Bd3 Bb7
+----------------------------
+* St. Petersburg Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. e3 O-O
+5. Bd3 c5
+6. Nf3 b6
+7. O-O Bb7
+8. Na4 Qe7
+----------------------------
+* St. Petersburg Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. Nf3 Bxc3+
+5. bxc3 b6
+6. e3 Bb7
+7. Bd3 O-O
+8. O-O 
+----------------------------
+* St. Petersburg Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. Nf3 b6
+5. e3 Ne4
+6. Qc2 
+----------------------------
+* St. Petersburg Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. Nf3 b6
+5. e3 Ne4
+6. Qc2 Bb7
+7. Bd3 Bxc3+
+8. bxc3 f5
+9. O-O 
+----------------------------
+* St. Petersburg Variation, with Ne4:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. e3 b6
+5. Bd3 Bb7
+6. Nf3 Ne4
+----------------------------
+* St. Petersburg Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. e3 b6
+5. Ne2 
+----------------------------
+* St. Petersburg Variation, American Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. e3 b6
+5. Ne2 Ne4
+----------------------------
+* St. Petersburg Variation, Romanishin–Psakhis Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. e3 b6
+5. Ne2 c5
+6. a3 Ba5
+----------------------------
+* St. Petersburg Variation, Fischer Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. e3 b6
+5. Ne2 Ba6
+----------------------------
+* Normal Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. e3 O-O
+----------------------------
+* Reshevsky Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. e3 O-O
+5. Ne2 
+----------------------------
+* Simagin Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. e3 O-O
+5. Ne2 d5
+6. a3 Bd6
+----------------------------
+* Normal Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. e3 O-O
+5. Bd3 
+----------------------------
+* Normal Variation, Classical Defense:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. e3 O-O
+5. Bd3 d5
+----------------------------
+* Ragozin Defense:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. e3 O-O
+5. Bd3 d5
+6. Nf3 Nc6
+7. O-O 
+----------------------------
+* Normal Variation, Botvinnik System:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. e3 O-O
+5. Bd3 d5
+6. a3 Bxc3+
+7. bxc3 
+----------------------------
+* Nimzo-Indian Defense:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. e3 O-O
+5. Nf3 
+----------------------------
+* Normal Variation, Ragozin Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. e3 O-O
+5. Nf3 d5
+----------------------------
+* Normal Variation, Sämisch Deferred:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. e3 O-O
+5. Nf3 d5
+6. a3 
+----------------------------
+* Ragozin Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. e3 O-O
+5. Bd3 d5
+6. Nf3 Nc6
+7. O-O dxc4
+----------------------------
+* Normal Variation, Schlechter Defense:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. e3 O-O
+5. Bd3 d5
+6. Nf3 b6
+----------------------------
+* Normal Variation, Schlechter Defense:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. e3 b6
+5. Bd3 Bb7
+6. Nf3 O-O
+7. O-O d5
+----------------------------
+* Normal Variation, Gligoric System:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. e3 O-O
+5. Bd3 d5
+6. Nf3 c5
+----------------------------
+* Normal Variation, Gligoric System:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. e3 O-O
+5. Bd3 d5
+6. Nf3 c5
+7. O-O Nbd7
+----------------------------
+* Normal Variation, Gligoric System, Keres Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. e3 O-O
+5. Bd3 d5
+6. Nf3 c5
+7. O-O b6
+----------------------------
+* Normal Variation, Gligoric System, Exchange Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. e3 O-O
+5. Bd3 d5
+6. Nf3 c5
+7. O-O dxc4
+8. Bxc4 
+----------------------------
+* Normal Variation, Gligoric System, Smyslov Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. e3 O-O
+5. Bd3 d5
+6. Nf3 c5
+7. O-O dxc4
+8. Bxc4 Qe7
+----------------------------
+* Normal Variation, Gligoric System, Bronstein Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. e3 O-O
+5. Bd3 d5
+6. Nf3 c5
+7. O-O dxc4
+8. Bxc4 Nbd7
+----------------------------
+* Normal Variation, Gligoric System, Bernstein Defense:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. e3 O-O
+5. Bd3 d5
+6. Nf3 c5
+7. O-O Nc6
+----------------------------
+* Normal Variation, Bernstein Defense, Exchange Line:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. e3 O-O
+5. Bd3 d5
+6. Nf3 c5
+7. O-O Nc6
+8. a3 Bxc3
+9. bxc3 
+----------------------------
+* Normal Variation, Bernstein Defense:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. e3 O-O
+5. Bd3 d5
+6. Nf3 c5
+7. O-O Nc6
+8. a3 Bxc3
+9. bxc3 dxc4
+10. Bxc4 
+----------------------------
+* Normal Variation, Bernstein Defense:
+1. d4 Nf6
+2. c4 e6
+3. Nc3 Bb4
+4. e3 O-O
+5. Bd3 d5
+6. a3 Bxc3+
+7. bxc3 dxc4
+8. Bxc4 c5
+9. Nf3 Nc6
+10. O-O Qc7
+11. Qc2 
+----------------------------

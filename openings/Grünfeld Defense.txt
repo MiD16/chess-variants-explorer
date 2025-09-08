@@ -1,0 +1,7 @@
+** Grünfeld Defense:
+* Counterthrust Variation:
+1. d4 Nf6
+2. c4 g6
+3. g3 Bg7
+4. Bg2 d5
+----------------------------

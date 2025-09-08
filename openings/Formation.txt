@@ -1,0 +1,19 @@
+** Formation:
+* Hippopotamus Attack:
+1. a3 e5
+2. b3 d5
+3. c3 Nf6
+4. d3 Nc6
+5. e3 Bd6
+6. f3 O-O
+7. g3 
+----------------------------
+* Shy Attack:
+1. a3 e5
+2. g3 d5
+3. Bg2 Nf6
+4. d3 Nc6
+5. Nd2 Bd6
+6. e3 O-O
+7. h3 
+----------------------------

@@ -1,0 +1,200 @@
+** Philidor Defense:
+* Albin-Blackburne Gambit:
+1. e4 e5
+2. Nf3 d6
+3. d4 Bg4
+4. dxe5 Nd7
+----------------------------
+* Berger Variation:
+1. e4 e5
+2. Nf3 d6
+3. d4 exd4
+4. Nxd4 Nf6
+5. Nc3 Be7
+6. Be2 O-O
+7. O-O c5
+8. Nf3 Nc6
+9. Bg5 Be6
+10. Re1 
+----------------------------
+* Boden Variation:
+1. e4 e5
+2. Nf3 d6
+3. d4 exd4
+4. Qxd4 Bd7
+----------------------------
+* Exchange Variation:
+1. e4 e5
+2. Nf3 d6
+3. d4 exd4
+4. Nxd4 Nf6
+----------------------------
+* Hanham Variation, Delmar Variation:
+1. e4 e5
+2. Nf3 d6
+3. d4 Nd7
+4. Bc4 c6
+5. c3 
+----------------------------
+* Hanham Variation, Krause Variation:
+1. e4 e5
+2. Nf3 d6
+3. d4 Nd7
+4. Bc4 c6
+5. O-O 
+----------------------------
+* Hanham Variation, Schlechter Variation:
+1. e4 e5
+2. Nf3 d6
+3. d4 Nd7
+4. Bc4 c6
+5. Nc3 
+----------------------------
+* Hanham Variation, Sharp Variation:
+1. e4 e5
+2. Nf3 d6
+3. d4 Nd7
+4. Bc4 Nb6
+----------------------------
+* Hanham Variation, Steiner Variation:
+1. e4 e5
+2. Nf3 d6
+3. d4 Nd7
+4. Bc4 c6
+5. O-O Be7
+6. dxe5 
+----------------------------
+* Hanham, Kmoch Variation:
+1. e4 e5
+2. Nf3 d6
+3. d4 Nd7
+4. Bc4 c6
+5. Ng5 
+----------------------------
+* Larsen Variation:
+1. e4 e5
+2. Nf3 d6
+3. d4 exd4
+4. Nxd4 g6
+----------------------------
+* Lion Variation:
+1. e4 e5
+2. Nf3 d6
+3. d4 Nf6
+4. Nc3 Nbd7
+----------------------------
+* Lion Variation, Bishop Sacrifice:
+1. e4 e5
+2. Nf3 d6
+3. d4 Nf6
+4. Nc3 Nbd7
+5. Bc4 Be7
+6. Bxf7+ 
+----------------------------
+* Lion Variation, Delayed Bishop Sacrifice:
+1. e4 d6
+2. d4 Nf6
+3. Nc3 Nbd7
+4. Nf3 e5
+5. Bc4 Be7
+6. dxe5 dxe5
+7. Bxf7+ 
+----------------------------
+* Lion Variation, Forcing Line:
+1. e4 e5
+2. Nf3 d6
+3. d4 Nf6
+4. Nc3 Nbd7
+5. Bc4 Be7
+6. Ng5 O-O
+7. Bxf7+ Rxf7
+8. Ne6 
+----------------------------
+* Lion Variation, Lion's Claw, with Bc4 and h6:
+1. e4 e5
+2. Nf3 d6
+3. d4 Nf6
+4. Nc3 Nbd7
+5. Bc4 Be7
+6. O-O h6
+----------------------------
+* Lion Variation, Lion's Claw, with Be2 and c6:
+1. e4 e5
+2. Nf3 d6
+3. d4 Nf6
+4. Nc3 Nbd7
+5. Be2 Be7
+6. O-O c6
+----------------------------
+* Lion Variation, Shirov Gambit:
+1. e4 e5
+2. Nf3 d6
+3. d4 Nd7
+4. Nc3 Ngf6
+5. g4 
+----------------------------
+* Lion Variation, Sozin Variation:
+1. e4 d6
+2. d4 Nf6
+3. Nc3 e5
+4. Nf3 Nbd7
+5. Bc4 Be7
+6. O-O O-O
+7. Qe2 c6
+8. a4 exd4
+----------------------------
+* Lopez Countergambit, Jaenisch Variation:
+1. e4 e5
+2. Nf3 d6
+3. d4 f5
+4. Bc4 exd4
+5. Ng5 Nh6
+6. Nxh7 
+----------------------------
+* Nimzowitsch Variation, Rellstab Variation:
+1. e4 e5
+2. Nf3 d6
+3. d4 Nf6
+4. dxe5 Nxe4
+5. Qd5 
+----------------------------
+* Nimzowitsch Variation, Sokolsky Variation:
+1. e4 e5
+2. Nf3 d6
+3. d4 Nf6
+4. dxe5 Nxe4
+5. Nbd2 
+----------------------------
+* Nimzowitsch, Larobok Variation:
+1. e4 e5
+2. Nf3 d6
+3. d4 Nf6
+4. Nc3 Nbd7
+5. Bc4 Be7
+6. Ng5 O-O
+7. Bxf7+ 
+----------------------------
+* Paulsen Attack:
+1. e4 e5
+2. Nf3 d6
+3. d4 exd4
+4. Nxd4 d5
+5. exd5 
+----------------------------
+* Philidor Countergambit, Berger Variation:
+1. e4 e5
+2. Nf3 d6
+3. d4 f5
+4. dxe5 fxe4
+5. Ng5 d5
+6. e6 Bc5
+7. Nc3 
+----------------------------
+* Philidor Countergambit, del Rio Attack:
+1. e4 e5
+2. Nf3 d6
+3. d4 f5
+4. dxe5 fxe4
+5. Ng5 d5
+6. e6 
+----------------------------

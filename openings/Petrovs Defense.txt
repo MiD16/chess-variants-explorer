@@ -1,0 +1,272 @@
+** Petrov's Defense:
+* Petrov's Defense:
+1. e4 e5
+2. Nf3 Nf6
+3. Nxe5 d6
+4. Nf3 Nxe4
+----------------------------
+* Classical Attack:
+1. e4 e5
+2. Nf3 Nf6
+3. Nxe5 d6
+4. Nf3 Nxe4
+5. d4 
+----------------------------
+* Classical Attack, Berger Variation:
+1. e4 e5
+2. Nf3 Nf6
+3. Nxe5 d6
+4. Nf3 Nxe4
+5. d4 d5
+6. Bd3 Be7
+7. O-O Nc6
+8. Re1 Bg4
+9. c3 f5
+10. Nbd2 
+----------------------------
+* Classical Attack, Chigorin Variation:
+1. e4 e5
+2. Nf3 Nf6
+3. Nxe5 d6
+4. Nf3 Nxe4
+5. d4 d5
+6. Bd3 Be7
+7. O-O Nc6
+8. Re1 
+----------------------------
+* Classical Attack, Chigorin Variation, Browne Attack:
+1. e4 e5
+2. Nf3 Nf6
+3. Nxe5 d6
+4. Nf3 Nxe4
+5. d4 d5
+6. Bd3 Nc6
+7. O-O Be7
+8. c4 Nb4
+9. cxd5 
+----------------------------
+* Classical Attack, Chigorin Variation, Main Line:
+1. e4 e5
+2. Nf3 Nf6
+3. Nxe5 d6
+4. Nf3 Nxe4
+5. d4 d5
+6. Bd3 Nc6
+7. O-O Be7
+8. c4 Nb4
+9. Be2 
+----------------------------
+* Classical Attack, Closed Variation:
+1. e4 e5
+2. Nf3 Nf6
+3. Nxe5 d6
+4. Nf3 Nxe4
+5. d4 Nf6
+----------------------------
+* Classical Attack, Jaenisch Variation:
+1. e4 e5
+2. Nf3 Nf6
+3. Nxe5 d6
+4. Nf3 Nxe4
+5. d4 d5
+6. Bd3 Nc6
+7. O-O Be7
+8. c4 
+----------------------------
+* Classical Attack, Krause Variation:
+1. e4 e5
+2. Nf3 Nf6
+3. Nxe5 d6
+4. Nf3 Nxe4
+5. d4 d5
+6. Bd3 Nc6
+7. O-O Be7
+8. Re1 Bg4
+9. c3 f5
+10. c4 
+----------------------------
+* Classical Attack, Marshall Trap:
+1. e4 e5
+2. Nf3 Nf6
+3. Nxe5 d6
+4. Nf3 Nxe4
+5. d4 d5
+6. Bd3 Bd6
+7. O-O O-O
+8. c4 Bg4
+9. cxd5 f5
+10. Re1 Bxh2+
+----------------------------
+* Classical Attack, Marshall Variation:
+1. e4 e5
+2. Nf3 Nf6
+3. Nxe5 d6
+4. Nf3 Nxe4
+5. d4 d5
+6. Bd3 Bd6
+----------------------------
+* Classical Attack, Marshall Variation, Chinese Gambit:
+1. e4 e5
+2. Nf3 Nf6
+3. Nxe5 d6
+4. Nf3 Nxe4
+5. d4 d5
+6. Bd3 Bd6
+7. O-O O-O
+8. c4 c6
+9. Re1 Bg4
+----------------------------
+* Classical Attack, Maróczy Variation:
+1. e4 e5
+2. Nf3 Nf6
+3. Nxe5 d6
+4. Nf3 Nxe4
+5. d4 d5
+6. Bd3 Be7
+7. O-O Nc6
+8. Re1 Bg4
+9. c3 f5
+10. c4 Bh4
+----------------------------
+* Classical Attack, Mason Variation:
+1. e4 e5
+2. Nf3 Nf6
+3. Nxe5 d6
+4. Nf3 Nxe4
+5. d4 d5
+6. Bd3 Be7
+7. O-O O-O
+----------------------------
+* Classical Attack, Mason-Showalter Variation:
+1. e4 e5
+2. Nf3 Nf6
+3. Nxe5 d6
+4. Nf3 Nxe4
+5. d4 d5
+6. Bd3 Nc6
+----------------------------
+* Classical Attack, Staunton Variation:
+1. e4 e5
+2. Nf3 Nf6
+3. Nxe5 d6
+4. Nf3 Nxe4
+5. d4 d5
+6. Bd3 Bd6
+7. O-O O-O
+8. c4 c6
+----------------------------
+* Classical Attack, Tarrasch Variation:
+1. e4 e5
+2. Nf3 Nf6
+3. Nxe5 d6
+4. Nf3 Nxe4
+5. d4 d5
+6. Bd3 Bd6
+7. O-O O-O
+8. c4 Bg4
+----------------------------
+* Cochrane Gambit, Bishop Check Line:
+1. e4 e5
+2. Nf3 Nf6
+3. Nxe5 d6
+4. Nxf7 Kxf7
+5. Bc4+ 
+----------------------------
+* Cochrane Gambit, Center Variation:
+1. e4 e5
+2. Nf3 Nf6
+3. Nxe5 d6
+4. Nxf7 Kxf7
+5. d4 
+----------------------------
+* Cozio Attack:
+1. e4 e5
+2. Nf3 Nf6
+3. Nxe5 d6
+4. Nf3 Nxe4
+5. Qe2 
+----------------------------
+* Damiano Variation, Kholmov Gambit:
+1. e4 e5
+2. Nf3 Nf6
+3. Nxe5 Nxe4
+4. Qe2 Qe7
+----------------------------
+* French Attack:
+1. e4 e5
+2. Nf3 Nf6
+3. Nxe5 d6
+4. Nf3 Nxe4
+5. d3 
+----------------------------
+* Kaufmann Attack:
+1. e4 e5
+2. Nf3 Nf6
+3. Nxe5 d6
+4. Nf3 Nxe4
+5. c4 
+----------------------------
+* Millennium Attack:
+1. e4 e5
+2. Nf3 Nf6
+3. Nxe5 d6
+4. Nf3 Nxe4
+5. Bd3 
+----------------------------
+* Nimzowitsch Attack:
+1. e4 e5
+2. Nf3 Nf6
+3. Nxe5 d6
+4. Nf3 Nxe4
+5. Nc3 
+----------------------------
+* Stafford Gambit:
+1. e4 e5
+2. Nf3 Nf6
+3. Nxe5 Nc6
+4. Nxc6 dxc6
+----------------------------
+* Modern Attack, Bardeleben Variation:
+1. e4 e5
+2. Nf3 Nf6
+3. d4 exd4
+4. e5 Ne4
+5. Qe2 Nc5
+6. Nxd4 Nc6
+----------------------------
+* Modern Attack, Center Attack:
+1. e4 e5
+2. Nf3 Nf6
+3. d4 exd4
+4. e5 Ne4
+5. Qxd4 
+----------------------------
+* Modern Attack, Murrey Variation:
+1. e4 e5
+2. Nf3 Nf6
+3. d4 Nxe4
+4. Bd3 Nc6
+----------------------------
+* Modern Attack, Steinitz Variation:
+1. e4 e5
+2. Nf3 Nf6
+3. d4 exd4
+4. e5 Ne4
+5. Qe2 
+----------------------------
+* Modern Attack, Tal Gambit:
+1. e4 e5
+2. Nf3 Nf6
+3. d4 exd4
+4. e5 Ne4
+5. Bb5 
+----------------------------
+* Modern Attack, Trifunovic Variation:
+1. e4 e5
+2. Nf3 Nf6
+3. d4 Nxe4
+4. Bd3 d5
+5. Nxe5 Bd6
+6. O-O O-O
+7. c4 Bxe5
+----------------------------

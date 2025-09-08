@@ -1,0 +1,50 @@
+** Nimzowitsch Defense:
+* El Columpio Defense, El Columpio Gambit:
+1. e4 Nc6
+2. Nf3 Nf6
+3. e5 Ng4
+4. d4 d6
+5. h3 Nh6
+6. e6 
+----------------------------
+* El Columpio Defense, Exchange Variation:
+1. e4 Nc6
+2. Nf3 Nf6
+3. e5 Ng4
+4. d4 d6
+5. h3 Nh6
+6. exd6 
+----------------------------
+* El Columpio Defense, Pin Variation:
+1. e4 Nc6
+2. Nf3 Nf6
+3. e5 Ng4
+4. d4 d6
+5. h3 Nh6
+6. Bb5 
+----------------------------
+* Kennedy Variation, Main Line:
+1. e4 Nc6
+2. d4 e5
+3. dxe5 Nxe5
+4. f4 Ng6
+----------------------------
+* Kennedy Variation, Riemann Defense:
+1. e4 Nc6
+2. d4 e5
+3. dxe5 Nxe5
+4. f4 Nc6
+----------------------------
+* Scandinavian Variation, Bogoljubow Variation, Nimzowitsch Gambit:
+1. e4 Nc6
+2. d4 d5
+3. Nc3 dxe4
+4. d5 Ne5
+----------------------------
+* Scandinavian Variation, Bogoljubow Variation, Richter Gambit:
+1. e4 Nc6
+2. d4 d5
+3. Nc3 dxe4
+4. d5 Nb8
+5. f3 
+----------------------------

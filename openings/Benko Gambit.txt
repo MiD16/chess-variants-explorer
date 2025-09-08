@@ -1,0 +1,58 @@
+** Benko Gambit:
+* Nescafe Frappe Attack:
+1. d4 Nf6
+2. c4 c5
+3. d5 b5
+4. cxb5 a6
+5. Nc3 axb5
+6. e4 b4
+7. Nb5 d6
+8. Bc4 
+----------------------------
+* Zaitsev System:
+1. d4 Nf6
+2. c4 c5
+3. d5 b5
+4. cxb5 a6
+5. Nc3 
+----------------------------
+* Zaitsev Variation, Nescafe Frappe Attack:
+1. d4 Nf6
+2. c4 c5
+3. d5 b5
+4. cxb5 a6
+5. Nc3 axb5
+6. e4 b4
+7. Nb5 
+----------------------------
+* Fianchetto Variation:
+1. d4 Nf6
+2. c4 c5
+3. d5 b5
+4. cxb5 a6
+5. bxa6 Bxa6
+6. Nc3 d6
+7. Nf3 g6
+8. g3 
+----------------------------
+* Nd2 Variation:
+1. d4 Nf6
+2. c4 c5
+3. d5 b5
+4. cxb5 a6
+5. bxa6 Bxa6
+6. Nc3 d6
+7. Nf3 g6
+8. Nd2 
+----------------------------
+* Benko Gambit:
+1. d4 Nf6
+2. c4 c5
+3. d5 b5
+4. cxb5 a6
+5. bxa6 g6
+6. Nc3 Bxa6
+7. e4 Bxf1
+8. Kxf1 d6
+9. g3 
+----------------------------

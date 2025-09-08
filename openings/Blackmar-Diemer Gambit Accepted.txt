@@ -1,0 +1,172 @@
+** Blackmar-Diemer Gambit Accepted:
+* Blackmar-Diemer Gambit Accepted:
+1. d4 d5
+2. e4 dxe4
+3. Nc3 Nf6
+4. f3 exf3
+----------------------------
+* Bogoljubow Defense:
+1. d4 d5
+2. e4 dxe4
+3. Nc3 Nf6
+4. f3 exf3
+5. Nxf3 g6
+----------------------------
+* Bogoljubow Defense, Kloss Attack:
+1. d4 d5
+2. e4 dxe4
+3. Nc3 Nf6
+4. f3 exf3
+5. Nxf3 g6
+6. Bc4 Bg7
+7. O-O O-O
+8. Kh1 
+----------------------------
+* Bogoljubow Defense, Mad Dog Attack:
+1. d4 d5
+2. e4 dxe4
+3. Nc3 Nf6
+4. f3 exf3
+5. Nxf3 g6
+6. Bc4 Bg7
+7. h4 
+----------------------------
+* Bogoljubow Defense, Nimzowitsch Attack:
+1. d4 d5
+2. e4 dxe4
+3. Nc3 Nf6
+4. f3 exf3
+5. Nxf3 g6
+6. Bc4 Bg7
+7. Ne5 
+----------------------------
+* Bogoljubow Defense, Studier Attack:
+1. d4 d5
+2. e4 dxe4
+3. Nc3 Nf6
+4. f3 exf3
+5. Nxf3 g6
+6. Bc4 Bg7
+7. O-O O-O
+8. Qe1 
+----------------------------
+* Euwe Defense:
+1. d4 d5
+2. e4 dxe4
+3. Nc3 Nf6
+4. f3 exf3
+5. Nxf3 e6
+----------------------------
+* Euwe Defense, Zilbermints Gambit:
+1. d4 d5
+2. e4 dxe4
+3. Nc3 Nf6
+4. f3 exf3
+5. Nxf3 e6
+6. Bg5 Be7
+7. Bd3 Nc6
+8. O-O Nxd4
+9. Kh1 
+----------------------------
+* Gunderam Defense:
+1. d4 d5
+2. e4 dxe4
+3. Nc3 Nf6
+4. f3 exf3
+5. Nxf3 Bf5
+----------------------------
+* Gunderam Defense, Stader Variation:
+1. d4 d5
+2. e4 dxe4
+3. Nc3 Nf6
+4. f3 exf3
+5. Nxf3 Bf5
+6. Ne5 e6
+7. g4 Be4
+----------------------------
+* Holwell Defense:
+1. d4 d5
+2. e4 dxe4
+3. Nc3 Nf6
+4. f3 exf3
+5. Nxf3 Qd6
+----------------------------
+* Kaulich Defense:
+1. d4 d5
+2. e4 dxe4
+3. Nc3 Nf6
+4. f3 exf3
+5. Nxf3 c5
+----------------------------
+* Pietrowsky Defense:
+1. d4 d5
+2. e4 dxe4
+3. Nc3 Nf6
+4. f3 exf3
+5. Nxf3 Nc6
+----------------------------
+* Ritter Defense:
+1. d4 d5
+2. e4 dxe4
+3. Nc3 Nf6
+4. f3 exf3
+5. Nxf3 b6
+----------------------------
+* Ryder Gambit:
+1. d4 d5
+2. e4 dxe4
+3. Nc3 Nf6
+4. f3 exf3
+5. Qxf3 
+----------------------------
+* Schlutter Defense:
+1. d4 d5
+2. e4 dxe4
+3. Nc3 Nf6
+4. f3 exf3
+5. Nxf3 Nbd7
+----------------------------
+* Teichmann Defense:
+1. d4 d5
+2. e4 dxe4
+3. Nc3 Nf6
+4. f3 exf3
+5. Nxf3 Bg4
+----------------------------
+* Teichmann Defense, Ciesielski Variation:
+1. d4 d5
+2. e4 dxe4
+3. Nc3 Nf6
+4. f3 exf3
+5. Nxf3 Bg4
+6. h3 Bxf3
+7. Qxf3 c6
+8. Qf2 
+----------------------------
+* Teichmann Defense, Classical Variation:
+1. d4 d5
+2. e4 dxe4
+3. Nc3 Nf6
+4. f3 exf3
+5. Nxf3 Bg4
+6. h3 Bxf3
+7. Qxf3 c6
+8. Be3 
+----------------------------
+* Teichmann Defense, Seidel-Hall Attack:
+1. d4 d5
+2. e4 dxe4
+3. Nc3 Nf6
+4. f3 exf3
+5. Nxf3 Bg4
+6. h3 Bxf3
+7. Qxf3 c6
+8. g4 
+----------------------------
+* Ziegler Defense:
+1. d4 d5
+2. e4 dxe4
+3. Nc3 Nf6
+4. f3 exf3
+5. Nxf3 c6
+----------------------------

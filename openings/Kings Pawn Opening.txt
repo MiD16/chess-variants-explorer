@@ -1,0 +1,9 @@
+** King's Pawn Opening:
+* Van Hooydoon Gambit:
+1. e4 e5
+2. Qe2 Nc6
+3. c3 Nf6
+4. Nf3 Bc5
+5. d4 exd4
+6. cxd4 Nxd4
+----------------------------

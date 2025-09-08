@@ -1,0 +1,118 @@
+** Bogo-Indian Defense:
+* Exchange Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nf3 Bb4+
+4. Bd2 Bxd2+
+----------------------------
+* Haiti Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nf3 Bb4+
+4. Bd2 Nc6
+----------------------------
+* Monticelli Trap:
+1. d4 Nf6
+2. c4 e6
+3. Nf3 b6
+4. g3 Bb7
+5. Bg2 Bb4+
+6. Bd2 Bxd2+
+7. Qxd2 O-O
+8. Nc3 Ne4
+9. Qc2 Nxc3
+10. Ng5 
+----------------------------
+* Nimzowitsch Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nf3 Bb4+
+4. Bd2 Qe7
+----------------------------
+* Retreat Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nf3 Bb4+
+4. Bd2 Be7
+----------------------------
+* Retreat Variation:
+1. d4 Nf6
+2. c4 e6
+3. g3 Bb4+
+4. Bd2 Be7
+5. Bg2 d5
+6. Nf3 
+----------------------------
+* Retreat Variation:
+1. d4 Nf6
+2. c4 e6
+3. g3 Bb4+
+4. Bd2 Be7
+5. Bg2 d5
+6. Nf3 O-O
+----------------------------
+* Retreat Variation:
+1. d4 Nf6
+2. c4 e6
+3. g3 Bb4+
+4. Bd2 Be7
+5. Bg2 d5
+6. Nf3 O-O
+7. O-O 
+----------------------------
+* Retreat Variation:
+1. d4 Nf6
+2. c4 e6
+3. g3 Bb4+
+4. Bd2 Be7
+5. Bg2 d5
+6. Nf3 O-O
+7. Qc2 c6
+8. O-O 
+----------------------------
+* Retreat Variation:
+1. d4 Nf6
+2. c4 e6
+3. g3 Bb4+
+4. Bd2 Be7
+5. Bg2 d5
+6. Nf3 Nbd7
+7. O-O O-O
+8. Qc2 c6
+----------------------------
+* Retreat Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nf3 d5
+4. g3 Bb4+
+5. Bd2 Be7
+6. Bg2 O-O
+7. O-O c6
+8. Qc2 Nbd7
+9. Bf4 b6
+10. Nbd2 
+----------------------------
+* Retreat Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nf3 d5
+4. g3 Bb4+
+5. Bd2 Be7
+6. Bg2 O-O
+7. O-O c6
+8. Qc2 Nbd7
+9. Bf4 b6
+10. Nbd2 Ba6
+----------------------------
+* Vitolins Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nf3 Bb4+
+4. Bd2 c5
+----------------------------
+* Wade-Smyslov Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nf3 Bb4+
+4. Bd2 a5
+----------------------------

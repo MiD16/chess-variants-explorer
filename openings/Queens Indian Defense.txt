@@ -1,0 +1,344 @@
+** Queen's Indian Defense:
+* Kasparov Variation, Botvinnik Attack:
+1. d4 Nf6
+2. c4 e6
+3. Nf3 b6
+4. Nc3 Bb7
+5. Bg5 h6
+6. Bh4 g5
+7. Bg3 Nh5
+----------------------------
+* Kasparov-Petrosian Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nf3 b6
+4. a3 Bb7
+5. Nc3 
+----------------------------
+* Kasparov-Petrosian Variation, Andersson Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nf3 b6
+4. a3 Bb7
+5. Nc3 Ne4
+----------------------------
+* Kasparov-Petrosian Variation, Classical Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nf3 b6
+4. a3 Bb7
+5. Nc3 d5
+6. cxd5 exd5
+----------------------------
+* Kasparov-Petrosian Variation, Hedgehog Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nf3 b6
+4. a3 Bb7
+5. Nc3 g6
+----------------------------
+* Kasparov-Petrosian Variation, Kasparov Attack:
+1. d4 Nf6
+2. c4 e6
+3. Nf3 b6
+4. a3 Bb7
+5. Nc3 d5
+6. cxd5 Nxd5
+7. Qc2 
+----------------------------
+* Kasparov-Petrosian Variation, Main Line:
+1. d4 Nf6
+2. c4 e6
+3. Nf3 b6
+4. a3 Bb7
+5. Nc3 d5
+----------------------------
+* Kasparov-Petrosian Variation, Marco Defense:
+1. d4 Nf6
+2. c4 e6
+3. Nf3 b6
+4. a3 Bb7
+5. Nc3 Be7
+----------------------------
+* Kasparov-Petrosian Variation, Modern Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nf3 b6
+4. a3 Bb7
+5. Nc3 d5
+6. cxd5 Nxd5
+----------------------------
+* Kasparov-Petrosian Variation, Petrosian Attack:
+1. d4 Nf6
+2. c4 e6
+3. Nf3 b6
+4. a3 Bb7
+5. Nc3 d5
+6. cxd5 Nxd5
+7. e3 
+----------------------------
+* Kasparov-Petrosian Variation, Polovodin Gambit:
+1. d4 Nf6
+2. c4 e6
+3. Nf3 b6
+4. Nc3 Bb7
+5. a3 d5
+6. cxd5 Nxd5
+7. e4 
+----------------------------
+* Kasparov-Petrosian Variation, Rashkovsky Attack:
+1. d4 Nf6
+2. c4 e6
+3. Nf3 b6
+4. a3 Bb7
+5. Nc3 d5
+6. cxd5 Nxd5
+7. Qa4+ 
+----------------------------
+* Kasparov-Petrosian Variation, Romanishin Attack:
+1. d4 Nf6
+2. c4 e6
+3. Nf3 b6
+4. a3 Bb7
+5. Nc3 d5
+6. cxd5 Nxd5
+7. Bd2 
+----------------------------
+* Petrosian Variation, Farago Defense:
+1. d4 Nf6
+2. c4 e6
+3. Nf3 b6
+4. a3 Ba6
+5. Qc2 Bb7
+----------------------------
+* Kasparov Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nf3 b6
+4. Nc3 Bb4
+5. Bg5 h6
+6. Bh4 Bb7
+----------------------------
+* Averbakh Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nf3 b6
+4. e3 Bb7
+5. Bd3 c5
+6. O-O Be7
+7. b3 O-O
+8. Bb2 cxd4
+9. Nxd4 
+----------------------------
+* Buerger Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nf3 b6
+4. g3 Bb7
+5. Bg2 c5
+6. d5 exd5
+7. Ng5 
+----------------------------
+* Fianchetto Variation, Check Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nf3 b6
+4. g3 Ba6
+5. b3 Bb4+
+----------------------------
+* Fianchetto Variation, Check Variation, Intermezzo Line:
+1. d4 Nf6
+2. c4 e6
+3. Nf3 b6
+4. g3 Ba6
+5. b3 Bb4+
+6. Bd2 Be7
+----------------------------
+* Fianchetto Variation, Check Variation, Modern Line:
+1. d4 Nf6
+2. c4 e6
+3. Nf3 b6
+4. g3 Ba6
+5. b3 Bb4+
+6. Bd2 Qe7
+----------------------------
+* Fianchetto Variation, Nimzowitsch Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nf3 b6
+4. g3 Ba6
+----------------------------
+* Fianchetto Variation, Nimzowitsch Variation, Nimzowitsch Attack:
+1. d4 Nf6
+2. c4 e6
+3. Nf3 b6
+4. g3 Ba6
+5. Qa4 
+----------------------------
+* Fianchetto Variation, Nimzowitsch Variation, Quiet Line:
+1. d4 Nf6
+2. c4 e6
+3. Nf3 b6
+4. g3 Ba6
+5. b3 
+----------------------------
+* Fianchetto Variation, Nimzowitsch Variation, Timman's Line:
+1. d4 Nf6
+2. c4 e6
+3. Nf3 b6
+4. g3 Ba6
+5. Qb3 
+----------------------------
+* Fianchetto Variation, Rubinstein Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nf3 b6
+4. g3 Bb7
+5. Bg2 c5
+6. d5 exd5
+7. Nh4 
+----------------------------
+* Fianchetto Variation, Sämisch Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nf3 b6
+4. g3 Bb7
+5. Bg2 c5
+----------------------------
+* Fianchetto Variation, Traditional Line:
+1. d4 Nf6
+2. c4 e6
+3. Nf3 b6
+4. g3 Bb7
+----------------------------
+* Capablanca Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nf3 b6
+4. g3 Bb7
+5. Bg2 Bb4+
+----------------------------
+* Riumin Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nf3 b6
+4. g3 Bb7
+5. Bg2 Bb4+
+6. Bd2 Be7
+----------------------------
+* Yates Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nf3 Bb4+
+4. Bd2 a5
+5. g3 b6
+6. Bg2 Bb7
+----------------------------
+* Anti-Queen's Indian System:
+1. d4 Nf6
+2. c4 e6
+3. Nf3 b6
+4. g3 Bb7
+5. Bg2 Be7
+6. Nc3 
+----------------------------
+* Classical Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nf3 b6
+4. g3 Bb7
+5. Bg2 Be7
+6. O-O 
+----------------------------
+* Classical Variation, Polugaevsky Gambit:
+1. d4 Nf6
+2. c4 e6
+3. Nf3 b6
+4. g3 Bb7
+5. Bg2 Be7
+6. O-O O-O
+7. d5 exd5
+8. Nh4 
+----------------------------
+* Classical Variation, Taimanov Gambit:
+1. d4 Nf6
+2. c4 e6
+3. Nf3 b6
+4. g3 Bb7
+5. Bg2 Be7
+6. O-O O-O
+7. d5 exd5
+8. Nd4 
+----------------------------
+* Euwe Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nf3 b6
+4. g3 Bb7
+5. Bg2 Be7
+6. O-O O-O
+7. b3 
+----------------------------
+* Fianchetto Variation, Kramnik Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nf3 b6
+4. g3 Bb7
+5. Bg2 Be7
+6. O-O O-O
+7. Re1 
+----------------------------
+* Opocensky Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nf3 b6
+4. g3 Bb7
+5. Bg2 Be7
+6. Nc3 Ne4
+7. Bd2 
+----------------------------
+* Traditional Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nf3 b6
+4. g3 Bb7
+5. Bg2 Be7
+----------------------------
+* Classical Variation, Tiviakov Defense:
+1. d4 Nf6
+2. c4 e6
+3. Nf3 b6
+4. g3 Bb7
+5. Bg2 Be7
+6. O-O O-O
+7. Nc3 Na6
+----------------------------
+* Classical Variation, Traditional Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nf3 b6
+4. g3 Bb7
+5. Bg2 Be7
+6. O-O O-O
+7. Nc3 
+----------------------------
+* Classical Variation, Traditional Variation, Nimzowitsch Line:
+1. d4 Nf6
+2. c4 e6
+3. Nf3 b6
+4. g3 Bb7
+5. Bg2 Be7
+6. O-O O-O
+7. Nc3 d5
+----------------------------
+* Classical Variation, Traditional Variation, Main Line:
+1. d4 Nf6
+2. c4 e6
+3. Nf3 b6
+4. g3 Bb7
+5. Bg2 Be7
+6. O-O O-O
+7. Nc3 Ne4
+8. Qc2 Nxc3
+9. Qxc3 
+----------------------------

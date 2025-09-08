@@ -1,0 +1,249 @@
+** Catalan Opening:
+* Open Defense:
+1. d4 Nf6
+2. c4 e6
+3. g3 d5
+4. Bg2 dxc4
+----------------------------
+* Open Defense:
+1. d4 Nf6
+2. c4 e6
+3. g3 d5
+4. Bg2 dxc4
+5. Qa4+ Nbd7
+6. Qxc4 
+----------------------------
+* Open Defense, Alekhine Variation:
+1. d4 Nf6
+2. c4 e6
+3. g3 d5
+4. Bg2 dxc4
+5. Qa4+ Nbd7
+6. Qxc4 a6
+7. Qc2 
+----------------------------
+* Open Defense:
+1. d4 Nf6
+2. c4 e6
+3. g3 d5
+4. Bg2 dxc4
+5. Nf3 
+----------------------------
+* Open Defense:
+1. d4 Nf6
+2. c4 e6
+3. Nf3 d5
+4. g3 c6
+5. Bg2 dxc4
+----------------------------
+* Open Defense, Modern Sharp Variation:
+1. d4 Nf6
+2. c4 e6
+3. g3 d5
+4. Bg2 dxc4
+5. Nf3 Nc6
+6. Qa4 Bb4+
+----------------------------
+* Open Defense, Classical Line:
+1. d4 Nf6
+2. c4 e6
+3. g3 d5
+4. Bg2 dxc4
+5. Nf3 Be7
+----------------------------
+* Open Defense, Classical Line:
+1. d4 Nf6
+2. c4 e6
+3. Nf3 d5
+4. g3 Be7
+5. Bg2 O-O
+6. O-O dxc4
+----------------------------
+* Closed:
+1. d4 Nf6
+2. c4 e6
+3. g3 d5
+4. Bg2 Be7
+5. Nf3 
+----------------------------
+* Closed:
+1. d4 Nf6
+2. c4 e6
+3. Nf3 d5
+4. g3 Bb4+
+5. Bd2 Be7
+6. Bg2 O-O
+7. O-O c6
+8. Bf4 b6
+----------------------------
+* Closed:
+1. d4 Nf6
+2. c4 e6
+3. g3 d5
+4. Bg2 Be7
+5. Nf3 O-O
+6. O-O c6
+7. Qc2 b6
+8. Nbd2 Bb7
+9. e4 Na6
+----------------------------
+* Closed:
+1. d4 Nf6
+2. c4 e6
+3. g3 d5
+4. Bg2 Be7
+5. Nf3 O-O
+6. O-O Nbd7
+----------------------------
+* Closed, Botvinnik Variation:
+1. d4 Nf6
+2. c4 e6
+3. g3 d5
+4. Bg2 Be7
+5. Nf3 O-O
+6. O-O Nbd7
+7. Nc3 c6
+8. Qd3 
+----------------------------
+* Closed:
+1. d4 Nf6
+2. c4 e6
+3. g3 d5
+4. Bg2 Be7
+5. Nf3 O-O
+6. O-O Nbd7
+7. Qc2 
+----------------------------
+* Closed:
+1. d4 Nf6
+2. c4 e6
+3. g3 d5
+4. Bg2 Be7
+5. Nf3 O-O
+6. O-O Nbd7
+7. Qc2 c6
+8. b3 
+----------------------------
+* Closed:
+1. d4 Nf6
+2. c4 e6
+3. g3 d5
+4. Bg2 Be7
+5. Nf3 O-O
+6. O-O Nbd7
+7. Qc2 c6
+8. b3 b6
+----------------------------
+* Closed:
+1. d4 Nf6
+2. c4 e6
+3. g3 d5
+4. Bg2 Be7
+5. Nf3 O-O
+6. O-O c6
+7. Qc2 b6
+8. Rd1 Nbd7
+9. Bf4 
+----------------------------
+* Closed:
+1. d4 Nf6
+2. c4 e6
+3. g3 d5
+4. Bg2 Be7
+5. Nf3 O-O
+6. O-O Nbd7
+7. Qc2 c6
+8. Bf4 b6
+9. Nbd2 Bb7
+10. e4 
+----------------------------
+* Closed, Spassky Gambit:
+1. d4 Nf6
+2. c4 e6
+3. g3 Be7
+4. Bg2 d5
+5. Nf3 O-O
+6. O-O Nbd7
+7. Qc2 c6
+8. b3 b6
+9. Rd1 Bb7
+10. Nc3 b5
+----------------------------
+* Closed, Zagoryansky Variation:
+1. d4 e6
+2. c4 Nf6
+3. Nf3 d5
+4. g3 Be7
+5. Bg2 O-O
+6. O-O Nbd7
+7. Qc2 c6
+8. Rd1 b6
+9. a4 
+----------------------------
+* Closed Variation, Rabinovich Variation:
+1. d4 d5
+2. c4 c6
+3. Nf3 Nf6
+4. Qc2 e6
+5. Nbd2 Be7
+6. g3 Nbd7
+7. Bg2 O-O
+8. O-O b5
+----------------------------
+* Closed Variation, Traditional Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nf3 d5
+4. g3 Be7
+5. Bg2 O-O
+6. O-O Nbd7
+7. Qc2 c6
+8. Nbd2 b6
+----------------------------
+* Closed, Main Line:
+1. d4 Nf6
+2. c4 e6
+3. Nf3 d5
+4. g3 Be7
+5. Bg2 O-O
+6. O-O Nbd7
+7. Qc2 c6
+8. Nbd2 
+----------------------------
+* Closed, Main Line:
+1. d4 Nf6
+2. c4 e6
+3. Nf3 d5
+4. g3 Be7
+5. Bg2 O-O
+6. O-O c6
+7. Qc2 b6
+8. Nbd2 Bb7
+9. e4 Nbd7
+----------------------------
+* Closed, Main Line:
+1. d4 Nf6
+2. c4 e6
+3. Nf3 d5
+4. g3 Be7
+5. Bg2 O-O
+6. O-O Nbd7
+7. Qc2 c6
+8. Bf4 b6
+9. Nbd2 Bb7
+10. e4 dxe4
+11. Nxe4 Nxe4
+12. Qxe4 
+----------------------------
+* Closed, Sokolsky Variation:
+1. d4 Nf6
+2. c4 e6
+3. g3 d5
+4. Bg2 Be7
+5. Nf3 O-O
+6. O-O Nbd7
+7. Qc2 c6
+8. Nbd2 b6
+9. b3 a5
+10. Bb2 Ba6
+----------------------------

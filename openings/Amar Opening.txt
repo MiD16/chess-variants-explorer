@@ -1,0 +1,9 @@
+** Amar Opening:
+* Paris Gambit, Gent Gambit:
+1. Nh3 d5
+2. g3 e5
+3. f4 Bxh3
+4. Bxh3 exf4
+5. O-O fxg3
+6. hxg3 
+----------------------------

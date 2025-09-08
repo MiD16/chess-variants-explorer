@@ -1,0 +1,169 @@
+** Scandinavian Defense:
+* Anderssen Counterattack:
+1. e4 d5
+2. exd5 Qxd5
+3. Nc3 Qa5
+4. d4 e5
+----------------------------
+* Anderssen Counterattack, Collijn Variation:
+1. e4 d5
+2. exd5 Qxd5
+3. Nc3 Qa5
+4. d4 e5
+5. Nf3 Bg4
+----------------------------
+* Anderssen Counterattack, Goteborg System:
+1. e4 d5
+2. exd5 Qxd5
+3. Nc3 Qa5
+4. d4 e5
+5. Nf3 
+----------------------------
+* Anderssen Counterattack, Orthodox Attack:
+1. e4 d5
+2. exd5 Qxd5
+3. Nc3 Qa5
+4. d4 e5
+5. dxe5 Nc6
+6. Nf3 Bb4
+7. Bd2 
+----------------------------
+* Bronstein Variation:
+1. e4 d5
+2. exd5 Qxd5
+3. Nc3 Qd6
+4. d4 Nf6
+5. Nf3 a6
+----------------------------
+* Classical Variation:
+1. e4 d5
+2. exd5 Qxd5
+3. Nc3 Qa5
+4. d4 Nf6
+5. Nf3 Bf5
+----------------------------
+* Grünfeld Variation:
+1. e4 d5
+2. exd5 Qxd5
+3. Nc3 Qa5
+4. d4 Nf6
+5. Nf3 Bf5
+6. Ne5 c6
+7. g4 
+----------------------------
+* Kiel Variation:
+1. e4 d5
+2. exd5 Nf6
+3. d4 Nxd5
+4. c4 Nb4
+----------------------------
+* Kádas Gambit:
+1. e4 d5
+2. exd5 Nf6
+3. d4 c6
+4. dxc6 e5
+----------------------------
+* Lasker Variation:
+1. e4 d5
+2. exd5 Qxd5
+3. Nc3 Qa5
+4. d4 Nf6
+5. Nf3 Bg4
+6. h3 
+----------------------------
+* Main Line, Mieses Variation:
+1. e4 d5
+2. exd5 Qxd5
+3. Nc3 Qa5
+4. d4 Nf6
+----------------------------
+* Modern Variation, Gipslis Variation:
+1. e4 d5
+2. exd5 Nf6
+3. d4 Nxd5
+4. Nf3 Bg4
+----------------------------
+* Modern Variation, Wing Gambit:
+1. e4 d5
+2. exd5 Nf6
+3. d4 g6
+4. c4 b5
+----------------------------
+* Portuguese Gambit, Banker Variation:
+1. e4 d5
+2. exd5 Nf6
+3. d4 Bg4
+4. f3 Bf5
+5. c4 
+----------------------------
+* Portuguese Gambit, Correspondence Refutation:
+1. e4 d5
+2. exd5 Nf6
+3. d4 Bg4
+4. f3 Bf5
+5. g4 
+----------------------------
+* Portuguese Gambit, Elbow Variation:
+1. e4 d5
+2. exd5 Nf6
+3. d4 Bg4
+4. Bb5+ c6
+----------------------------
+* Portuguese Gambit, Jadoul Variation:
+1. e4 d5
+2. exd5 Nf6
+3. d4 Bg4
+4. f3 Bf5
+5. Bb5+ Nbd7
+6. c4 
+----------------------------
+* Portuguese Gambit, Lusophobe Variation:
+1. e4 d5
+2. exd5 Nf6
+3. d4 Bg4
+4. Bb5+ Nbd7
+5. Be2 
+----------------------------
+* Portuguese Gambit, Melbourne Shuffle Variation:
+1. e4 d5
+2. exd5 Nf6
+3. d4 Bg4
+4. f3 Bf5
+5. Bb5+ Nbd7
+6. Nc3 
+----------------------------
+* Richter Variation:
+1. e4 d5
+2. exd5 Nf6
+3. d4 Nxd5
+4. Nf3 g6
+----------------------------
+* Schiller-Pytel Variation:
+1. e4 d5
+2. exd5 Qxd5
+3. Nc3 Qd6
+4. d4 c6
+----------------------------
+* Schiller-Pytel Variation, Modern Variation:
+1. e4 d5
+2. exd5 Qxd5
+3. Nc3 Qd6
+4. d4 Nf6
+5. Bc4 c6
+6. Nge2 Bf5
+7. Bf4 Qb4
+----------------------------
+* Valencian Variation, Ilundain Variation:
+1. e4 d5
+2. exd5 Qxd5
+3. Nc3 Qd8
+4. d4 Nf6
+5. Nf3 c6
+----------------------------
+* Valencian Variation, Main Line:
+1. e4 d5
+2. exd5 Qxd5
+3. Nc3 Qd8
+4. d4 Nf6
+5. Nf3 Bg4
+----------------------------

@@ -1,0 +1,29 @@
+** Danish Gambit Accepted:
+* Chigorin Defense:
+1. e4 e5
+2. d4 exd4
+3. c3 dxc3
+4. Bc4 cxb2
+5. Bxb2 Qe7
+----------------------------
+* Classical Defense:
+1. e4 e5
+2. d4 exd4
+3. c3 dxc3
+4. Bc4 cxb2
+5. Bxb2 Nf6
+----------------------------
+* Copenhagen Defense:
+1. e4 e5
+2. d4 exd4
+3. c3 dxc3
+4. Bc4 cxb2
+5. Bxb2 Bb4+
+----------------------------
+* Schlechter Defense:
+1. e4 e5
+2. d4 exd4
+3. c3 dxc3
+4. Bc4 cxb2
+5. Bxb2 d5
+----------------------------

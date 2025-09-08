@@ -1,0 +1,16 @@
+** Grob Opening:
+* Grob Gambit, Fritz Gambit, Romford Countergambit:
+1. g4 d5
+2. Bg2 Bxg4
+3. c4 d4
+4. Bxb7 Nd7
+5. Bxa8 Qxa8
+----------------------------
+* Keene Defense, Main Line:
+1. g4 d5
+2. h3 e5
+3. Bg2 c6
+4. d4 e4
+5. c4 Bd6
+6. Nc3 Ne7
+----------------------------

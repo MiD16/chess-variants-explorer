@@ -1,0 +1,7 @@
+** Elephant Gambit:
+* Wasp Variation:
+1. e4 e5
+2. Nf3 d5
+3. Nxe5 dxe4
+4. Bc4 Qg5
+----------------------------

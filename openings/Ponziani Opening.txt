@@ -1,0 +1,54 @@
+** Ponziani Opening:
+* Caro Gambit:
+1. e4 e5
+2. Nf3 Nc6
+3. c3 d5
+4. Qa4 Bd7
+----------------------------
+* Jaenisch Counterattack:
+1. e4 e5
+2. Nf3 Nc6
+3. c3 Nf6
+4. d3 d5
+----------------------------
+* Jaenisch Counterattack:
+1. e4 e5
+2. Nf3 Nc6
+3. c3 Nf6
+4. d3 d5
+5. Nbd2 
+----------------------------
+* Leonhardt Variation:
+1. e4 e5
+2. Nf3 Nc6
+3. c3 d5
+4. Qa4 Nf6
+----------------------------
+* Ponziani Countergambit, Schmidt Attack:
+1. e4 e5
+2. Nf3 Nc6
+3. c3 f5
+4. d4 d6
+5. d5 
+----------------------------
+* Spanish Variation, Harrwitz Attack, Nikitin Gambit:
+1. e4 e5
+2. Nf3 Nc6
+3. c3 d5
+4. Bb5 dxe4
+5. Nxe5 Qd5
+6. Qa4 
+----------------------------
+* Steinitz Variation:
+1. e4 e5
+2. Nf3 Nc6
+3. c3 d5
+4. Qa4 f6
+----------------------------
+* Vukovic Gambit:
+1. e4 e5
+2. Nf3 Nc6
+3. c3 Nf6
+4. d4 Nxe4
+5. d5 Bc5
+----------------------------

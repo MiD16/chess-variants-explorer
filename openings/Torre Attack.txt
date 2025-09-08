@@ -1,0 +1,14 @@
+** Torre Attack:
+* Classical Defense, Petrosian Gambit:
+1. d4 Nf6
+2. Nf3 e6
+3. Bg5 c5
+4. e3 b6
+5. d5 
+----------------------------
+* Fianchetto Defense, Euwe Variation:
+1. d4 Nf6
+2. Nf3 g6
+3. Bg5 Bg7
+4. Nbd2 c5
+----------------------------

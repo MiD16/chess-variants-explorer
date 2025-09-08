@@ -1,0 +1,28 @@
+** English Defense:
+* Hartlaub Gambit Accepted:
+1. c4 e6
+2. d4 b6
+3. Nc3 Bb7
+4. e4 f5
+5. exf5 Nf6
+----------------------------
+* Hartlaub Gambit Declined:
+1. c4 e6
+2. d4 b6
+3. Nc3 Bb7
+4. e4 f5
+5. d5 
+----------------------------
+* Perrin Variation:
+1. d4 e6
+2. c4 b6
+3. e4 Bb7
+4. Bd3 Nc6
+----------------------------
+* Poli Gambit:
+1. d4 e6
+2. c4 b6
+3. e4 Bb7
+4. f3 f5
+5. exf5 Nh6
+----------------------------

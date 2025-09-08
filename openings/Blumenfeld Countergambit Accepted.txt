@@ -1,0 +1,9 @@
+** Blumenfeld Countergambit Accepted:
+* Blumenfeld Countergambit Accepted:
+1. d4 Nf6
+2. c4 e6
+3. Nf3 c5
+4. d5 b5
+5. dxe6 fxe6
+6. cxb5 d5
+----------------------------

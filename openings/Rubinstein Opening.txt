@@ -1,0 +1,54 @@
+** Rubinstein Opening:
+* Rubinstein Opening:
+1. d4 Nf6
+2. Nf3 e6
+3. e3 c5
+4. Bd3 d5
+5. b3 
+----------------------------
+* Bogoljubow Defense:
+1. d4 Nf6
+2. Nf3 e6
+3. e3 c5
+4. Bd3 d5
+5. b3 Nc6
+6. O-O Bd6
+7. Bb2 O-O
+----------------------------
+* Classical Defense:
+1. d4 Nf6
+2. Nf3 e6
+3. e3 c5
+4. Bd3 d5
+5. b3 Nc6
+6. O-O Be7
+7. Bb2 O-O
+----------------------------
+* Semi-Slav Defense:
+1. d4 d5
+2. Nf3 Nf6
+3. e3 e6
+4. Bd3 Bd6
+5. O-O O-O
+6. b3 Nbd7
+7. Bb2 
+----------------------------
+* Semi-Slav Defense:
+1. d4 d5
+2. Nf3 Nf6
+3. e3 e6
+4. Bd3 Bd6
+5. O-O O-O
+6. b3 Nbd7
+7. Bb2 c6
+----------------------------
+* Semi-Slav Defense:
+1. d4 d5
+2. Nf3 Nf6
+3. e3 e6
+4. Bd3 Bd6
+5. O-O O-O
+6. b3 Nbd7
+7. Bb2 c6
+8. Nbd2 
+----------------------------

@@ -1,0 +1,364 @@
+** Benoni Defense:
+* Franco-Sicilian Hybrid:
+1. d4 e6
+2. c4 c5
+3. d5 exd5
+4. cxd5 d6
+5. Nc3 g6
+6. e4 Bg7
+7. Nf3 Ne7
+----------------------------
+* King's Indian System:
+1. d4 Nf6
+2. c4 c5
+3. d5 e5
+4. Nc3 d6
+5. e4 g6
+----------------------------
+* Modern Variation, Snake Variation:
+1. d4 Nf6
+2. c4 c5
+3. d5 e6
+4. Nc3 exd5
+5. cxd5 Bd6
+----------------------------
+* Benoni Defense:
+1. d4 Nf6
+2. c4 e6
+3. Nf3 c5
+4. d5 exd5
+5. cxd5 d6
+6. Nc3 g6
+----------------------------
+* Fianchetto Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nf3 c5
+4. d5 exd5
+5. cxd5 d6
+6. Nc3 g6
+7. g3 
+----------------------------
+* Knight's Tour Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nf3 c5
+4. d5 exd5
+5. cxd5 d6
+6. Nc3 g6
+7. Nd2 
+----------------------------
+* Uhlmann Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nf3 c5
+4. d5 exd5
+5. cxd5 d6
+6. Nc3 g6
+7. Bg5 
+----------------------------
+* Fianchetto Variation:
+1. d4 Nf6
+2. c4 e6
+3. g3 c5
+4. d5 exd5
+5. cxd5 d6
+6. Nc3 g6
+7. Bg2 Bg7
+8. Nf3 O-O
+----------------------------
+* Fianchetto Variation, Hastings Defense:
+1. d4 Nf6
+2. c4 e6
+3. g3 c5
+4. d5 exd5
+5. cxd5 d6
+6. Nc3 g6
+7. Bg2 Bg7
+8. Nf3 O-O
+9. O-O Nbd7
+----------------------------
+* Fianchetto Variation, Hastings Defense, Main Line:
+1. d4 Nf6
+2. c4 e6
+3. g3 c5
+4. d5 exd5
+5. cxd5 d6
+6. Nc3 g6
+7. Bg2 Bg7
+8. Nf3 O-O
+9. O-O a6
+10. a4 Nbd7
+11. Nd2 Re8
+----------------------------
+* King's Pawn Line:
+1. d4 Nf6
+2. c4 c5
+3. d5 e6
+4. Nc3 exd5
+5. cxd5 d6
+6. e4 
+----------------------------
+* King's Pawn Line:
+1. d4 Nf6
+2. c4 c5
+3. d5 e6
+4. Nc3 exd5
+5. cxd5 d6
+6. e4 g6
+7. f3 Bg7
+----------------------------
+* King's Pawn Line:
+1. d4 Nf6
+2. c4 g6
+3. f3 c5
+4. d5 d6
+5. e4 Bg7
+6. Nc3 e6
+7. Be3 O-O
+8. Qd2 exd5
+9. cxd5 
+----------------------------
+* King's Pawn Line, with Be3:
+1. d4 Nf6
+2. c4 c5
+3. d5 e6
+4. Nc3 exd5
+5. cxd5 d6
+6. e4 g6
+7. f3 Bg7
+8. Be3 
+----------------------------
+* King's Pawn Line, with Bg5:
+1. d4 Nf6
+2. c4 g6
+3. Nc3 Bg7
+4. e4 d6
+5. f3 O-O
+6. Bg5 c5
+7. d5 
+----------------------------
+* King's Pawn Line, with Bg5:
+1. d4 Nf6
+2. c4 c5
+3. d5 e6
+4. Nc3 exd5
+5. cxd5 d6
+6. e4 g6
+7. f3 Bg7
+8. Bg5 
+----------------------------
+* King's Pawn Line, with Bg5:
+1. d4 Nf6
+2. c4 g6
+3. Nc3 Bg7
+4. e4 d6
+5. f3 O-O
+6. Bg5 c5
+7. d5 e6
+8. Qd2 exd5
+9. exd5 
+----------------------------
+* King's Pawn Line, with Nge2:
+1. d4 Nf6
+2. c4 c5
+3. d5 e6
+4. Nc3 exd5
+5. cxd5 d6
+6. e4 g6
+7. f3 Bg7
+8. Nge2 
+----------------------------
+* King's Pawn Line, with Nge2:
+1. d4 Nf6
+2. c4 g6
+3. Nc3 Bg7
+4. e4 d6
+5. f3 O-O
+6. Nge2 c5
+7. d5 e6
+8. Ng3 exd5
+9. cxd5 
+----------------------------
+* Mikenas Variation:
+1. d4 Nf6
+2. c4 c5
+3. d5 e6
+4. Nc3 exd5
+5. cxd5 d6
+6. e4 g6
+7. f4 Bg7
+8. e5 
+----------------------------
+* Pawn Storm Variation:
+1. d4 Nf6
+2. c4 c5
+3. d5 e6
+4. Nc3 exd5
+5. cxd5 d6
+6. e4 g6
+7. f4 
+----------------------------
+* Taimanov Variation:
+1. d4 Nf6
+2. c4 c5
+3. d5 e6
+4. Nc3 exd5
+5. cxd5 d6
+6. e4 g6
+7. f4 Bg7
+8. Bb5+ 
+----------------------------
+* Four Pawns Attack:
+1. d4 Nf6
+2. c4 c5
+3. d5 e6
+4. Nc3 exd5
+5. cxd5 d6
+6. e4 g6
+7. f4 Bg7
+8. Nf3 O-O
+----------------------------
+* Four Pawns Attack, Main Line:
+1. d4 Nf6
+2. c4 c5
+3. d5 e6
+4. Nc3 exd5
+5. cxd5 d6
+6. e4 g6
+7. f4 Bg7
+8. Nf3 O-O
+9. Be2 Re8
+----------------------------
+* Classical Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nf3 c5
+4. d5 exd5
+5. cxd5 d6
+6. Nc3 g6
+7. e4 
+----------------------------
+* Classical Variation, New York Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nf3 c5
+4. d5 exd5
+5. cxd5 d6
+6. Nc3 g6
+7. e4 Bg7
+8. h3 
+----------------------------
+* Classical Variation, Traditional Variation:
+1. d4 Nf6
+2. c4 e6
+3. Nf3 c5
+4. d5 exd5
+5. cxd5 d6
+6. Nc3 g6
+7. e4 Bg7
+8. Be2 
+----------------------------
+* Classical Variation, Averbakh-Grivas Attack:
+1. d4 Nf6
+2. c4 e6
+3. Nf3 c5
+4. d5 exd5
+5. cxd5 d6
+6. Nc3 g6
+7. e4 Bg7
+8. Bg5 
+----------------------------
+* Classical Variation:
+1. d4 Nf6
+2. c4 c5
+3. d5 e6
+4. Nc3 exd5
+5. cxd5 d6
+6. e4 g6
+7. Nf3 Bg7
+8. Be2 O-O
+----------------------------
+* Classical Variation, Main Line:
+1. d4 Nf6
+2. c4 c5
+3. d5 e6
+4. Nc3 exd5
+5. cxd5 d6
+6. e4 g6
+7. Nf3 Bg7
+8. Be2 O-O
+9. O-O 
+----------------------------
+* Classical Variation, Full Line:
+1. d4 Nf6
+2. c4 c5
+3. d5 e6
+4. Nc3 exd5
+5. cxd5 d6
+6. e4 g6
+7. Nf3 Bg7
+8. Be2 O-O
+9. O-O a6
+10. a4 
+----------------------------
+* Classical Variation, Argentine Counterattack:
+1. d4 Nf6
+2. c4 e6
+3. Nf3 c5
+4. d5 exd5
+5. cxd5 d6
+6. Nc3 g6
+7. e4 Bg7
+8. Be2 O-O
+9. O-O a6
+10. a4 Bg4
+----------------------------
+* Classical Variation, Czerniak Defense:
+1. d4 Nf6
+2. c4 c5
+3. d5 e6
+4. Nc3 exd5
+5. cxd5 d6
+6. e4 g6
+7. Nf3 Bg7
+8. Be2 O-O
+9. O-O Re8
+----------------------------
+* Classical Variation, Czerniak Defense, Tal Line:
+1. d4 Nf6
+2. c4 c5
+3. d5 e6
+4. Nc3 exd5
+5. cxd5 d6
+6. e4 g6
+7. Nf3 Bg7
+8. Be2 O-O
+9. O-O Re8
+10. Nd2 
+----------------------------
+* Classical Variation, Czerniak Defense:
+1. d4 Nf6
+2. c4 e6
+3. Nf3 c5
+4. d5 exd5
+5. cxd5 d6
+6. Nc3 g6
+7. e4 Bg7
+8. Be2 O-O
+9. O-O Re8
+10. Nd2 Na6
+----------------------------
+* Classical Variation, Czerniak Defense:
+1. d4 Nf6
+2. c4 c5
+3. d5 e6
+4. Nc3 exd5
+5. cxd5 d6
+6. e4 g6
+7. Nf3 Bg7
+8. Be2 O-O
+9. O-O Re8
+10. Nd2 Na6
+11. f3 
+----------------------------

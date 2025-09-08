@@ -1,0 +1,14 @@
+** Three Knights Opening:
+* Schlechter Variation:
+1. e4 e5
+2. Nf3 Nc6
+3. Nc3 Bb4
+4. Nd5 Nf6
+----------------------------
+* Steinitz-Rosenthal Variation:
+1. e4 e5
+2. Nf3 Nc6
+3. Nc3 g6
+4. d4 exd4
+5. Nd5 
+----------------------------
