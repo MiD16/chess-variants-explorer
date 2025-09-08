@@ -1,18 +1,4 @@
 ** Catalan Opening:
-* Open Defense:
-1. d4 Nf6
-2. c4 e6
-3. g3 d5
-4. Bg2 dxc4
-----------------------------
-* Open Defense:
-1. d4 Nf6
-2. c4 e6
-3. g3 d5
-4. Bg2 dxc4
-5. Qa4+ Nbd7
-6. Qxc4 
-----------------------------
 * Open Defense, Alekhine Variation:
 1. d4 Nf6
 2. c4 e6
@@ -21,20 +7,6 @@
 5. Qa4+ Nbd7
 6. Qxc4 a6
 7. Qc2 
-----------------------------
-* Open Defense:
-1. d4 Nf6
-2. c4 e6
-3. g3 d5
-4. Bg2 dxc4
-5. Nf3 
-----------------------------
-* Open Defense:
-1. d4 Nf6
-2. c4 e6
-3. Nf3 d5
-4. g3 c6
-5. Bg2 dxc4
 ----------------------------
 * Open Defense, Modern Sharp Variation:
 1. d4 Nf6
@@ -47,24 +19,10 @@
 * Open Defense, Classical Line:
 1. d4 Nf6
 2. c4 e6
-3. g3 d5
-4. Bg2 dxc4
-5. Nf3 Be7
-----------------------------
-* Open Defense, Classical Line:
-1. d4 Nf6
-2. c4 e6
 3. Nf3 d5
 4. g3 Be7
 5. Bg2 O-O
 6. O-O dxc4
-----------------------------
-* Closed:
-1. d4 Nf6
-2. c4 e6
-3. g3 d5
-4. Bg2 Be7
-5. Nf3 
 ----------------------------
 * Closed:
 1. d4 Nf6

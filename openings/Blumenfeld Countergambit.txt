@@ -1,17 +1,4 @@
 ** Blumenfeld Countergambit:
-* Blumenfeld Countergambit:
-1. d4 Nf6
-2. c4 e6
-3. Nf3 c5
-4. d5 b5
-----------------------------
-* Duz-Khotimirsky Variation:
-1. d4 Nf6
-2. c4 e6
-3. Nf3 c5
-4. d5 b5
-5. Bg5 
-----------------------------
 * Spielmann Variation:
 1. d4 Nf6
 2. c4 e6

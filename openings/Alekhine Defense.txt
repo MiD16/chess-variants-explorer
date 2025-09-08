@@ -1,12 +1,4 @@
 ** Alekhine Defense:
-* Hunt Variation, Lasker Simul Gambit:
-1. e4 Nf6
-2. e5 Nd5
-3. c4 Nb6
-4. c5 Nd5
-5. Bc4 e6
-6. Nc3 
-----------------------------
 * Hunt Variation, Matsukevich Gambit:
 1. e4 Nf6
 2. e5 Nd5
@@ -26,13 +18,6 @@
 7. Nxd5 exd5
 8. Bxd5 
 ----------------------------
-* Kmoch Variation:
-1. e4 Nf6
-2. e5 Nd5
-3. Bc4 Nb6
-4. Bb3 c5
-5. d3 
-----------------------------
 * Two Pawns Attack, Mikenas Variation:
 1. e4 Nf6
 2. e5 Nd5
@@ -40,13 +25,6 @@
 4. c5 Nd5
 5. Bc4 e6
 6. Nc3 d6
-----------------------------
-* Exchange Variation:
-1. e4 Nf6
-2. e5 Nd5
-3. d4 d6
-4. c4 Nb6
-5. exd6 
 ----------------------------
 * Exchange Variation, Karpov Variation:
 1. e4 Nf6
@@ -71,27 +49,6 @@
 7. Be3 Bg7
 8. Rc1 O-O
 9. b3 
-----------------------------
-* Four Pawns Attack:
-1. e4 Nf6
-2. e5 Nd5
-3. d4 d6
-4. c4 Nb6
-5. f4 
-----------------------------
-* Four Pawns Attack, Cambridge Gambit:
-1. e4 Nf6
-2. e5 Nd5
-3. d4 d6
-4. c4 Nb6
-5. f4 g5
-----------------------------
-* Four Pawns Attack, Fianchetto Variation:
-1. e4 Nf6
-2. e5 Nd5
-3. d4 d6
-4. c4 Nb6
-5. f4 g6
 ----------------------------
 * Four Pawns Attack, Ilyin-Zhenevsky Variation:
 1. e4 Nf6
@@ -138,34 +95,6 @@
 10. Be2 O-O-O
 11. O-O Be7
 ----------------------------
-* Four Pawns Attack, Trifunovic Variation:
-1. e4 Nf6
-2. e5 Nd5
-3. d4 d6
-4. c4 Nb6
-5. f4 Bf5
-----------------------------
-* Hunt Variation:
-1. e4 Nf6
-2. e5 Nd5
-3. d4 d6
-4. c4 Nb6
-5. c5 
-----------------------------
-* Modern Variation, Alekhine Gambit:
-1. e4 Nf6
-2. e5 Nd5
-3. d4 d6
-4. c4 Nb6
-5. Nf3 Bg4
-6. Be2 
-----------------------------
-* Modern Variation, Alburt Variation:
-1. e4 Nf6
-2. e5 Nd5
-3. d4 d6
-4. Nf3 g6
-----------------------------
 * Modern Variation, Keres Variation:
 1. e4 Nf6
 2. e5 Nd5
@@ -174,57 +103,4 @@
 5. Bc4 Nb6
 6. Bb3 Bg7
 7. a4 
-----------------------------
-* Modern Variation, Larsen Variation:
-1. e4 Nf6
-2. e5 Nd5
-3. d4 d6
-4. Nf3 dxe5
-----------------------------
-* Modern Variation, Larsen-Haakert Variation:
-1. e4 Nf6
-2. e5 Nd5
-3. d4 d6
-4. Nf3 Nc6
-----------------------------
-* Modern Variation, Schmid Variation:
-1. e4 Nf6
-2. e5 Nd5
-3. d4 d6
-4. Nf3 Nb6
-----------------------------
-* Modern Variation, Alekhine Variation:
-1. e4 Nf6
-2. e5 Nd5
-3. d4 d6
-4. Nf3 Bg4
-5. c4 
-----------------------------
-* Modern Variation, Flohr Variation:
-1. e4 Nf6
-2. e5 Nd5
-3. d4 d6
-4. Nf3 Bg4
-5. Be2 c6
-----------------------------
-* Modern Variation, Main Line:
-1. e4 Nf6
-2. e5 Nd5
-3. d4 d6
-4. Nf3 Bg4
-----------------------------
-* Modern Variation, Panov Variation:
-1. e4 Nf6
-2. e5 Nd5
-3. d4 d6
-4. Nf3 Bg4
-5. h3 
-----------------------------
-* Modern Variation, Vitolins Attack:
-1. e4 Nf6
-2. e5 Nd5
-3. d4 d6
-4. Nf3 Bg4
-5. c4 Nb6
-6. d5 
 ----------------------------

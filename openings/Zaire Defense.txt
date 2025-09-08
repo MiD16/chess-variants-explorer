@@ -1,7 +1,0 @@
-** Zaire Defense:
-* Zaire Defense:
-1. d4 Nc6
-2. d5 Nb8
-3. e4 Nf6
-4. e5 Ng8
-----------------------------

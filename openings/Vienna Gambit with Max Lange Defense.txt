@@ -1,18 +1,4 @@
 ** Vienna Gambit, with Max Lange Defense:
-* Cunningham Defense:
-1. e4 e5
-2. Nc3 Nc6
-3. f4 exf4
-4. Nf3 Be7
-----------------------------
-* Hamppe-Allgaier Gambit:
-1. e4 e5
-2. Nc3 Nc6
-3. f4 exf4
-4. Nf3 g5
-5. h4 g4
-6. Ng5 
-----------------------------
 * Hamppe-Allgaier Gambit, Alapin Variation:
 1. e4 e5
 2. Nc3 Nc6
@@ -38,52 +24,4 @@
 4. Nf3 g5
 5. Bc4 g4
 6. O-O gxf3
-----------------------------
-* Pierce Gambit:
-1. e4 e5
-2. Nc3 Nc6
-3. f4 exf4
-4. Nf3 g5
-5. d4 
-----------------------------
-* Quelle Gambit:
-1. e4 e5
-2. Nc3 Nc6
-3. f4 Bc5
-4. fxe5 d6
-----------------------------
-* Steinitz Gambit, Fraser-Minckwitz Defense:
-1. e4 e5
-2. Nc3 Nc6
-3. f4 exf4
-4. d4 Qh4+
-5. Ke2 b6
-----------------------------
-* Steinitz Gambit, Main Line:
-1. e4 e5
-2. Nc3 Nc6
-3. f4 exf4
-4. d4 Qh4+
-5. Ke2 
-----------------------------
-* Steinitz Gambit, Paulsen Defense:
-1. e4 e5
-2. Nc3 Nc6
-3. f4 exf4
-4. d4 Qh4+
-5. Ke2 d6
-----------------------------
-* Steinitz Gambit, Sörensen Defense:
-1. e4 e5
-2. Nc3 Nc6
-3. f4 exf4
-4. d4 Qh4+
-5. Ke2 g5
-----------------------------
-* Steinitz Gambit, Zukertort Defense:
-1. e4 e5
-2. Nc3 Nc6
-3. f4 exf4
-4. d4 Qh4+
-5. Ke2 d5
 ----------------------------

@@ -1,10 +1,4 @@
 ** Scotch Game:
-* Benima Defense:
-1. e4 e5
-2. Nf3 Nc6
-3. Bc4 Be7
-4. d4 exd4
-----------------------------
 * Cochrane Variation:
 1. e4 e5
 2. Nf3 Nc6
@@ -33,20 +27,6 @@
 5. Bc4 Nf6
 6. Nxc3 Bb4
 ----------------------------
-* Göring Gambit, Double Pawn Sacrifice:
-1. e4 e5
-2. Nf3 Nc6
-3. d4 exd4
-4. c3 dxc3
-5. Bc4 
-----------------------------
-* Göring Gambit, Main Line:
-1. e4 e5
-2. Nf3 Nc6
-3. d4 exd4
-4. c3 dxc3
-5. Nxc3 Bb4
-----------------------------
 * Hanneken Variation:
 1. e4 e5
 2. Nf3 Nc6
@@ -58,33 +38,6 @@
 8. Ng5 O-O
 9. e5 Nxe5
 ----------------------------
-* Haxo Gambit:
-1. e4 e5
-2. Nf3 Nc6
-3. d4 exd4
-4. Bc4 Bc5
-----------------------------
-* Lolli Variation:
-1. e4 e5
-2. Nf3 Nc6
-3. d4 Nxd4
-4. Nxd4 exd4
-5. Qxd4 
-----------------------------
-* Napoleon Gambit:
-1. e4 e5
-2. Nf3 Nc6
-3. d4 Nxd4
-4. Nxd4 exd4
-5. Bc4 
-----------------------------
-* Scotch Gambit, Advance Variation:
-1. e4 e5
-2. Nf3 Nc6
-3. d4 exd4
-4. Bc4 Nf6
-5. e5 
-----------------------------
 * Scotch Gambit, Cochrane-Anderssen Variation:
 1. e4 e5
 2. Nf3 Nc6
@@ -92,38 +45,6 @@
 4. Bc4 Bc5
 5. O-O d6
 6. c3 Bg4
-----------------------------
-* Scotch Gambit, Dubois Réti Defense:
-1. e4 e5
-2. Nf3 Nc6
-3. Bc4 Nf6
-4. d4 exd4
-----------------------------
-* Scotch Gambit, Göring Gambit Declined:
-1. e4 e5
-2. Nf3 Nc6
-3. d4 exd4
-4. c3 d5
-----------------------------
-* Scotch Gambit, Kingside Variation:
-1. e4 e5
-2. Nf3 Nc6
-3. Bc4 Nf6
-4. d4 exd4
-5. e5 Ng4
-----------------------------
-* Scotch Gambit, London Defense:
-1. e4 e5
-2. Nf3 Nc6
-3. d4 exd4
-4. Bc4 Bb4+
-----------------------------
-* Scotch Gambit, Sarratt Variation:
-1. e4 e5
-2. Nf3 Nc6
-3. d4 exd4
-4. Bc4 Bc5
-5. Ng5 
 ----------------------------
 * Sea-Cadet Mate:
 1. e4 e5
@@ -137,50 +58,6 @@
 9. Bxf7+ Ke7
 10. Nd5# 
 ----------------------------
-* Vitzthum Attack:
-1. e4 e5
-2. Nf3 Nc6
-3. d4 exd4
-4. Bc4 Bc5
-5. Ng5 Nh6
-6. Qh5 
-----------------------------
-* Scotch Game:
-1. e4 e5
-2. Nf3 Nc6
-3. d4 exd4
-4. Nxd4 Qh4
-5. Nb5 Bb4+
-6. Bd2 
-----------------------------
-* Alekhine Gambit:
-1. e4 e5
-2. Nf3 Nc6
-3. d4 exd4
-4. Nxd4 Nf6
-5. e5 
-----------------------------
-* Blumenfeld Attack:
-1. e4 e5
-2. Nf3 Nc6
-3. d4 exd4
-4. Nxd4 Bc5
-5. Be3 Qf6
-6. Nb5 
-----------------------------
-* Braune Variation:
-1. e4 e5
-2. Nf3 Nc6
-3. d4 exd4
-4. Nxd4 Qh4
-5. Be3 
-----------------------------
-* Classical Variation:
-1. e4 e5
-2. Nf3 Nc6
-3. d4 exd4
-4. Nxd4 Bc5
-----------------------------
 * Classical Variation, Blackburne Attack:
 1. e4 e5
 2. Nf3 Nc6
@@ -190,13 +67,6 @@
 6. c3 Nge7
 7. Qd2 
 ----------------------------
-* Classical Variation, Intermezzo Variation:
-1. e4 e5
-2. Nf3 Nc6
-3. d4 exd4
-4. Nxd4 Bc5
-5. Nxc6 Qf6
-----------------------------
 * Classical Variation, Millennium Variation:
 1. e4 e5
 2. Nf3 Nc6
@@ -204,21 +74,6 @@
 4. Nxd4 Bc5
 5. Be3 Qf6
 6. c3 Qg6
-----------------------------
-* Fraser Variation:
-1. e4 e5
-2. Nf3 Nc6
-3. d4 exd4
-4. Nxd4 Qh4
-5. Nf3 
-----------------------------
-* Ghulam-Kassim Variation:
-1. e4 e5
-2. Nf3 Nc6
-3. d4 exd4
-4. Nxd4 Nxd4
-5. Qxd4 d6
-6. Bd3 
 ----------------------------
 * Gottschall Variation:
 1. e4 e5
@@ -234,13 +89,6 @@
 11. Nxd5 Nxd5
 12. exd5 Nb4
 ----------------------------
-* Horwitz Attack:
-1. e4 e5
-2. Nf3 Nc6
-3. d4 exd4
-4. Nxd4 Qh4
-5. Nb5 
-----------------------------
 * Horwitz Attack, Blackburne Variation:
 1. e4 e5
 2. Nf3 Nc6
@@ -252,12 +100,6 @@
 8. O-O Bxd2
 9. Qxd2 
 ----------------------------
-* Malaniuk Variation:
-1. e4 e5
-2. Nf3 Nc6
-3. d4 exd4
-4. Nxd4 Bb4+
-----------------------------
 * Meitner Variation:
 1. e4 e5
 2. Nf3 Nc6
@@ -266,21 +108,6 @@
 5. Be3 Qf6
 6. c3 Nge7
 7. Nc2 
-----------------------------
-* Mieses Variation:
-1. e4 e5
-2. Nf3 Nc6
-3. d4 exd4
-4. Nxd4 Nf6
-5. Nxc6 bxc6
-6. e5 
-----------------------------
-* Modern Defense:
-1. e4 e5
-2. Nf3 Nc6
-3. d4 exd4
-4. Nxd4 Qh4
-5. Nc3 Bb4
 ----------------------------
 * Paulsen Attack:
 1. e4 e5
@@ -291,13 +118,6 @@
 6. c3 Nge7
 7. Bb5 
 ----------------------------
-* Paulsen Variation:
-1. e4 e5
-2. Nf3 Nc6
-3. d4 exd4
-4. Nxd4 Qh4
-5. Nf5 
-----------------------------
 * Paulsen, Gunsberg Defense:
 1. e4 e5
 2. Nf3 Nc6
@@ -306,20 +126,6 @@
 5. Be3 Qf6
 6. c3 Nge7
 7. Bb5 Nd8
-----------------------------
-* Potter Variation:
-1. e4 e5
-2. Nf3 Nc6
-3. d4 exd4
-4. Nxd4 Bc5
-5. Nb3 
-----------------------------
-* Romanishin Variation:
-1. e4 e5
-2. Nf3 Nc6
-3. d4 exd4
-4. Nxd4 Bc5
-5. Nb3 Bb4+
 ----------------------------
 * Rosenthal Variation:
 1. e4 e5
@@ -331,31 +137,4 @@
 7. Be2 Kd8
 8. O-O Bxd2
 9. Nxd2 Qg6
-----------------------------
-* Schmidt Variation:
-1. e4 e5
-2. Nf3 Nc6
-3. d4 exd4
-4. Nxd4 Nf6
-----------------------------
-* Steinitz Variation:
-1. e4 e5
-2. Nf3 Nc6
-3. d4 exd4
-4. Nxd4 Qh4
-----------------------------
-* Steinitz Variation:
-1. e4 e5
-2. Nf3 Nc6
-3. d4 exd4
-4. Nxd4 Qh4
-5. Nc3 
-----------------------------
-* Tartakower Variation:
-1. e4 e5
-2. Nf3 Nc6
-3. d4 exd4
-4. Nxd4 Nf6
-5. Nxc6 bxc6
-6. Nd2 
 ----------------------------

@@ -9,13 +9,6 @@
 7. Nb5 d6
 8. Bc4 
 ----------------------------
-* Zaitsev System:
-1. d4 Nf6
-2. c4 c5
-3. d5 b5
-4. cxb5 a6
-5. Nc3 
-----------------------------
 * Zaitsev Variation, Nescafe Frappe Attack:
 1. d4 Nf6
 2. c4 c5

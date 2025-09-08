@@ -8,20 +8,6 @@
 6. e4 Bg7
 7. Nf3 Ne7
 ----------------------------
-* King's Indian System:
-1. d4 Nf6
-2. c4 c5
-3. d5 e5
-4. Nc3 d6
-5. e4 g6
-----------------------------
-* Modern Variation, Snake Variation:
-1. d4 Nf6
-2. c4 c5
-3. d5 e6
-4. Nc3 exd5
-5. cxd5 Bd6
-----------------------------
 * Benoni Defense:
 1. d4 Nf6
 2. c4 e6
@@ -90,14 +76,6 @@
 9. O-O a6
 10. a4 Nbd7
 11. Nd2 Re8
-----------------------------
-* King's Pawn Line:
-1. d4 Nf6
-2. c4 c5
-3. d5 e6
-4. Nc3 exd5
-5. cxd5 d6
-6. e4 
 ----------------------------
 * King's Pawn Line:
 1. d4 Nf6

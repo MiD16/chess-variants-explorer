@@ -1,17 +1,4 @@
 ** Petrov's Defense:
-* Petrov's Defense:
-1. e4 e5
-2. Nf3 Nf6
-3. Nxe5 d6
-4. Nf3 Nxe4
-----------------------------
-* Classical Attack:
-1. e4 e5
-2. Nf3 Nf6
-3. Nxe5 d6
-4. Nf3 Nxe4
-5. d4 
-----------------------------
 * Classical Attack, Berger Variation:
 1. e4 e5
 2. Nf3 Nf6
@@ -55,13 +42,6 @@
 7. O-O Be7
 8. c4 Nb4
 9. Be2 
-----------------------------
-* Classical Attack, Closed Variation:
-1. e4 e5
-2. Nf3 Nf6
-3. Nxe5 d6
-4. Nf3 Nxe4
-5. d4 Nf6
 ----------------------------
 * Classical Attack, Jaenisch Variation:
 1. e4 e5
@@ -165,67 +145,6 @@
 7. O-O O-O
 8. c4 Bg4
 ----------------------------
-* Cochrane Gambit, Bishop Check Line:
-1. e4 e5
-2. Nf3 Nf6
-3. Nxe5 d6
-4. Nxf7 Kxf7
-5. Bc4+ 
-----------------------------
-* Cochrane Gambit, Center Variation:
-1. e4 e5
-2. Nf3 Nf6
-3. Nxe5 d6
-4. Nxf7 Kxf7
-5. d4 
-----------------------------
-* Cozio Attack:
-1. e4 e5
-2. Nf3 Nf6
-3. Nxe5 d6
-4. Nf3 Nxe4
-5. Qe2 
-----------------------------
-* Damiano Variation, Kholmov Gambit:
-1. e4 e5
-2. Nf3 Nf6
-3. Nxe5 Nxe4
-4. Qe2 Qe7
-----------------------------
-* French Attack:
-1. e4 e5
-2. Nf3 Nf6
-3. Nxe5 d6
-4. Nf3 Nxe4
-5. d3 
-----------------------------
-* Kaufmann Attack:
-1. e4 e5
-2. Nf3 Nf6
-3. Nxe5 d6
-4. Nf3 Nxe4
-5. c4 
-----------------------------
-* Millennium Attack:
-1. e4 e5
-2. Nf3 Nf6
-3. Nxe5 d6
-4. Nf3 Nxe4
-5. Bd3 
-----------------------------
-* Nimzowitsch Attack:
-1. e4 e5
-2. Nf3 Nf6
-3. Nxe5 d6
-4. Nf3 Nxe4
-5. Nc3 
-----------------------------
-* Stafford Gambit:
-1. e4 e5
-2. Nf3 Nf6
-3. Nxe5 Nc6
-4. Nxc6 dxc6
-----------------------------
 * Modern Attack, Bardeleben Variation:
 1. e4 e5
 2. Nf3 Nf6
@@ -233,33 +152,6 @@
 4. e5 Ne4
 5. Qe2 Nc5
 6. Nxd4 Nc6
-----------------------------
-* Modern Attack, Center Attack:
-1. e4 e5
-2. Nf3 Nf6
-3. d4 exd4
-4. e5 Ne4
-5. Qxd4 
-----------------------------
-* Modern Attack, Murrey Variation:
-1. e4 e5
-2. Nf3 Nf6
-3. d4 Nxe4
-4. Bd3 Nc6
-----------------------------
-* Modern Attack, Steinitz Variation:
-1. e4 e5
-2. Nf3 Nf6
-3. d4 exd4
-4. e5 Ne4
-5. Qe2 
-----------------------------
-* Modern Attack, Tal Gambit:
-1. e4 e5
-2. Nf3 Nf6
-3. d4 exd4
-4. e5 Ne4
-5. Bb5 
 ----------------------------
 * Modern Attack, Trifunovic Variation:
 1. e4 e5

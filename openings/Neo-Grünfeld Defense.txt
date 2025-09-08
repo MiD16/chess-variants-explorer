@@ -1,11 +1,4 @@
 ** Neo-Grünfeld Defense:
-* Exchange Variation:
-1. d4 Nf6
-2. c4 g6
-3. g3 Bg7
-4. Bg2 d5
-5. cxd5 Nxd5
-----------------------------
 * Delayed Exchange Variation:
 1. d4 Nf6
 2. c4 g6
@@ -43,14 +36,6 @@
 5. Bg2 d5
 6. cxd5 Nxd5
 7. O-O Nb6
-----------------------------
-* Classical Variation:
-1. d4 Nf6
-2. Nf3 g6
-3. g3 Bg7
-4. Bg2 O-O
-5. O-O d5
-6. c4 
 ----------------------------
 * Classical Variation, Modern Defense:
 1. d4 Nf6

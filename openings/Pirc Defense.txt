@@ -1,52 +1,4 @@
 ** Pirc Defense:
-* 150 Attack:
-1. e4 d6
-2. d4 Nf6
-3. Nc3 g6
-4. Be3 c6
-5. Qd2 
-----------------------------
-* 150 Attack, Inner Doll Defense:
-1. e4 d6
-2. d4 Nf6
-3. Nc3 g6
-4. Be3 c6
-5. Qd2 Bg4
-----------------------------
-* 150 Attack, Sveshnikov-Jansa Attack:
-1. e4 d6
-2. d4 Nf6
-3. Nc3 g6
-4. Be3 c6
-5. h3 
-----------------------------
-* Bayonet Attack:
-1. e4 d6
-2. d4 Nf6
-3. Nc3 g6
-4. Be2 Bg7
-5. h4 
-----------------------------
-* Chinese Variation:
-1. e4 d6
-2. d4 Nf6
-3. Nc3 g6
-4. Be2 Bg7
-5. g4 
-----------------------------
-* Classical Variation:
-1. e4 d6
-2. d4 Nf6
-3. Nc3 g6
-4. Nf3 Bg7
-----------------------------
-* Classical Variation, Quiet System:
-1. e4 d6
-2. d4 Nf6
-3. Nc3 g6
-4. Nf3 Bg7
-5. Be2 
-----------------------------
 * Classical Variation, Quiet System, Chigorin Line:
 1. e4 d6
 2. d4 Nf6
@@ -71,50 +23,6 @@
 5. Be2 O-O
 6. O-O Bg4
 ----------------------------
-* Classical Variation, Schlechter Variation:
-1. e4 d6
-2. d4 Nf6
-3. Nc3 g6
-4. Nf3 Bg7
-5. h3 
-----------------------------
-* Austrian Attack:
-1. e4 d6
-2. d4 Nf6
-3. Nc3 g6
-4. f4 Bg7
-5. Nf3 O-O
-----------------------------
-* Austrian Attack, Dragon Formation:
-1. e4 d6
-2. d4 Nf6
-3. Nc3 g6
-4. f4 Bg7
-5. Nf3 c5
-----------------------------
-* Austrian Attack, Kurajica Variation:
-1. e4 d6
-2. d4 Nf6
-3. Nc3 g6
-4. f4 Bg7
-5. Nf3 O-O
-6. Be3 
-----------------------------
-* Austrian Attack, Ljubojevic Variation:
-1. e4 d6
-2. d4 Nf6
-3. Nc3 g6
-4. f4 Bg7
-5. Bc4 
-----------------------------
-* Austrian Attack, Unzicker Attack:
-1. e4 d6
-2. d4 Nf6
-3. Nc3 g6
-4. f4 Bg7
-5. Nf3 O-O
-6. e5 
-----------------------------
 * Austrian Attack, Unzicker Attack, Bronstein Variation:
 1. e4 d6
 2. d4 Nf6
@@ -123,12 +31,4 @@
 5. Nf3 O-O
 6. e5 Nfd7
 7. h4 
-----------------------------
-* Austrian Attack, Weiss Variation:
-1. e4 d6
-2. d4 Nf6
-3. Nc3 g6
-4. f4 Bg7
-5. Nf3 O-O
-6. Bd3 
 ----------------------------

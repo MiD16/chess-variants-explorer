@@ -1,16 +1,4 @@
 ** Bogo-Indian Defense:
-* Exchange Variation:
-1. d4 Nf6
-2. c4 e6
-3. Nf3 Bb4+
-4. Bd2 Bxd2+
-----------------------------
-* Haiti Variation:
-1. d4 Nf6
-2. c4 e6
-3. Nf3 Bb4+
-4. Bd2 Nc6
-----------------------------
 * Monticelli Trap:
 1. d4 Nf6
 2. c4 e6
@@ -22,26 +10,6 @@
 8. Nc3 Ne4
 9. Qc2 Nxc3
 10. Ng5 
-----------------------------
-* Nimzowitsch Variation:
-1. d4 Nf6
-2. c4 e6
-3. Nf3 Bb4+
-4. Bd2 Qe7
-----------------------------
-* Retreat Variation:
-1. d4 Nf6
-2. c4 e6
-3. Nf3 Bb4+
-4. Bd2 Be7
-----------------------------
-* Retreat Variation:
-1. d4 Nf6
-2. c4 e6
-3. g3 Bb4+
-4. Bd2 Be7
-5. Bg2 d5
-6. Nf3 
 ----------------------------
 * Retreat Variation:
 1. d4 Nf6
@@ -103,16 +71,4 @@
 8. Qc2 Nbd7
 9. Bf4 b6
 10. Nbd2 Ba6
-----------------------------
-* Vitolins Variation:
-1. d4 Nf6
-2. c4 e6
-3. Nf3 Bb4+
-4. Bd2 c5
-----------------------------
-* Wade-Smyslov Variation:
-1. d4 Nf6
-2. c4 e6
-3. Nf3 Bb4+
-4. Bd2 a5
 ----------------------------

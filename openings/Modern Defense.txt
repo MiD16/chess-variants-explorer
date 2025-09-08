@@ -1,57 +1,4 @@
 ** Modern Defense:
-* Anti-Modern:
-1. e4 g6
-2. d4 Bg7
-3. Nc3 c6
-4. Bc4 d6
-5. Qe2 
-----------------------------
-* Bishop Attack, Monkey's Bum:
-1. e4 g6
-2. Bc4 Bg7
-3. Qf3 e6
-4. d4 Bxd4
-----------------------------
-* Dunworthy Variation:
-1. e4 g6
-2. d4 Bg7
-3. c4 d5
-4. exd5 c6
-5. dxc6 Bxd4
-----------------------------
-* Gurgenidze Defense:
-1. e4 g6
-2. d4 Bg7
-3. Nc3 c6
-4. f4 d5
-5. e5 h5
-----------------------------
-* Masur Gambit:
-1. e4 g6
-2. d4 Nh6
-3. Nc3 f5
-4. Bxh6 Bxh6
-5. exf5 O-O
-----------------------------
-* Norwegian Defense, Norwegian Gambit:
-1. e4 g6
-2. d4 Nf6
-3. e5 Nh5
-4. Be2 d6
-----------------------------
-* Semi-Averbakh Variation, Pterodactyl Variation Declined:
-1. e4 g6
-2. d4 Bg7
-3. c4 c5
-4. Nf3 d6
-5. Be2 Qa5+
-----------------------------
-* Two Knights Variation, Suttles Variation:
-1. e4 g6
-2. d4 Bg7
-3. Nc3 c6
-4. Nf3 d6
-----------------------------
 * Two Knights Variation, Suttles Variation, Tal Gambit:
 1. e4 g6
 2. d4 Bg7
@@ -59,10 +6,4 @@
 4. Nf3 c6
 5. Bg5 Qb6
 6. Qd2 Qxb2
-----------------------------
-* Pterodactyl Variation:
-1. e4 c5
-2. Nf3 g6
-3. d4 Bg7
-4. Nc3 Qa5
 ----------------------------

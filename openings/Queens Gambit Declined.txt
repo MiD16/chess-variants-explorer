@@ -1,30 +1,4 @@
 ** Queen's Gambit Declined:
-* Baltic Defense, Pseudo-Slav:
-1. d4 d5
-2. Nf3 Bf5
-3. c4 e6
-4. Nc3 c6
-----------------------------
-* Austrian Defense, Haberditz Variation:
-1. d4 d5
-2. c4 c5
-3. cxd5 Nf6
-4. e4 Nxe4
-5. dxc5 Qa5+
-----------------------------
-* Baltic Defense, Argentinian Gambit:
-1. d4 d5
-2. c4 Bf5
-3. cxd5 Bxb1
-4. Qa4+ c6
-5. dxc6 Nxc6
-----------------------------
-* Baltic Defense, Pseudo-Chigorin:
-1. d4 d5
-2. c4 Bf5
-3. Nc3 e6
-4. Nf3 Nc6
-----------------------------
 * Chigorin Defense, Exchange Variation, Costa's Line:
 1. d4 d5
 2. c4 Nc6
@@ -34,26 +8,6 @@
 6. Bd2 Bxc3
 7. Bxc3 exd4
 8. Ne2 
-----------------------------
-* Chigorin Defense, Modern Gambit:
-1. d4 d5
-2. c4 Nc6
-3. Nc3 dxc4
-4. Nf3 Nf6
-----------------------------
-* Albin Countergambit, Balogh Variation:
-1. d4 d5
-2. c4 e5
-3. dxe5 d4
-4. Nf3 Nc6
-5. Nbd2 Qe7
-----------------------------
-* Albin Countergambit, Janowski Variation:
-1. d4 d5
-2. c4 e5
-3. dxe5 d4
-4. Nf3 Nc6
-5. Nbd2 f6
 ----------------------------
 * Albin Countergambit, Krenosz Variation:
 1. d4 d5
@@ -65,68 +19,6 @@
 7. Nxf3 Bb4+
 8. Bd2 Qe7
 ----------------------------
-* Albin Countergambit, Lasker Trap:
-1. d4 d5
-2. c4 e5
-3. dxe5 d4
-4. e3 Bb4+
-5. Bd2 dxe3
-----------------------------
-* Albin Countergambit, Modern Line:
-1. d4 d5
-2. c4 e5
-3. dxe5 d4
-4. Nf3 Nc6
-5. Nbd2 
-----------------------------
-* Albin Countergambit, Tartakower Defense:
-1. d4 d5
-2. c4 e5
-3. dxe5 d4
-4. Nf3 c5
-----------------------------
-* Albin Countergambit, Fianchetto Variation:
-1. d4 d5
-2. c4 e5
-3. dxe5 d4
-4. Nf3 Nc6
-5. g3 
-----------------------------
-* Albin Countergambit, Fianchetto Variation, Be6 Line:
-1. d4 d5
-2. c4 e5
-3. dxe5 d4
-4. Nf3 Nc6
-5. g3 Be6
-----------------------------
-* Albin Countergambit, Fianchetto Variation, Bf5 Line:
-1. d4 d5
-2. c4 e5
-3. dxe5 d4
-4. Nf3 Nc6
-5. g3 Bf5
-----------------------------
-* Albin Countergambit, Fianchetto Variation, Bg4 Line:
-1. d4 d5
-2. c4 e5
-3. dxe5 d4
-4. Nf3 Nc6
-5. g3 Bg4
-----------------------------
-* Capablanca Variation:
-1. d4 Nf6
-2. c4 e6
-3. Nf3 d5
-4. Bg5 h6
-----------------------------
-* Capablanca Variation:
-1. d4 Nf6
-2. Nf3 e6
-3. c4 d5
-4. Bg5 c6
-5. Nbd2 Nbd7
-6. e3 
-----------------------------
 * Semmering Variation:
 1. d4 d5
 2. c4 c6
@@ -135,13 +27,6 @@
 5. Nbd2 Nbd7
 6. Bd3 c5
 ----------------------------
-* Spielmann Variation:
-1. d4 d5
-2. c4 e6
-3. Nf3 Nf6
-4. e3 c6
-5. Nbd2 g6
-----------------------------
 * Stonewall Variation:
 1. d4 d5
 2. c4 c6
@@ -149,26 +34,6 @@
 4. e3 e6
 5. Nbd2 Ne4
 6. Bd3 f5
-----------------------------
-* Tarrasch Defense, Pseudo-Tarrasch Bishop Attack:
-1. d4 d5
-2. c4 e6
-3. Nf3 c5
-4. cxd5 exd5
-5. Bg5 
-----------------------------
-* Vienna Variation:
-1. d4 Nf6
-2. c4 e6
-3. Nf3 d5
-4. Bg5 Bb4+
-----------------------------
-* Charousek Variation, Miladinovic Gambit:
-1. d4 d5
-2. c4 e6
-3. Nc3 Be7
-4. e4 dxe4
-5. f3 
 ----------------------------
 * Semi-Slav, Abrahams Variation:
 1. d4 d5
@@ -206,12 +71,6 @@
 6. Bh4 O-O
 7. Rc1 dxc4
 ----------------------------
-* Tarrasch Defense:
-1. d4 d5
-2. c4 e6
-3. Nc3 c5
-4. cxd5 exd5
-----------------------------
 * Tarrasch Defense, Stoltz Variation:
 1. d4 d5
 2. c4 e6
@@ -235,49 +94,6 @@
 8. Qc2 Re8
 9. Nge2 Nf8
 10. O-O-O 
-----------------------------
-* Exchange Variation, Positional Variation:
-1. d4 Nf6
-2. c4 e6
-3. Nc3 d5
-4. cxd5 exd5
-5. Bg5 
-----------------------------
-* Exchange Variation, Positional Variation:
-1. d4 Nf6
-2. c4 e6
-3. Nc3 d5
-4. cxd5 exd5
-5. Bg5 c6
-----------------------------
-* Exchange Variation, Sämisch Variation:
-1. d4 Nf6
-2. c4 e6
-3. Nf3 d5
-4. Nc3 Nbd7
-5. cxd5 exd5
-6. Bf4 
-----------------------------
-* Exchange Variation, Reshevsky Variation:
-1. d4 Nf6
-2. c4 e6
-3. Nc3 d5
-4. cxd5 exd5
-5. Bg5 c6
-6. Qc2 
-----------------------------
-* Barmen Variation:
-1. d4 Nf6
-2. c4 e6
-3. Nf3 d5
-4. Nc3 Nbd7
-----------------------------
-* Harrwitz Attack:
-1. d4 Nf6
-2. c4 e6
-3. Nf3 d5
-4. Nc3 Be7
-5. Bf4 
 ----------------------------
 * Harrwitz Attack:
 1. d4 Nf6
@@ -353,40 +169,6 @@
 5. Bg5 h6
 6. Bh4 dxc4
 ----------------------------
-* Miles Variation:
-1. d4 Nf6
-2. c4 e6
-3. Nf3 d5
-4. Nc3 Be7
-5. Bg5 O-O
-6. Qc2 
-----------------------------
-* Three Knights, Vienna Variation:
-1. d4 Nf6
-2. c4 e6
-3. Nf3 d5
-4. Nc3 dxc4
-----------------------------
-* Vienna Variation, Quiet Variation:
-1. d4 Nf6
-2. c4 e6
-3. Nf3 d5
-4. Nc3 dxc4
-5. e3 
-----------------------------
-* Ragozin Defense:
-1. d4 Nf6
-2. c4 e6
-3. Nf3 d5
-4. Nc3 Bb4
-----------------------------
-* Ragozin Defense, Alekhine Variation:
-1. d4 Nf6
-2. c4 e6
-3. Nf3 d5
-4. Nc3 Bb4
-5. Qa4+ 
-----------------------------
 * Westphalian Variation:
 1. d4 Nf6
 2. c4 e6
@@ -394,19 +176,6 @@
 4. Nc3 Bb4
 5. Bg5 Nbd7
 6. e3 c5
-----------------------------
-* Ragozin Defense, Vienna Variation:
-1. d4 Nf6
-2. c4 e6
-3. Nf3 d5
-4. Nc3 Bb4
-5. Bg5 dxc4
-----------------------------
-* Semi-Tarrasch Defense:
-1. d4 Nf6
-2. c4 e6
-3. Nf3 d5
-4. Nc3 c5
 ----------------------------
 * Semi-Tarrasch Defense, Levenfish Variation:
 1. d4 d5
@@ -420,13 +189,6 @@
 9. dxc5 Bxc5
 10. e4 
 ----------------------------
-* Semi-Tarrasch Defense, Pillsbury Variation:
-1. d4 d5
-2. c4 e6
-3. Nc3 Nf6
-4. Nf3 c5
-5. Bg5 
-----------------------------
 * Semi-Tarrasch Defense, Symmetrical Variation:
 1. d4 d5
 2. c4 e6
@@ -435,28 +197,6 @@
 5. e3 Nc6
 6. Bd3 Bd6
 7. O-O O-O
-----------------------------
-* Semi-Tarrasch Defense:
-1. c4 c5
-2. Nf3 Nf6
-3. Nc3 Nc6
-4. g3 d5
-5. d4 e6
-----------------------------
-* Semi-Tarrasch Defense:
-1. d4 Nf6
-2. c4 e6
-3. Nf3 d5
-4. Nc3 c5
-5. cxd5 
-----------------------------
-* Semi-Tarrasch Defense, Exchange Variation:
-1. d4 Nf6
-2. c4 e6
-3. Nf3 d5
-4. Nc3 c5
-5. cxd5 Nxd5
-6. e4 
 ----------------------------
 * Semi-Tarrasch Defense, Kmoch Variation:
 1. d4 d5
@@ -470,14 +210,6 @@
 9. Bd2 Bxd2+
 10. Qxd2 O-O
 11. Bb5 
-----------------------------
-* Semi-Tarrasch Defense, Pillsbury Variation:
-1. d4 Nf6
-2. c4 e6
-3. Nf3 d5
-4. Nc3 c5
-5. cxd5 Nxd5
-6. e3 
 ----------------------------
 * Semi-Tarrasch Defense, San Sebastian Variation:
 1. d4 d5
@@ -508,34 +240,6 @@
 6. Bxf6 Qxf6
 7. Qb3 
 ----------------------------
-* Been-Koomen Variation:
-1. d4 d5
-2. c4 e6
-3. Nc3 Nf6
-4. Bg5 c5
-----------------------------
-* Pseudo-Tarrasch Variation:
-1. d4 d5
-2. c4 e6
-3. Nc3 Nf6
-4. Bg5 c5
-5. cxd5 
-----------------------------
-* Pseudo-Tarrasch Variation, Canal Variation:
-1. d4 d5
-2. c4 e6
-3. Nc3 Nf6
-4. Bg5 c5
-5. cxd5 Qb6
-----------------------------
-* Pseudo-Tarrasch Variation, Primitive Pillsbury Variation:
-1. d4 d5
-2. c4 e6
-3. Nc3 Nf6
-4. Bg5 c5
-5. Nf3 cxd4
-6. Qxd4 
-----------------------------
 * Semi-Tarrasch Defense, Krause Variation:
 1. d4 d5
 2. c4 e6
@@ -546,49 +250,6 @@
 7. Ndb5 a6
 8. Qa4 
 ----------------------------
-* Alekhine Variation:
-1. d4 d5
-2. c4 e6
-3. Nc3 Nf6
-4. Bg5 Nbd7
-5. Nf3 c6
-6. e4 
-----------------------------
-* Capablanca Variation, Anti-Cambridge Springs Variation:
-1. d4 d5
-2. c4 e6
-3. Nc3 Nf6
-4. Bg5 Nbd7
-5. e3 c6
-6. a3 
-----------------------------
-* Manhattan Variation:
-1. d4 d5
-2. c4 e6
-3. Nc3 Nf6
-4. Bg5 Nbd7
-5. e3 Bb4
-----------------------------
-* Modern Variation, Knight Defense:
-1. d4 d5
-2. c4 e6
-3. Nc3 Nf6
-4. Bg5 Nbd7
-----------------------------
-* Modern Variation, Knight Defense:
-1. d4 d5
-2. c4 e6
-3. Nc3 Nf6
-4. Bg5 Nbd7
-5. e3 
-----------------------------
-* Modern Variation, Knight Defense:
-1. d4 d5
-2. c4 e6
-3. Nc3 Nf6
-4. Bg5 Nbd7
-5. e3 c6
-----------------------------
 * Rochlin Variation:
 1. d4 d5
 2. c4 e6
@@ -597,14 +258,6 @@
 5. Nf3 c6
 6. Rc1 Qa5
 7. Bd2 
-----------------------------
-* Queen's Gambit Declined:
-1. d4 d5
-2. c4 c6
-3. Nf3 Nf6
-4. Nc3 e6
-5. Bg5 Nbd7
-6. e3 
 ----------------------------
 * Cambridge Springs Defense:
 1. d4 d5
@@ -671,34 +324,6 @@
 6. e3 Qa5
 7. cxd5 Nxd5
 ----------------------------
-* Queen's Gambit Declined:
-1. d4 d5
-2. c4 e6
-3. Nc3 Nf6
-4. Bg5 Be7
-----------------------------
-* Lasker Defense:
-1. d4 Nf6
-2. c4 e6
-3. Nc3 d5
-4. Bg5 Be7
-5. e3 Ne4
-----------------------------
-* Modern Variation, Heral Variation:
-1. d4 d5
-2. c4 e6
-3. Nc3 Nf6
-4. Bg5 Be7
-5. Bxf6 
-----------------------------
-* Neo-Orthodox Variation:
-1. d4 Nf6
-2. c4 e6
-3. Nc3 d5
-4. Bg5 Be7
-5. e3 O-O
-6. Rc1 
-----------------------------
 * Anti-Tartakower Variation:
 1. d4 Nf6
 2. c4 e6
@@ -720,14 +345,6 @@
 9. Bd3 Nd7
 10. O-O dxc4
 11. Bxc4 
-----------------------------
-* Modern Variation, Normal Line:
-1. d4 Nf6
-2. c4 e6
-3. Nf3 d5
-4. Nc3 Be7
-5. Bg5 O-O
-6. e3 
 ----------------------------
 * Neo-Orthodox Variation:
 1. d4 Nf6

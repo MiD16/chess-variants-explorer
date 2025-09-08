@@ -1,24 +1,4 @@
 ** King's Gambit Declined:
-* Classical Variation, Euwe Attack:
-1. e4 e5
-2. f4 Bc5
-3. Nf3 d6
-4. c3 Bg4
-5. fxe5 dxe5
-6. Qa4+ 
-----------------------------
-* Classical Variation, Rubinstein Countergambit:
-1. e4 e5
-2. f4 Bc5
-3. Nf3 d6
-4. c3 f5
-----------------------------
-* Classical, Hanham Variation:
-1. e4 e5
-2. f4 Bc5
-3. Nf3 d6
-4. Nc3 Nd7
-----------------------------
 * Classical, Réti Variation:
 1. e4 e5
 2. f4 Bc5
@@ -38,41 +18,6 @@
 7. h3 Bxf3
 8. Qxf3 exf4
 ----------------------------
-* Hobbs-Zilbermints Gambit:
-1. e4 e5
-2. f4 Nc6
-3. Nf3 g5
-4. fxg5 h6
-----------------------------
-* Norwalde Variation, Bücker Gambit:
-1. e4 e5
-2. f4 Qf6
-3. Nc3 Qxf4
-4. Nf3 Bb4
-5. Bc4 
-----------------------------
-* Panteldakis Countergambit, Pawn Sacrifice Line:
-1. e4 e5
-2. f4 f5
-3. exf5 exf4
-4. Qh5+ g6
-5. fxg6 Qe7+
-6. Kd1 
-----------------------------
-* Panteldakis Countergambit, Shirazi Line:
-1. e4 e5
-2. f4 f5
-3. exf5 exf4
-4. Qh5+ Ke7
-----------------------------
-* Panteldakis Countergambit, Symmetrical Variation:
-1. e4 e5
-2. f4 f5
-3. exf5 exf4
-4. Nf3 d5
-5. d4 Bd6
-6. Bd3 
-----------------------------
 * Falkbeer Countergambit, Charousek Gambit, Morphy Defense:
 1. e4 e5
 2. Nc3 Nf6
@@ -80,19 +25,6 @@
 4. exd5 e4
 5. d3 Bb4
 6. Bd2 e3
-----------------------------
-* Falkbeer Countergambit, Pickler Gambit:
-1. e4 e5
-2. f4 d5
-3. exd5 c6
-4. dxc6 Bc5
-----------------------------
-* Falkbeer Countergambit, Rubinstein Variation:
-1. e4 e5
-2. f4 d5
-3. exd5 e4
-4. Nc3 Nf6
-5. Qe2 
 ----------------------------
 * Falkbeer Countergambit, Alapin Variation:
 1. e4 e5
@@ -105,28 +37,6 @@
 8. Kd1 Qxd5+
 9. Nfd2 
 ----------------------------
-* Falkbeer Countergambit, Charousek Gambit:
-1. e4 e5
-2. f4 d5
-3. exd5 e4
-4. d3 Nf6
-5. dxe4 Nxe4
-6. Qe2 
-----------------------------
-* Falkbeer Countergambit, Charousek Gambit Accepted:
-1. e4 e5
-2. f4 d5
-3. exd5 e4
-4. d3 Nf6
-5. dxe4 
-----------------------------
-* Falkbeer Countergambit, Charousek Gambit, Keres Variation:
-1. e4 e5
-2. f4 d5
-3. exd5 e4
-4. d3 Nf6
-5. Nd2 
-----------------------------
 * Falkbeer Countergambit, Charousek Gambit, Main Line:
 1. e4 e5
 2. f4 d5
@@ -135,13 +45,6 @@
 5. dxe4 Nxe4
 6. Nf3 Bc5
 7. Qe2 Bf5
-----------------------------
-* Falkbeer Countergambit, Charousek Gambit, Old Line:
-1. e4 e5
-2. f4 d5
-3. exd5 e4
-4. d3 Nf6
-5. Qe2 
 ----------------------------
 * Falkbeer Countergambit, Charousek Variation:
 1. e4 e5

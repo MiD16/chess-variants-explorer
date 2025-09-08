@@ -1,7 +1,0 @@
-** Mikenas Defense:
-* Pozarek Gambit:
-1. d4 Nc6
-2. c4 e5
-3. dxe5 Nxe5
-4. Nc3 Nxc4
-----------------------------

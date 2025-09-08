@@ -1,12 +1,4 @@
 ** Vienna Game:
-* Hamppe-Muzio Gambit:
-1. e4 e5
-2. Nc3 Nc6
-3. f4 exf4
-4. Nf3 g5
-5. Bc4 g4
-6. O-O 
-----------------------------
 * Hamppe-Muzio, Dubois Variation:
 1. e4 e5
 2. Nc3 Nc6
@@ -16,20 +8,6 @@
 6. O-O gxf3
 7. Qxf3 Ne5
 8. Qxf4 Qf6
-----------------------------
-* Paulsen Variation:
-1. e4 e5
-2. Nc3 Nc6
-3. g3 Nf6
-4. Bg2 Bc5
-5. Nge2 d5
-----------------------------
-* Paulsen Variation, Mariotti Gambit:
-1. e4 e5
-2. Nc3 Nc6
-3. g3 Bc5
-4. Bg2 h5
-5. Nf3 h4
 ----------------------------
 * Pierce Gambit, Rushmere Attack:
 1. e4 e5
@@ -41,41 +19,6 @@
 7. O-O d5
 8. exd5 Bg4
 9. dxc6 
-----------------------------
-* Stanley Variation, Meitner-Mieses Gambit:
-1. e4 e5
-2. Nc3 Nc6
-3. Bc4 Bc5
-4. Qg4 Qf6
-5. Nd5 
-----------------------------
-* Mieses Variation, Erben Gambit:
-1. e4 e5
-2. Nc3 Nf6
-3. g3 d5
-4. exd5 c6
-----------------------------
-* Paulsen Variation, Pollock Gambit:
-1. e4 e5
-2. Nc3 Nf6
-3. g3 Bc5
-4. Bg2 Nc6
-5. Nge2 d5
-6. exd5 
-----------------------------
-* Stanley Variation, Eifel Gambit:
-1. e4 e5
-2. Nc3 Nf6
-3. Bc4 Bc5
-4. Nge2 b5
-----------------------------
-* Adams' Gambit:
-1. e4 e5
-2. Nc3 Nf6
-3. Bc4 Nxe4
-4. Qh5 Nd6
-5. Bb3 Nc6
-6. d4 
 ----------------------------
 * Stanley Variation, Alekhine Variation:
 1. e4 e5
@@ -97,64 +40,6 @@
 8. Qd5 Qe7
 9. Nxc7+ Kd8
 10. Nxa8 b6
-----------------------------
-* Stanley Variation, Monster Declined:
-1. e4 e5
-2. Nc3 Nf6
-3. Bc4 Nxe4
-4. Qh5 Nd6
-5. Bb3 Be7
-----------------------------
-* Stanley Variation, Bronstein Gambit:
-1. e4 e5
-2. Nc3 Nc6
-3. Bc4 Nf6
-4. f4 Nxe4
-5. Nf3 
-----------------------------
-* Heyde Variation:
-1. e4 e5
-2. Nc3 Nf6
-3. f4 d5
-4. fxe5 Nxe4
-5. Qf3 f5
-6. d4 
-----------------------------
-* Vienna Gambit, Bardeleben Variation:
-1. e4 e5
-2. Nc3 Nf6
-3. f4 d5
-4. fxe5 Nxe4
-5. Qf3 f5
-----------------------------
-* Vienna Gambit, Breyer Variation:
-1. e4 e5
-2. Nc3 Nf6
-3. f4 d5
-4. fxe5 Nxe4
-5. Nf3 Be7
-----------------------------
-* Vienna Gambit, Kaufmann Variation:
-1. e4 e5
-2. Nc3 Nf6
-3. f4 d5
-4. fxe5 Nxe4
-5. Nf3 Bg4
-6. Qe2 
-----------------------------
-* Vienna Gambit, Modern Variation:
-1. e4 e5
-2. Nc3 Nf6
-3. f4 d5
-4. fxe5 Nxe4
-5. d3 
-----------------------------
-* Vienna Gambit, Paulsen Attack:
-1. e4 e5
-2. Nc3 Nf6
-3. f4 d5
-4. fxe5 Nxe4
-5. Qf3 
 ----------------------------
 * Vienna Gambit, Wurzburger Trap:
 1. e4 e5
