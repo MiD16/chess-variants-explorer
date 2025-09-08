@@ -16,7 +16,7 @@ A GUI application for browsing and studying chess opening variations with an int
   - Proper handling of captures, castling, en passant, and promotions
 - **Comprehensive Opening Library**: 70+ opening files covering major chess openings
 
-## Screenshots
+## UI
 
 The application features a clean interface with:
 - Left sidebar for opening/variation selection
