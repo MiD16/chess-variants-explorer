@@ -398,6 +398,14 @@ class OpeningViewerApp:
         self.load_btn.pack(side="left", padx=(0,6))
         self.refresh_btn = ttk.Button(btn_frame, text="Refresh", command=self.reload_assets)
         self.refresh_btn.pack(side="left")
+        # search entry
+        search_frame = ttk.Frame(left_frame)
+        search_frame.pack(side="top", fill="x", padx=6, pady=(0,6))
+        ttk.Label(search_frame, text="Search:").pack(side="left")
+        self.search_var = tk.StringVar()
+        self.search_entry = ttk.Entry(search_frame, textvariable=self.search_var)
+        self.search_entry.pack(side="left", fill="x", expand=True, padx=(6,0))
+        self.search_var.trace_add("write", self.on_search_changed)
         # treeview with scrollbars
         tree_frame = ttk.Frame(left_frame)
         tree_frame.pack(side="top", fill="both", expand=True, padx=6, pady=(0,6))
@@ -449,25 +457,46 @@ class OpeningViewerApp:
 
     def reload_assets(self):
         self.openings = parse_assets(OPENINGS_DIR)
-        self.populate_tree()
+        self.populate_tree(self.search_var.get())
+    
+    def on_search_changed(self, *args):
+        self.populate_tree(self.search_var.get())
 
-    def populate_tree(self):
+    def populate_tree(self, search_term=""):
         self.tree.delete(*self.tree.get_children())
+        search_lower = search_term.lower()
+        
         for opening, variations in sorted(self.openings.items()):
-            oid = self.tree.insert("", "end", text=opening, open=False)
-            for vidx, var in enumerate(variations):
-                vid = self.tree.insert(oid, "end", text=var["name"], open=False, values=(opening, vidx))
-                # add moves as children
-                for midx, san in enumerate(var["moves_san"]):
-                    label = f"{midx+1}. {san}"
-                    # store metadata in tags or values: store (opening, vidx, midx)
-                    self.tree.insert(vid, "end", text=label, values=(opening, vidx, midx))
-        # reset state
-        self.current_opening = None
-        self.current_variation_idx = None
-        self.current_move_index = 0
-        self.board_canvas.reset_pieces_from_board(chess.Board())
-        self.status.config(text="Loaded {} openings".format(len(self.openings)))
+            opening_matches = search_lower in opening.lower()
+            matching_variations = []
+            
+            if opening_matches:
+                # Include all variations if opening matches
+                matching_variations = list(enumerate(variations))
+            else:
+                # Only include variations that match search
+                for vidx, var in enumerate(variations):
+                    if search_lower in var["name"].lower():
+                        matching_variations.append((vidx, var))
+            
+            if matching_variations:
+                oid = self.tree.insert("", "end", text=opening, open=True if search_term else False)
+                for vidx, var in matching_variations:
+                    vid = self.tree.insert(oid, "end", text=var["name"], open=False, values=(opening, vidx))
+                    # add moves as children
+                    for midx, san in enumerate(var["moves_san"]):
+                        label = f"{midx+1}. {san}"
+                        self.tree.insert(vid, "end", text=label, values=(opening, vidx, midx))
+        
+        # reset state only if not searching
+        if not search_term:
+            self.current_opening = None
+            self.current_variation_idx = None
+            self.current_move_index = 0
+            self.board_canvas.reset_pieces_from_board(chess.Board())
+        
+        count = len([item for item in self.tree.get_children()])
+        self.status.config(text=f"Showing {count} openings" + (f" (filtered)" if search_term else f" (loaded {len(self.openings)} total)"))
 
     def on_tree_select(self, event):
         sel = self.tree.selection()
