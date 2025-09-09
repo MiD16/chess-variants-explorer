@@ -1,0 +1,1055 @@
+{
+  "move": "Nf3",
+  "count": 114,
+  "children": [
+    {
+      "move": "d5",
+      "count": 31,
+      "children": [
+        {
+          "move": "g3",
+          "count": 13,
+          "children": [
+            {
+              "move": "c5",
+              "count": 8,
+              "children": [
+                {
+                  "move": "Bg2",
+                  "count": 7,
+                  "children": [
+                    {
+                      "move": "Nc6",
+                      "count": 5,
+                      "children": [
+                        {
+                          "move": "d4",
+                          "count": 4,
+                          "children": [
+                            {
+                              "move": "Nf6",
+                              "count": 2,
+                              "children": [
+                                {
+                                  "move": "O-O",
+                                  "count": 1,
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "move": "e6",
+                              "count": 1,
+                              "children": [
+                                {
+                                  "move": "O-O",
+                                  "count": 1,
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "move": "Nf6",
+                      "count": 1,
+                      "children": [
+                        {
+                          "move": "O-O",
+                          "count": 1,
+                          "children": [
+                            {
+                              "move": "e6",
+                              "count": 1,
+                              "children": [
+                                {
+                                  "move": "d3",
+                                  "count": 1,
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "move": "g6",
+              "count": 2,
+              "children": [
+                {
+                  "move": "Bg2",
+                  "count": 1,
+                  "children": [
+                    {
+                      "move": "Bg7",
+                      "count": 1,
+                      "children": [
+                        {
+                          "move": "O-O",
+                          "count": 1,
+                          "children": [
+                            {
+                              "move": "e5",
+                              "count": 1,
+                              "children": [
+                                {
+                                  "move": "d3",
+                                  "count": 1,
+                                  "children": [
+                                    {
+                                      "move": "Ne7",
+                                      "count": 1,
+                                      "children": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "move": "Bg4",
+              "count": 2,
+              "children": [
+                {
+                  "move": "Bg2",
+                  "count": 1,
+                  "children": [
+                    {
+                      "move": "Nd7",
+                      "count": 1,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "move": "e5",
+              "count": 1,
+              "children": []
+            }
+          ]
+        },
+        {
+          "move": "c4",
+          "count": 10,
+          "children": [
+            {
+              "move": "d4",
+              "count": 4,
+              "children": [
+                {
+                  "move": "b4",
+                  "count": 1,
+                  "children": [
+                    {
+                      "move": "c5",
+                      "count": 1,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "move": "Rg1",
+                  "count": 1,
+                  "children": []
+                },
+                {
+                  "move": "e3",
+                  "count": 1,
+                  "children": [
+                    {
+                      "move": "c5",
+                      "count": 1,
+                      "children": [
+                        {
+                          "move": "b4",
+                          "count": 1,
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "move": "dxc4",
+              "count": 2,
+              "children": [
+                {
+                  "move": "e3",
+                  "count": 1,
+                  "children": [
+                    {
+                      "move": "Be6",
+                      "count": 1,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "move": "c6",
+              "count": 2,
+              "children": [
+                {
+                  "move": "b3",
+                  "count": 2,
+                  "children": [
+                    {
+                      "move": "Bg4",
+                      "count": 1,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "move": "b5",
+              "count": 1,
+              "children": []
+            },
+            {
+              "move": "e6",
+              "count": 1,
+              "children": [
+                {
+                  "move": "g3",
+                  "count": 1,
+                  "children": [
+                    {
+                      "move": "Nf6",
+                      "count": 1,
+                      "children": [
+                        {
+                          "move": "Bg2",
+                          "count": 1,
+                          "children": [
+                            {
+                              "move": "Be7",
+                              "count": 1,
+                              "children": [
+                                {
+                                  "move": "O-O",
+                                  "count": 1,
+                                  "children": [
+                                    {
+                                      "move": "O-O",
+                                      "count": 1,
+                                      "children": [
+                                        {
+                                          "move": "b3",
+                                          "count": 1,
+                                          "children": [
+                                            {
+                                              "move": "c6",
+                                              "count": 1,
+                                              "children": [
+                                                {
+                                                  "move": "Bb2",
+                                                  "count": 1,
+                                                  "children": []
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "move": "b3",
+          "count": 4,
+          "children": [
+            {
+              "move": "c5",
+              "count": 2,
+              "children": [
+                {
+                  "move": "e4",
+                  "count": 1,
+                  "children": []
+                },
+                {
+                  "move": "c4",
+                  "count": 1,
+                  "children": [
+                    {
+                      "move": "dxc4",
+                      "count": 1,
+                      "children": [
+                        {
+                          "move": "Nc3",
+                          "count": 1,
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "move": "Nf6",
+              "count": 2,
+              "children": [
+                {
+                  "move": "Bb2",
+                  "count": 2,
+                  "children": [
+                    {
+                      "move": "c5",
+                      "count": 1,
+                      "children": [
+                        {
+                          "move": "e4",
+                          "count": 1,
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "move": "g6",
+                      "count": 1,
+                      "children": [
+                        {
+                          "move": "c4",
+                          "count": 1,
+                          "children": [
+                            {
+                              "move": "c6",
+                              "count": 1,
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "move": "d4",
+          "count": 3,
+          "children": [
+            {
+              "move": "Nf6",
+              "count": 2,
+              "children": [
+                {
+                  "move": "c4",
+                  "count": 2,
+                  "children": [
+                    {
+                      "move": "e6",
+                      "count": 2,
+                      "children": [
+                        {
+                          "move": "Nc3",
+                          "count": 2,
+                          "children": [
+                            {
+                              "move": "Be7",
+                              "count": 2,
+                              "children": [
+                                {
+                                  "move": "Bg5",
+                                  "count": 2,
+                                  "children": [
+                                    {
+                                      "move": "O-O",
+                                      "count": 2,
+                                      "children": [
+                                        {
+                                          "move": "e3",
+                                          "count": 2,
+                                          "children": [
+                                            {
+                                              "move": "Nbd7",
+                                              "count": 2,
+                                              "children": [
+                                                {
+                                                  "move": "Rc1",
+                                                  "count": 2,
+                                                  "children": [
+                                                    {
+                                                      "move": "b6",
+                                                      "count": 1,
+                                                      "children": [
+                                                        {
+                                                          "move": "cxd5",
+                                                          "count": 1,
+                                                          "children": [
+                                                            {
+                                                              "move": "exd5",
+                                                              "count": 1,
+                                                              "children": [
+                                                                {
+                                                                  "move": "Bb5",
+                                                                  "count": 1,
+                                                                  "children": []
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    },
+                                                    {
+                                                      "move": "c6",
+                                                      "count": 1,
+                                                      "children": [
+                                                        {
+                                                          "move": "Qc2",
+                                                          "count": 1,
+                                                          "children": [
+                                                            {
+                                                              "move": "Ne4",
+                                                              "count": 1,
+                                                              "children": []
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "move": "Bg4",
+              "count": 1,
+              "children": []
+            }
+          ]
+        },
+        {
+          "move": "e3",
+          "count": 1,
+          "children": [
+            {
+              "move": "c5",
+              "count": 1,
+              "children": [
+                {
+                  "move": "c4",
+                  "count": 1,
+                  "children": [
+                    {
+                      "move": "dxc4",
+                      "count": 1,
+                      "children": [
+                        {
+                          "move": "b3",
+                          "count": 1,
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "move": "Nf6",
+      "count": 11,
+      "children": [
+        {
+          "move": "g3",
+          "count": 7,
+          "children": [
+            {
+              "move": "g6",
+              "count": 4,
+              "children": [
+                {
+                  "move": "b4",
+                  "count": 1,
+                  "children": []
+                },
+                {
+                  "move": "Bg2",
+                  "count": 1,
+                  "children": [
+                    {
+                      "move": "Bg7",
+                      "count": 1,
+                      "children": [
+                        {
+                          "move": "O-O",
+                          "count": 1,
+                          "children": [
+                            {
+                              "move": "O-O",
+                              "count": 1,
+                              "children": [
+                                {
+                                  "move": "d3",
+                                  "count": 1,
+                                  "children": [
+                                    {
+                                      "move": "d5",
+                                      "count": 1,
+                                      "children": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "move": "b3",
+                  "count": 1,
+                  "children": [
+                    {
+                      "move": "Bg7",
+                      "count": 1,
+                      "children": [
+                        {
+                          "move": "Bb2",
+                          "count": 1,
+                          "children": [
+                            {
+                              "move": "O-O",
+                              "count": 1,
+                              "children": [
+                                {
+                                  "move": "Bg2",
+                                  "count": 1,
+                                  "children": [
+                                    {
+                                      "move": "d6",
+                                      "count": 1,
+                                      "children": [
+                                        {
+                                          "move": "O-O",
+                                          "count": 1,
+                                          "children": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "move": "d5",
+              "count": 2,
+              "children": [
+                {
+                  "move": "Bg2",
+                  "count": 1,
+                  "children": [
+                    {
+                      "move": "c6",
+                      "count": 1,
+                      "children": [
+                        {
+                          "move": "O-O",
+                          "count": 1,
+                          "children": [
+                            {
+                              "move": "Bg4",
+                              "count": 1,
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "move": "b5",
+              "count": 1,
+              "children": []
+            }
+          ]
+        },
+        {
+          "move": "c4",
+          "count": 2,
+          "children": [
+            {
+              "move": "c6",
+              "count": 2,
+              "children": [
+                {
+                  "move": "b3",
+                  "count": 2,
+                  "children": [
+                    {
+                      "move": "d5",
+                      "count": 2,
+                      "children": [
+                        {
+                          "move": "Bb2",
+                          "count": 2,
+                          "children": [
+                            {
+                              "move": "Bf5",
+                              "count": 1,
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "move": "Nc3",
+          "count": 1,
+          "children": [
+            {
+              "move": "Nc6",
+              "count": 1,
+              "children": []
+            }
+          ]
+        },
+        {
+          "move": "a4",
+          "count": 1,
+          "children": [
+            {
+              "move": "g6",
+              "count": 1,
+              "children": [
+                {
+                  "move": "b4",
+                  "count": 1,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "move": "c5",
+      "count": 5,
+      "children": [
+        {
+          "move": "c4",
+          "count": 3,
+          "children": [
+            {
+              "move": "g6",
+              "count": 3,
+              "children": [
+                {
+                  "move": "d4",
+                  "count": 3,
+                  "children": [
+                    {
+                      "move": "Bg7",
+                      "count": 3,
+                      "children": [
+                        {
+                          "move": "e4",
+                          "count": 3,
+                          "children": [
+                            {
+                              "move": "Qa5+",
+                              "count": 2,
+                              "children": [
+                                {
+                                  "move": "Nc3",
+                                  "count": 1,
+                                  "children": [
+                                    {
+                                      "move": "d6",
+                                      "count": 1,
+                                      "children": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "move": "Qb6",
+                              "count": 1,
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "move": "e3",
+          "count": 1,
+          "children": [
+            {
+              "move": "g6",
+              "count": 1,
+              "children": [
+                {
+                  "move": "d4",
+                  "count": 1,
+                  "children": [
+                    {
+                      "move": "Bg7",
+                      "count": 1,
+                      "children": [
+                        {
+                          "move": "dxc5",
+                          "count": 1,
+                          "children": [
+                            {
+                              "move": "Qa5+",
+                              "count": 1,
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "move": "d4",
+          "count": 1,
+          "children": [
+            {
+              "move": "cxd4",
+              "count": 1,
+              "children": [
+                {
+                  "move": "e3",
+                  "count": 1,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "move": "Na6",
+      "count": 2,
+      "children": [
+        {
+          "move": "e4",
+          "count": 2,
+          "children": [
+            {
+              "move": "c5",
+              "count": 1,
+              "children": []
+            },
+            {
+              "move": "Nh6",
+              "count": 1,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "move": "d6",
+      "count": 2,
+      "children": [
+        {
+          "move": "d4",
+          "count": 1,
+          "children": [
+            {
+              "move": "e5",
+              "count": 1,
+              "children": []
+            }
+          ]
+        },
+        {
+          "move": "e4",
+          "count": 1,
+          "children": [
+            {
+              "move": "Bg4",
+              "count": 1,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "move": "g6",
+      "count": 1,
+      "children": [
+        {
+          "move": "d4",
+          "count": 1,
+          "children": [
+            {
+              "move": "Bg7",
+              "count": 1,
+              "children": [
+                {
+                  "move": "e4",
+                  "count": 1,
+                  "children": [
+                    {
+                      "move": "d6",
+                      "count": 1,
+                      "children": [
+                        {
+                          "move": "c4",
+                          "count": 1,
+                          "children": [
+                            {
+                              "move": "c5",
+                              "count": 1,
+                              "children": [
+                                {
+                                  "move": "dxc5",
+                                  "count": 1,
+                                  "children": [
+                                    {
+                                      "move": "Qa5+",
+                                      "count": 1,
+                                      "children": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "move": "Nh6",
+      "count": 1,
+      "children": [
+        {
+          "move": "d4",
+          "count": 1,
+          "children": [
+            {
+              "move": "g6",
+              "count": 1,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "move": "f6",
+      "count": 1,
+      "children": [
+        {
+          "move": "e4",
+          "count": 1,
+          "children": [
+            {
+              "move": "Nh6",
+              "count": 1,
+              "children": [
+                {
+                  "move": "d4",
+                  "count": 1,
+                  "children": [
+                    {
+                      "move": "Nf7",
+                      "count": 1,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "move": "f5",
+      "count": 1,
+      "children": [
+        {
+          "move": "d3",
+          "count": 1,
+          "children": [
+            {
+              "move": "Nf6",
+              "count": 1,
+              "children": [
+                {
+                  "move": "e4",
+                  "count": 1,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "move": "e6",
+      "count": 1,
+      "children": [
+        {
+          "move": "c4",
+          "count": 1,
+          "children": [
+            {
+              "move": "a6",
+              "count": 1,
+              "children": [
+                {
+                  "move": "Nc3",
+                  "count": 1,
+                  "children": [
+                    {
+                      "move": "c5",
+                      "count": 1,
+                      "children": [
+                        {
+                          "move": "g3",
+                          "count": 1,
+                          "children": [
+                            {
+                              "move": "b5",
+                              "count": 1,
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "move": "e5",
+      "count": 1,
+      "children": [
+        {
+          "move": "Nxe5",
+          "count": 1,
+          "children": [
+            {
+              "move": "Nc6",
+              "count": 1,
+              "children": [
+                {
+                  "move": "Nxc6",
+                  "count": 1,
+                  "children": [
+                    {
+                      "move": "dxc6",
+                      "count": 1,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

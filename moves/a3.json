@@ -1,0 +1,142 @@
+{
+  "move": "a3",
+  "count": 4,
+  "children": [
+    {
+      "move": "e5",
+      "count": 2,
+      "children": [
+        {
+          "move": "b3",
+          "count": 1,
+          "children": [
+            {
+              "move": "d5",
+              "count": 1,
+              "children": [
+                {
+                  "move": "c3",
+                  "count": 1,
+                  "children": [
+                    {
+                      "move": "Nf6",
+                      "count": 1,
+                      "children": [
+                        {
+                          "move": "d3",
+                          "count": 1,
+                          "children": [
+                            {
+                              "move": "Nc6",
+                              "count": 1,
+                              "children": [
+                                {
+                                  "move": "e3",
+                                  "count": 1,
+                                  "children": [
+                                    {
+                                      "move": "Bd6",
+                                      "count": 1,
+                                      "children": [
+                                        {
+                                          "move": "f3",
+                                          "count": 1,
+                                          "children": [
+                                            {
+                                              "move": "O-O",
+                                              "count": 1,
+                                              "children": [
+                                                {
+                                                  "move": "g3",
+                                                  "count": 1,
+                                                  "children": []
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "move": "g3",
+          "count": 1,
+          "children": [
+            {
+              "move": "d5",
+              "count": 1,
+              "children": [
+                {
+                  "move": "Bg2",
+                  "count": 1,
+                  "children": [
+                    {
+                      "move": "Nf6",
+                      "count": 1,
+                      "children": [
+                        {
+                          "move": "d3",
+                          "count": 1,
+                          "children": [
+                            {
+                              "move": "Nc6",
+                              "count": 1,
+                              "children": [
+                                {
+                                  "move": "Nd2",
+                                  "count": 1,
+                                  "children": [
+                                    {
+                                      "move": "Bd6",
+                                      "count": 1,
+                                      "children": [
+                                        {
+                                          "move": "e3",
+                                          "count": 1,
+                                          "children": [
+                                            {
+                                              "move": "O-O",
+                                              "count": 1,
+                                              "children": [
+                                                {
+                                                  "move": "h3",
+                                                  "count": 1,
+                                                  "children": []
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

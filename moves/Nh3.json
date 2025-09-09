@@ -1,0 +1,65 @@
+{
+  "move": "Nh3",
+  "count": 4,
+  "children": [
+    {
+      "move": "d5",
+      "count": 2,
+      "children": [
+        {
+          "move": "g3",
+          "count": 2,
+          "children": [
+            {
+              "move": "e5",
+              "count": 2,
+              "children": [
+                {
+                  "move": "f4",
+                  "count": 2,
+                  "children": [
+                    {
+                      "move": "Bxh3",
+                      "count": 1,
+                      "children": [
+                        {
+                          "move": "Bxh3",
+                          "count": 1,
+                          "children": [
+                            {
+                              "move": "exf4",
+                              "count": 1,
+                              "children": [
+                                {
+                                  "move": "O-O",
+                                  "count": 1,
+                                  "children": [
+                                    {
+                                      "move": "fxg3",
+                                      "count": 1,
+                                      "children": [
+                                        {
+                                          "move": "hxg3",
+                                          "count": 1,
+                                          "children": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

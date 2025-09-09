@@ -1,0 +1,29 @@
+{
+  "move": "d3",
+  "count": 2,
+  "children": [
+    {
+      "move": "c5",
+      "count": 1,
+      "children": [
+        {
+          "move": "Nc3",
+          "count": 1,
+          "children": [
+            {
+              "move": "Nc6",
+              "count": 1,
+              "children": [
+                {
+                  "move": "g3",
+                  "count": 1,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

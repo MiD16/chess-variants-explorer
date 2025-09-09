@@ -1,0 +1,2260 @@
+{
+  "move": "c4",
+  "count": 266,
+  "children": [
+    {
+      "move": "e5",
+      "count": 50,
+      "children": [
+        {
+          "move": "Nc3",
+          "count": 44,
+          "children": [
+            {
+              "move": "Nf6",
+              "count": 29,
+              "children": [
+                {
+                  "move": "Nf3",
+                  "count": 19,
+                  "children": [
+                    {
+                      "move": "Nc6",
+                      "count": 16,
+                      "children": [
+                        {
+                          "move": "g3",
+                          "count": 7,
+                          "children": [
+                            {
+                              "move": "Bc5",
+                              "count": 4,
+                              "children": [
+                                {
+                                  "move": "d3",
+                                  "count": 4,
+                                  "children": [
+                                    {
+                                      "move": "d6",
+                                      "count": 4,
+                                      "children": [
+                                        {
+                                          "move": "Bg2",
+                                          "count": 4,
+                                          "children": [
+                                            {
+                                              "move": "O-O",
+                                              "count": 1,
+                                              "children": [
+                                                {
+                                                  "move": "O-O",
+                                                  "count": 1,
+                                                  "children": []
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "move": "a6",
+                                              "count": 1,
+                                              "children": []
+                                            },
+                                            {
+                                              "move": "h6",
+                                              "count": 1,
+                                              "children": []
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "move": "d5",
+                              "count": 2,
+                              "children": [
+                                {
+                                  "move": "cxd5",
+                                  "count": 2,
+                                  "children": [
+                                    {
+                                      "move": "Nxd5",
+                                      "count": 2,
+                                      "children": [
+                                        {
+                                          "move": "Bg2",
+                                          "count": 2,
+                                          "children": [
+                                            {
+                                              "move": "Bc5",
+                                              "count": 1,
+                                              "children": []
+                                            },
+                                            {
+                                              "move": "Nb6",
+                                              "count": 1,
+                                              "children": []
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "move": "e3",
+                          "count": 3,
+                          "children": [
+                            {
+                              "move": "Bb4",
+                              "count": 2,
+                              "children": [
+                                {
+                                  "move": "Qc2",
+                                  "count": 2,
+                                  "children": [
+                                    {
+                                      "move": "Bxc3",
+                                      "count": 1,
+                                      "children": []
+                                    },
+                                    {
+                                      "move": "O-O",
+                                      "count": 1,
+                                      "children": [
+                                        {
+                                          "move": "Nd5",
+                                          "count": 1,
+                                          "children": [
+                                            {
+                                              "move": "Re8",
+                                              "count": 1,
+                                              "children": [
+                                                {
+                                                  "move": "Qf5",
+                                                  "count": 1,
+                                                  "children": []
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "move": "d4",
+                          "count": 2,
+                          "children": [
+                            {
+                              "move": "exd4",
+                              "count": 1,
+                              "children": [
+                                {
+                                  "move": "Nxd4",
+                                  "count": 1,
+                                  "children": [
+                                    {
+                                      "move": "Bb4",
+                                      "count": 1,
+                                      "children": [
+                                        {
+                                          "move": "Bg5",
+                                          "count": 1,
+                                          "children": [
+                                            {
+                                              "move": "h6",
+                                              "count": 1,
+                                              "children": [
+                                                {
+                                                  "move": "Bh4",
+                                                  "count": 1,
+                                                  "children": [
+                                                    {
+                                                      "move": "Bxc3+",
+                                                      "count": 1,
+                                                      "children": [
+                                                        {
+                                                          "move": "bxc3",
+                                                          "count": 1,
+                                                          "children": [
+                                                            {
+                                                              "move": "Ne5",
+                                                              "count": 1,
+                                                              "children": []
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "move": "e4",
+                              "count": 1,
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "move": "e4",
+                          "count": 1,
+                          "children": []
+                        },
+                        {
+                          "move": "d3",
+                          "count": 1,
+                          "children": []
+                        },
+                        {
+                          "move": "a3",
+                          "count": 1,
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "move": "e4",
+                      "count": 3,
+                      "children": [
+                        {
+                          "move": "Ng5",
+                          "count": 3,
+                          "children": [
+                            {
+                              "move": "c6",
+                              "count": 1,
+                              "children": []
+                            },
+                            {
+                              "move": "b5",
+                              "count": 1,
+                              "children": []
+                            },
+                            {
+                              "move": "Ng4",
+                              "count": 1,
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "move": "g3",
+                  "count": 8,
+                  "children": [
+                    {
+                      "move": "Bb4",
+                      "count": 2,
+                      "children": [
+                        {
+                          "move": "Bg2",
+                          "count": 1,
+                          "children": [
+                            {
+                              "move": "O-O",
+                              "count": 1,
+                              "children": [
+                                {
+                                  "move": "Nf3",
+                                  "count": 1,
+                                  "children": [
+                                    {
+                                      "move": "Re8",
+                                      "count": 1,
+                                      "children": [
+                                        {
+                                          "move": "O-O",
+                                          "count": 1,
+                                          "children": [
+                                            {
+                                              "move": "e4",
+                                              "count": 1,
+                                              "children": [
+                                                {
+                                                  "move": "Nd4",
+                                                  "count": 1,
+                                                  "children": [
+                                                    {
+                                                      "move": "Nc6",
+                                                      "count": 1,
+                                                      "children": []
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "move": "d5",
+                      "count": 1,
+                      "children": []
+                    },
+                    {
+                      "move": "c6",
+                      "count": 1,
+                      "children": []
+                    },
+                    {
+                      "move": "Bc5",
+                      "count": 1,
+                      "children": [
+                        {
+                          "move": "Bg2",
+                          "count": 1,
+                          "children": [
+                            {
+                              "move": "c6",
+                              "count": 1,
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "move": "g6",
+                      "count": 1,
+                      "children": []
+                    },
+                    {
+                      "move": "Nc6",
+                      "count": 1,
+                      "children": [
+                        {
+                          "move": "Bg2",
+                          "count": 1,
+                          "children": [
+                            {
+                              "move": "d6",
+                              "count": 1,
+                              "children": [
+                                {
+                                  "move": "d3",
+                                  "count": 1,
+                                  "children": [
+                                    {
+                                      "move": "Be7",
+                                      "count": 1,
+                                      "children": [
+                                        {
+                                          "move": "Nf3",
+                                          "count": 1,
+                                          "children": [
+                                            {
+                                              "move": "O-O",
+                                              "count": 1,
+                                              "children": []
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "move": "f4",
+                  "count": 1,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "move": "Nc6",
+              "count": 11,
+              "children": [
+                {
+                  "move": "g3",
+                  "count": 9,
+                  "children": [
+                    {
+                      "move": "g6",
+                      "count": 8,
+                      "children": [
+                        {
+                          "move": "Bg2",
+                          "count": 7,
+                          "children": [
+                            {
+                              "move": "Bg7",
+                              "count": 7,
+                              "children": [
+                                {
+                                  "move": "d3",
+                                  "count": 3,
+                                  "children": [
+                                    {
+                                      "move": "d6",
+                                      "count": 2,
+                                      "children": [
+                                        {
+                                          "move": "e4",
+                                          "count": 1,
+                                          "children": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "move": "e3",
+                                  "count": 2,
+                                  "children": [
+                                    {
+                                      "move": "d6",
+                                      "count": 2,
+                                      "children": [
+                                        {
+                                          "move": "Nge2",
+                                          "count": 2,
+                                          "children": [
+                                            {
+                                              "move": "Nh6",
+                                              "count": 1,
+                                              "children": []
+                                            },
+                                            {
+                                              "move": "Be6",
+                                              "count": 1,
+                                              "children": []
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "move": "Rb1",
+                                  "count": 1,
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "move": "Rb1",
+                          "count": 1,
+                          "children": [
+                            {
+                              "move": "Nh6",
+                              "count": 1,
+                              "children": [
+                                {
+                                  "move": "Bg2",
+                                  "count": 1,
+                                  "children": [
+                                    {
+                                      "move": "Bg7",
+                                      "count": 1,
+                                      "children": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "move": "d6",
+                      "count": 1,
+                      "children": [
+                        {
+                          "move": "Bg2",
+                          "count": 1,
+                          "children": [
+                            {
+                              "move": "Be6",
+                              "count": 1,
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "move": "Nf3",
+                  "count": 1,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "move": "d6",
+              "count": 3,
+              "children": [
+                {
+                  "move": "Nf3",
+                  "count": 2,
+                  "children": [
+                    {
+                      "move": "Bg4",
+                      "count": 1,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "move": "g3",
+                  "count": 1,
+                  "children": [
+                    {
+                      "move": "c6",
+                      "count": 1,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "move": "Bb4",
+              "count": 1,
+              "children": []
+            }
+          ]
+        },
+        {
+          "move": "g3",
+          "count": 4,
+          "children": [
+            {
+              "move": "Nf6",
+              "count": 3,
+              "children": [
+                {
+                  "move": "Bg2",
+                  "count": 3,
+                  "children": [
+                    {
+                      "move": "d5",
+                      "count": 3,
+                      "children": [
+                        {
+                          "move": "cxd5",
+                          "count": 3,
+                          "children": [
+                            {
+                              "move": "Nxd5",
+                              "count": 3,
+                              "children": [
+                                {
+                                  "move": "Nf3",
+                                  "count": 3,
+                                  "children": [
+                                    {
+                                      "move": "Nc6",
+                                      "count": 3,
+                                      "children": [
+                                        {
+                                          "move": "d3",
+                                          "count": 2,
+                                          "children": [
+                                            {
+                                              "move": "Be7",
+                                              "count": 1,
+                                              "children": [
+                                                {
+                                                  "move": "O-O",
+                                                  "count": 1,
+                                                  "children": [
+                                                    {
+                                                      "move": "O-O",
+                                                      "count": 1,
+                                                      "children": []
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "move": "h5",
+              "count": 1,
+              "children": []
+            }
+          ]
+        },
+        {
+          "move": "e3",
+          "count": 1,
+          "children": [
+            {
+              "move": "Nf6",
+              "count": 1,
+              "children": [
+                {
+                  "move": "f4",
+                  "count": 1,
+                  "children": [
+                    {
+                      "move": "exf4",
+                      "count": 1,
+                      "children": [
+                        {
+                          "move": "Nf3",
+                          "count": 1,
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "move": "Nf3",
+          "count": 1,
+          "children": [
+            {
+              "move": "e4",
+              "count": 1,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "move": "e6",
+      "count": 30,
+      "children": [
+        {
+          "move": "Nf3",
+          "count": 19,
+          "children": [
+            {
+              "move": "d5",
+              "count": 10,
+              "children": [
+                {
+                  "move": "g3",
+                  "count": 9,
+                  "children": [
+                    {
+                      "move": "Nf6",
+                      "count": 6,
+                      "children": [
+                        {
+                          "move": "Bg2",
+                          "count": 5,
+                          "children": [
+                            {
+                              "move": "Be7",
+                              "count": 3,
+                              "children": [
+                                {
+                                  "move": "O-O",
+                                  "count": 2,
+                                  "children": [
+                                    {
+                                      "move": "c5",
+                                      "count": 1,
+                                      "children": [
+                                        {
+                                          "move": "cxd5",
+                                          "count": 1,
+                                          "children": [
+                                            {
+                                              "move": "Nxd5",
+                                              "count": 1,
+                                              "children": [
+                                                {
+                                                  "move": "Nc3",
+                                                  "count": 1,
+                                                  "children": [
+                                                    {
+                                                      "move": "Nc6",
+                                                      "count": 1,
+                                                      "children": []
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "move": "Bd6",
+                              "count": 1,
+                              "children": []
+                            },
+                            {
+                              "move": "c5",
+                              "count": 1,
+                              "children": [
+                                {
+                                  "move": "b3",
+                                  "count": 1,
+                                  "children": [
+                                    {
+                                      "move": "Nc6",
+                                      "count": 1,
+                                      "children": [
+                                        {
+                                          "move": "O-O",
+                                          "count": 1,
+                                          "children": [
+                                            {
+                                              "move": "Be7",
+                                              "count": 1,
+                                              "children": []
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "move": "b6",
+                      "count": 1,
+                      "children": [
+                        {
+                          "move": "Bg2",
+                          "count": 1,
+                          "children": [
+                            {
+                              "move": "Bb7",
+                              "count": 1,
+                              "children": [
+                                {
+                                  "move": "O-O",
+                                  "count": 1,
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "move": "c5",
+                      "count": 1,
+                      "children": []
+                    },
+                    {
+                      "move": "c6",
+                      "count": 1,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "move": "Nf6",
+              "count": 8,
+              "children": [
+                {
+                  "move": "g3",
+                  "count": 4,
+                  "children": [
+                    {
+                      "move": "d5",
+                      "count": 2,
+                      "children": [
+                        {
+                          "move": "Bg2",
+                          "count": 2,
+                          "children": [
+                            {
+                              "move": "dxc4",
+                              "count": 1,
+                              "children": []
+                            },
+                            {
+                              "move": "c6",
+                              "count": 1,
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "move": "b6",
+                      "count": 1,
+                      "children": [
+                        {
+                          "move": "Bg2",
+                          "count": 1,
+                          "children": [
+                            {
+                              "move": "Bb7",
+                              "count": 1,
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "move": "a6",
+                      "count": 1,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "move": "Nc3",
+                  "count": 3,
+                  "children": [
+                    {
+                      "move": "c5",
+                      "count": 3,
+                      "children": [
+                        {
+                          "move": "d4",
+                          "count": 2,
+                          "children": [
+                            {
+                              "move": "Nc6",
+                              "count": 1,
+                              "children": [
+                                {
+                                  "move": "g3",
+                                  "count": 1,
+                                  "children": [
+                                    {
+                                      "move": "cxd4",
+                                      "count": 1,
+                                      "children": [
+                                        {
+                                          "move": "Nxd4",
+                                          "count": 1,
+                                          "children": [
+                                            {
+                                              "move": "Qb6",
+                                              "count": 1,
+                                              "children": []
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "move": "cxd4",
+                              "count": 1,
+                              "children": [
+                                {
+                                  "move": "Nxd4",
+                                  "count": 1,
+                                  "children": [
+                                    {
+                                      "move": "Nc6",
+                                      "count": 1,
+                                      "children": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "move": "g3",
+                          "count": 1,
+                          "children": [
+                            {
+                              "move": "b6",
+                              "count": 1,
+                              "children": [
+                                {
+                                  "move": "Bg2",
+                                  "count": 1,
+                                  "children": [
+                                    {
+                                      "move": "Bb7",
+                                      "count": 1,
+                                      "children": [
+                                        {
+                                          "move": "O-O",
+                                          "count": 1,
+                                          "children": [
+                                            {
+                                              "move": "Be7",
+                                              "count": 1,
+                                              "children": []
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "move": "b3",
+                  "count": 1,
+                  "children": [
+                    {
+                      "move": "d5",
+                      "count": 1,
+                      "children": [
+                        {
+                          "move": "Bb2",
+                          "count": 1,
+                          "children": [
+                            {
+                              "move": "c5",
+                              "count": 1,
+                              "children": [
+                                {
+                                  "move": "e3",
+                                  "count": 1,
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "move": "c5",
+              "count": 1,
+              "children": [
+                {
+                  "move": "Nc3",
+                  "count": 1,
+                  "children": [
+                    {
+                      "move": "Nf6",
+                      "count": 1,
+                      "children": [
+                        {
+                          "move": "g3",
+                          "count": 1,
+                          "children": [
+                            {
+                              "move": "b6",
+                              "count": 1,
+                              "children": [
+                                {
+                                  "move": "Bg2",
+                                  "count": 1,
+                                  "children": [
+                                    {
+                                      "move": "Bb7",
+                                      "count": 1,
+                                      "children": [
+                                        {
+                                          "move": "O-O",
+                                          "count": 1,
+                                          "children": [
+                                            {
+                                              "move": "Be7",
+                                              "count": 1,
+                                              "children": [
+                                                {
+                                                  "move": "d4",
+                                                  "count": 1,
+                                                  "children": [
+                                                    {
+                                                      "move": "cxd4",
+                                                      "count": 1,
+                                                      "children": [
+                                                        {
+                                                          "move": "Qxd4",
+                                                          "count": 1,
+                                                          "children": [
+                                                            {
+                                                              "move": "d6",
+                                                              "count": 1,
+                                                              "children": [
+                                                                {
+                                                                  "move": "Rd1",
+                                                                  "count": 1,
+                                                                  "children": [
+                                                                    {
+                                                                      "move": "a6",
+                                                                      "count": 1,
+                                                                      "children": [
+                                                                        {
+                                                                          "move": "b3",
+                                                                          "count": 1,
+                                                                          "children": [
+                                                                            {
+                                                                              "move": "Nbd7",
+                                                                              "count": 1,
+                                                                              "children": []
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "move": "Nc3",
+          "count": 8,
+          "children": [
+            {
+              "move": "Nf6",
+              "count": 8,
+              "children": [
+                {
+                  "move": "e4",
+                  "count": 5,
+                  "children": [
+                    {
+                      "move": "c5",
+                      "count": 2,
+                      "children": [
+                        {
+                          "move": "e5",
+                          "count": 1,
+                          "children": [
+                            {
+                              "move": "Ng8",
+                              "count": 1,
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "move": "Nc6",
+                      "count": 1,
+                      "children": []
+                    },
+                    {
+                      "move": "d5",
+                      "count": 1,
+                      "children": [
+                        {
+                          "move": "e5",
+                          "count": 1,
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "move": "Nf3",
+                  "count": 3,
+                  "children": [
+                    {
+                      "move": "b6",
+                      "count": 2,
+                      "children": [
+                        {
+                          "move": "e4",
+                          "count": 1,
+                          "children": [
+                            {
+                              "move": "Bb7",
+                              "count": 1,
+                              "children": [
+                                {
+                                  "move": "Bd3",
+                                  "count": 1,
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "move": "Bb4",
+                      "count": 1,
+                      "children": [
+                        {
+                          "move": "g4",
+                          "count": 1,
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "move": "d4",
+          "count": 3,
+          "children": [
+            {
+              "move": "b6",
+              "count": 2,
+              "children": [
+                {
+                  "move": "Nc3",
+                  "count": 2,
+                  "children": [
+                    {
+                      "move": "Bb7",
+                      "count": 2,
+                      "children": [
+                        {
+                          "move": "e4",
+                          "count": 2,
+                          "children": [
+                            {
+                              "move": "f5",
+                              "count": 2,
+                              "children": [
+                                {
+                                  "move": "exf5",
+                                  "count": 1,
+                                  "children": [
+                                    {
+                                      "move": "Nf6",
+                                      "count": 1,
+                                      "children": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "move": "d5",
+                                  "count": 1,
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "move": "c5",
+              "count": 1,
+              "children": [
+                {
+                  "move": "Nf3",
+                  "count": 1,
+                  "children": [
+                    {
+                      "move": "cxd4",
+                      "count": 1,
+                      "children": [
+                        {
+                          "move": "Nxd4",
+                          "count": 1,
+                          "children": [
+                            {
+                              "move": "Nf6",
+                              "count": 1,
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "move": "Nf6",
+      "count": 29,
+      "children": [
+        {
+          "move": "Nf3",
+          "count": 14,
+          "children": [
+            {
+              "move": "g6",
+              "count": 5,
+              "children": [
+                {
+                  "move": "g3",
+                  "count": 4,
+                  "children": [
+                    {
+                      "move": "d5",
+                      "count": 1,
+                      "children": []
+                    },
+                    {
+                      "move": "b6",
+                      "count": 1,
+                      "children": [
+                        {
+                          "move": "Bg2",
+                          "count": 1,
+                          "children": [
+                            {
+                              "move": "Bb7",
+                              "count": 1,
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "move": "c6",
+                      "count": 1,
+                      "children": []
+                    },
+                    {
+                      "move": "Bg7",
+                      "count": 1,
+                      "children": [
+                        {
+                          "move": "Bg2",
+                          "count": 1,
+                          "children": [
+                            {
+                              "move": "O-O",
+                              "count": 1,
+                              "children": [
+                                {
+                                  "move": "O-O",
+                                  "count": 1,
+                                  "children": [
+                                    {
+                                      "move": "c5",
+                                      "count": 1,
+                                      "children": [
+                                        {
+                                          "move": "Nc3",
+                                          "count": 1,
+                                          "children": [
+                                            {
+                                              "move": "Nc6",
+                                              "count": 1,
+                                              "children": [
+                                                {
+                                                  "move": "d3",
+                                                  "count": 1,
+                                                  "children": []
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "move": "c5",
+              "count": 3,
+              "children": [
+                {
+                  "move": "Nc3",
+                  "count": 3,
+                  "children": [
+                    {
+                      "move": "Nc6",
+                      "count": 3,
+                      "children": [
+                        {
+                          "move": "g3",
+                          "count": 2,
+                          "children": [
+                            {
+                              "move": "g6",
+                              "count": 2,
+                              "children": [
+                                {
+                                  "move": "Bg2",
+                                  "count": 2,
+                                  "children": [
+                                    {
+                                      "move": "Bg7",
+                                      "count": 2,
+                                      "children": [
+                                        {
+                                          "move": "O-O",
+                                          "count": 1,
+                                          "children": [
+                                            {
+                                              "move": "O-O",
+                                              "count": 1,
+                                              "children": [
+                                                {
+                                                  "move": "d4",
+                                                  "count": 1,
+                                                  "children": []
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "move": "d5",
+              "count": 2,
+              "children": [
+                {
+                  "move": "cxd5",
+                  "count": 1,
+                  "children": [
+                    {
+                      "move": "Nxd5",
+                      "count": 1,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "move": "c6",
+              "count": 1,
+              "children": [
+                {
+                  "move": "b3",
+                  "count": 1,
+                  "children": [
+                    {
+                      "move": "d5",
+                      "count": 1,
+                      "children": [
+                        {
+                          "move": "Bb2",
+                          "count": 1,
+                          "children": [
+                            {
+                              "move": "Bg4",
+                              "count": 1,
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "move": "e6",
+              "count": 1,
+              "children": [
+                {
+                  "move": "g3",
+                  "count": 1,
+                  "children": [
+                    {
+                      "move": "a6",
+                      "count": 1,
+                      "children": [
+                        {
+                          "move": "Bg2",
+                          "count": 1,
+                          "children": [
+                            {
+                              "move": "b5",
+                              "count": 1,
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "move": "d6",
+              "count": 1,
+              "children": []
+            },
+            {
+              "move": "b6",
+              "count": 1,
+              "children": []
+            }
+          ]
+        },
+        {
+          "move": "Nc3",
+          "count": 12,
+          "children": [
+            {
+              "move": "d5",
+              "count": 7,
+              "children": [
+                {
+                  "move": "cxd5",
+                  "count": 6,
+                  "children": [
+                    {
+                      "move": "Nxd5",
+                      "count": 6,
+                      "children": [
+                        {
+                          "move": "Nf3",
+                          "count": 4,
+                          "children": [
+                            {
+                              "move": "g6",
+                              "count": 2,
+                              "children": [
+                                {
+                                  "move": "g3",
+                                  "count": 1,
+                                  "children": [
+                                    {
+                                      "move": "Bg7",
+                                      "count": 1,
+                                      "children": [
+                                        {
+                                          "move": "Bg2",
+                                          "count": 1,
+                                          "children": [
+                                            {
+                                              "move": "e5",
+                                              "count": 1,
+                                              "children": []
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "move": "c5",
+                              "count": 1,
+                              "children": [
+                                {
+                                  "move": "e3",
+                                  "count": 1,
+                                  "children": [
+                                    {
+                                      "move": "e6",
+                                      "count": 1,
+                                      "children": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "move": "g3",
+                          "count": 2,
+                          "children": [
+                            {
+                              "move": "g6",
+                              "count": 2,
+                              "children": [
+                                {
+                                  "move": "Bg2",
+                                  "count": 2,
+                                  "children": [
+                                    {
+                                      "move": "Nb6",
+                                      "count": 1,
+                                      "children": []
+                                    },
+                                    {
+                                      "move": "Nxc3",
+                                      "count": 1,
+                                      "children": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "move": "e6",
+              "count": 2,
+              "children": [
+                {
+                  "move": "Nf3",
+                  "count": 1,
+                  "children": [
+                    {
+                      "move": "Bb4",
+                      "count": 1,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "move": "c5",
+              "count": 2,
+              "children": [
+                {
+                  "move": "g3",
+                  "count": 2,
+                  "children": [
+                    {
+                      "move": "d5",
+                      "count": 1,
+                      "children": [
+                        {
+                          "move": "cxd5",
+                          "count": 1,
+                          "children": [
+                            {
+                              "move": "Nxd5",
+                              "count": 1,
+                              "children": [
+                                {
+                                  "move": "Bg2",
+                                  "count": 1,
+                                  "children": [
+                                    {
+                                      "move": "Nc7",
+                                      "count": 1,
+                                      "children": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "move": "g6",
+              "count": 1,
+              "children": [
+                {
+                  "move": "Nf3",
+                  "count": 1,
+                  "children": [
+                    {
+                      "move": "Bg7",
+                      "count": 1,
+                      "children": [
+                        {
+                          "move": "e4",
+                          "count": 1,
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "move": "g3",
+          "count": 2,
+          "children": [
+            {
+              "move": "c6",
+              "count": 2,
+              "children": [
+                {
+                  "move": "Nf3",
+                  "count": 2,
+                  "children": [
+                    {
+                      "move": "d5",
+                      "count": 2,
+                      "children": [
+                        {
+                          "move": "b3",
+                          "count": 2,
+                          "children": [
+                            {
+                              "move": "Bf5",
+                              "count": 1,
+                              "children": []
+                            },
+                            {
+                              "move": "Bg4",
+                              "count": 1,
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "move": "d4",
+          "count": 1,
+          "children": [
+            {
+              "move": "c5",
+              "count": 1,
+              "children": [
+                {
+                  "move": "Nf3",
+                  "count": 1,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "move": "c5",
+      "count": 14,
+      "children": [
+        {
+          "move": "Nc3",
+          "count": 8,
+          "children": [
+            {
+              "move": "Nc6",
+              "count": 6,
+              "children": [
+                {
+                  "move": "g3",
+                  "count": 5,
+                  "children": [
+                    {
+                      "move": "g6",
+                      "count": 4,
+                      "children": [
+                        {
+                          "move": "Bg2",
+                          "count": 4,
+                          "children": [
+                            {
+                              "move": "Bg7",
+                              "count": 4,
+                              "children": [
+                                {
+                                  "move": "Nf3",
+                                  "count": 3,
+                                  "children": [
+                                    {
+                                      "move": "e5",
+                                      "count": 1,
+                                      "children": []
+                                    },
+                                    {
+                                      "move": "Nf6",
+                                      "count": 1,
+                                      "children": [
+                                        {
+                                          "move": "O-O",
+                                          "count": 1,
+                                          "children": [
+                                            {
+                                              "move": "O-O",
+                                              "count": 1,
+                                              "children": [
+                                                {
+                                                  "move": "b3",
+                                                  "count": 1,
+                                                  "children": []
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "move": "e3",
+                                  "count": 1,
+                                  "children": [
+                                    {
+                                      "move": "e5",
+                                      "count": 1,
+                                      "children": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "move": "Nf6",
+              "count": 2,
+              "children": [
+                {
+                  "move": "Nf3",
+                  "count": 2,
+                  "children": [
+                    {
+                      "move": "e5",
+                      "count": 1,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "move": "Nf3",
+          "count": 4,
+          "children": [
+            {
+              "move": "Nf6",
+              "count": 4,
+              "children": [
+                {
+                  "move": "Nc3",
+                  "count": 3,
+                  "children": [
+                    {
+                      "move": "Nc6",
+                      "count": 2,
+                      "children": [
+                        {
+                          "move": "g3",
+                          "count": 2,
+                          "children": [
+                            {
+                              "move": "d5",
+                              "count": 2,
+                              "children": [
+                                {
+                                  "move": "d4",
+                                  "count": 2,
+                                  "children": [
+                                    {
+                                      "move": "cxd4",
+                                      "count": 1,
+                                      "children": []
+                                    },
+                                    {
+                                      "move": "e6",
+                                      "count": 1,
+                                      "children": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "move": "d5",
+                      "count": 1,
+                      "children": [
+                        {
+                          "move": "cxd5",
+                          "count": 1,
+                          "children": [
+                            {
+                              "move": "Nxd5",
+                              "count": 1,
+                              "children": [
+                                {
+                                  "move": "g3",
+                                  "count": 1,
+                                  "children": [
+                                    {
+                                      "move": "Nc6",
+                                      "count": 1,
+                                      "children": [
+                                        {
+                                          "move": "Bg2",
+                                          "count": 1,
+                                          "children": [
+                                            {
+                                              "move": "Nc7",
+                                              "count": 1,
+                                              "children": []
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "move": "b4",
+                  "count": 1,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "move": "e4",
+          "count": 1,
+          "children": [
+            {
+              "move": "Nc6",
+              "count": 1,
+              "children": [
+                {
+                  "move": "Nc3",
+                  "count": 1,
+                  "children": [
+                    {
+                      "move": "g6",
+                      "count": 1,
+                      "children": [
+                        {
+                          "move": "g3",
+                          "count": 1,
+                          "children": [
+                            {
+                              "move": "Bg7",
+                              "count": 1,
+                              "children": [
+                                {
+                                  "move": "Bg2",
+                                  "count": 1,
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "move": "g3",
+          "count": 1,
+          "children": [
+            {
+              "move": "g6",
+              "count": 1,
+              "children": [
+                {
+                  "move": "Bg2",
+                  "count": 1,
+                  "children": [
+                    {
+                      "move": "Bg7",
+                      "count": 1,
+                      "children": [
+                        {
+                          "move": "Nc3",
+                          "count": 1,
+                          "children": [
+                            {
+                              "move": "Nc6",
+                              "count": 1,
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "move": "f5",
+      "count": 3,
+      "children": [
+        {
+          "move": "Nc3",
+          "count": 2,
+          "children": [
+            {
+              "move": "Nf6",
+              "count": 2,
+              "children": [
+                {
+                  "move": "e4",
+                  "count": 2,
+                  "children": [
+                    {
+                      "move": "fxe4",
+                      "count": 1,
+                      "children": [
+                        {
+                          "move": "g4",
+                          "count": 1,
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "move": "Nf3",
+          "count": 1,
+          "children": [
+            {
+              "move": "d6",
+              "count": 1,
+              "children": [
+                {
+                  "move": "e4",
+                  "count": 1,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "move": "d5",
+      "count": 3,
+      "children": [
+        {
+          "move": "cxd5",
+          "count": 3,
+          "children": [
+            {
+              "move": "e6",
+              "count": 1,
+              "children": []
+            },
+            {
+              "move": "Qxd5",
+              "count": 1,
+              "children": [
+                {
+                  "move": "Nc3",
+                  "count": 1,
+                  "children": [
+                    {
+                      "move": "Qa5",
+                      "count": 1,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "move": "Nf6",
+              "count": 1,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "move": "g6",
+      "count": 2,
+      "children": [
+        {
+          "move": "e4",
+          "count": 1,
+          "children": [
+            {
+              "move": "e5",
+              "count": 1,
+              "children": []
+            }
+          ]
+        },
+        {
+          "move": "Nc3",
+          "count": 1,
+          "children": [
+            {
+              "move": "Bg7",
+              "count": 1,
+              "children": [
+                {
+                  "move": "g3",
+                  "count": 1,
+                  "children": [
+                    {
+                      "move": "Nf6",
+                      "count": 1,
+                      "children": [
+                        {
+                          "move": "Bg2",
+                          "count": 1,
+                          "children": [
+                            {
+                              "move": "O-O",
+                              "count": 1,
+                              "children": [
+                                {
+                                  "move": "e4",
+                                  "count": 1,
+                                  "children": [
+                                    {
+                                      "move": "d6",
+                                      "count": 1,
+                                      "children": [
+                                        {
+                                          "move": "Nge2",
+                                          "count": 1,
+                                          "children": [
+                                            {
+                                              "move": "e5",
+                                              "count": 1,
+                                              "children": [
+                                                {
+                                                  "move": "O-O",
+                                                  "count": 1,
+                                                  "children": [
+                                                    {
+                                                      "move": "c6",
+                                                      "count": 1,
+                                                      "children": [
+                                                        {
+                                                          "move": "d3",
+                                                          "count": 1,
+                                                          "children": [
+                                                            {
+                                                              "move": "a6",
+                                                              "count": 1,
+                                                              "children": []
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "move": "g5",
+      "count": 2,
+      "children": [
+        {
+          "move": "d4",
+          "count": 2,
+          "children": [
+            {
+              "move": "Bg7",
+              "count": 1,
+              "children": []
+            },
+            {
+              "move": "e5",
+              "count": 1,
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
